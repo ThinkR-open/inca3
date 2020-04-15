@@ -1,0 +1,304 @@
+---
+title: "Présentation données inca3"
+author: "Vincent Guyader"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2:
+    base_format: rmarkdown::html_vignette
+    css: thinkr.css
+    includes:
+      in_header: header_hide.html
+vignette: >
+  %\VignetteIndexEntry{Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+<script type="text/javascript">
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "hide");
+});
+</script>
+
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(dplyr)
+library(inca3)
+```
+
+
+# Présentation
+
+> La 3ème étude Individuelle Nationale des Consommations Alimentaires (INCA3) est une enquête transversale visant à estimer les consommations alimentaires et les comportements en matière d’alimentation des individus vivant en France. L’étude a été menée entre février 2014 et septembre 2015 auprès d’un échantillon représentatif d’individus vivant en France métropolitaine (hors Corse). Au total, 5 855 individus, répartis en 2 698 enfants de la naissance à 17 ans et 3 157 adultes âgés de 18 à 79 ans ont participé à l’étude.
+Les individus ont été sélectionnés selon un plan de sondage aléatoire à trois degrés (unités géographiques, logements puis individus), à partir du recensement annuel de la population de 2011, en respectant une stratification géographique (région, taille d’agglomération) afin d’assurer la représentativité sur l’ensemble du territoire. Deux échantillons indépendants ont été constitués : un échantillon « Enfants » (0-17 ans) et un échantillon « Adultes » (18-79 ans).
+Les données recueillies dans l’étude portent sur diverses thématiques en lien avec l’évaluation des risques nutritionnels ou sanitaires liés à l’alimentation : consommations d’aliments, de boissons et de compléments alimentaires, habitudes alimentaires (occasions et lieux de consommation, autoconsommation, mode de production des aliments, etc.), pratiques potentiellement à risque au niveau sanitaire (préparation, conservation, consommation de denrées animales crues, etc.), connaissances et comportements en matière d’alimentation. Des données sur les pratiques d’activité physique et de niveau de sédentarité ainsi que sur les caractéristiques socio-démographiques, anthropométriques et de niveau de vie ont également été recueillies.
+Afin d’assurer la représentativité nationale des résultats présentés, les individus/ménages participants ont fait l’objet d’un redressement.
+Pour les analyses au niveau individuel :
+Ce redressement a été réalisé séparément chez les enfants et chez les adultes en tenant compte de variables géographiques et socio-économiques.
+Pour les analyses au niveau ménage :
+Ce redressement a été réalisé chez l’ensemble des ménages en tenant compte de variables géographiques et socio-économiques.
+A chaque individu/ménages est donc associée une pondération prise systématiquement en compte pour les analyses.
+Partie à adapter selon le type de données de l’étude mises en œuvre :
+Si utilisation des données de consommation :
+Les consommations alimentaires des individus ont été recueillies sur 3 jours non consécutifs (2 jours de semaine et 1 jour de week-end) répartis sur environ 3 semaines, par la méthode des rappels de 24 heures pour les individus âgés de 15 à 79 ans et par la méthode des enregistrements de 24h (via un carnet alimentaire) pour les individus âgés de 0 à 14 ans. Pour les 3 jours sélectionnés, les individus devaient décrire leurs consommations alimentaires en identifiant tous les aliments et boissons consommés dans la journée et la nuit précédentes. Ils devaient les décrire de façon aussi détaillée que possible et les quantifier à l’aide notamment d’un cahier de photographies de portions alimentaires et de mesures ménagères. Quel que soit l’âge, les interviews étaient conduites par téléphone, à l’aide du logiciel standardisé GloboDiet, par des enquêteurs professionnels spécifiquement formés aux méthodes mises en œuvre et à l’utilisation du logiciel. Parmi les 5 855 individus inclus dans l’étude, 4 114 (2 121 adultes et 1 993 enfants) ont validé le volet consommation en répondant à au moins 2 interviews alimentaires.
+
+
+
+
+
+
+L’étude INCA3 est une enquête transversale visant à estimer les consommations alimentaires et les comportements en matière d’alimentation (habitudes de consommation, pratiques d’achats, de préparation et de conservation des aliments) des individus vivant en France métropolitaine. L’étude a été menée entre février 2014 et septembre 2015 en 5 vagues d’enquête auprès de 5 855 individus de la naissance à 79 ans (2 698 enfants de 0 à 17 ans et 3 157 adultes de 18 à 79 ans)
+
+
+## Recueil des consommations alimentaires
+
+Le recueil des consommations alimentaires a été réalisé à l’aide de rappels de 24h (au moins 2) sur une courte période d’une part, et par un fréquentiel alimentaire permettant de recueillir les habitudes de consommation sur plus longue période d’autre part
+
+### Fréquentiel alimentaire (FPQ)
+
+Les consommations alimentaires des individus ont été recueillies sur 2 ou 3 jours non-consécutifs (2 jours desemaine et 1 jour de week-end la plupart du temps6) répartis sur 3 semaines minimum, par la méthode desrappels de 24h (R24) pour les individus âgés de 15 à 79 ans et par la méthode de l’enregistrement de 24h (E24) via un carnet alimentaire pour les individus âgés de 0 à 14 ans.
+Pour les 3 jours sélectionnés, les individus devaient décrire leurs consommations alimentaires en identifiant tous les aliments et boissons consommés dans les dernières 24h. Ils devaient les décrire de façon aussi détaillée que possible (cf. Thésaurus) et les quantifier, notamment à l’aide d’un cahier de photographies de portions alimentaires et de mesures ménagères. Quel que soit l’âge, les interviews étaient conduites par téléphone, à l’aide d’un logiciel standardisé GloboDiet (Centre International de Recherche sur le Cancer), par des enquêteurs professionnels spécifiquement formés à l’utilisation du logiciel
+
+## Recueil des informations complémentaires
+
+Parallèlement au recueil des consommations alimentaires, les participants devaient répondre à plusieurs autres questionnaires :
+
++ un questionnaire administré en face-à-face (FAF) ;
+
++ un questionnaire auto-administré (AA), composé d’un volet individuel (habitudes de l’individu tiré au
+sort) et d’un volet ménage (habitudes du ménage) ;
+
++ un questionnaire administré par téléphone (TEL) (uniquement pour les 11 à 79 ans).
+
+Les questionnaires étaient adaptés à chaque classe d’âge (0-35 mois, 3-10 ans, 11-14 ans, 15-17 ans et 18-
+79 ans). Les questionnaires individuels étaient remplis par le représentant de l’enfant, en présence de l’enfant,
+pour les enfants de 0 à 10 ans et par l’enfant lui-même, avec l’aide de son représentant si nécessaire, pour
+les enfants de 11 à 17 ans. A partir de 18 ans, ils étaient remplis par l’individu. Quel que soit l’âge de l’individu,
+le volet ménage du questionnaire AA était rempli par la (les) personne(s) en charge des achats alimentaires
+et de la préparation des repas dans le ménage.
+
+
+### Caractéristiques socio-économiques et niveau de vie
+
+Les caractéristiques socio-économiques de l’individu tiré au sort (ou de son représentant pour les enfants) et de la personne de référence du ménage10 ont été recueillies en FAF : composition du ménage, profession et catégorie socioprofessionnelle et niveau d’étude. Ce questionnaire intègre également un volet sur le niveau de vie du ménage (revenu total, perception de la situation financière) et un volet sur l’insécurité alimentaire.
+
+### Activité physique et sédentarité
+
+Le questionnaire sur l’activité physique et la sédentarité a été administré en FAF pour les enfants de 3 à 17 ans (pas de questionnaire pour les moins de 3 ans) et en auto-administré (AA) pour les adultes âgés de 18 à 79 ans. Il est spécifique à la classe d’âge considérée :
+
+  + questionnaire développé par Santé publique France (SpF) pour les enfants de 3 à 10 ans,
+    
+  + questionnaire adapté de l’étude Youth Risk Behavior Survey (YRBS)11 pour les adolescents de 11 à 17 ans (version de 2009),
+    
+  + version adaptée12 du questionnaire Recent Physical Activity Questionnaire (RPAQ)13 pour les adultes de 18 à 79 ans.
+    
+### Consommation de compléments alimentaires (CA)
+
+La définition des CA retenue dans l’étude ne correspond pas à la stricte définition réglementaire mais intègre aussi les médicaments sources de nutriments. La consommation de ces produits a été évaluée sur longue période à l’aide d’un questionnaire administré en FAF par l’enquêteur au moment de la visite à domicile. Le questionnaire portait sur les caractéristiques des 5 produits les plus consommés au cours de la période de référence (adaptée selon l’âge) : type de produit, forme de présentation, mode de consommation et quantité
+consommée.
+
+#### Etat de santé et régimes particuliers
+
+Des questions générales sur l’état de santé figurent dans le volet individuel du questionnaire AA : régimes alimentaires pour allergies alimentaires, pratiques en termes de régimes amaigrissants, statut tabagique. Par ailleurs, des questions spécifiques étaient posées aux femmes de plus de 15 ans sur leur statut vis-à-vis de la grossesse, l’allaitement et la ménopause.
+
+
+### Habitudes et pratiques alimentaires
+
+Des informations qualitatives ou semi-quantitatives sur certaines habitudes et pratiques en matière
+d’alimentation ont été recueillies à l’aide du questionnaire AA (volet individuel ou ménage selon les questions)
+sur :
+
+  + les **aspects sanitaires physico-chimiques** : consommation d’aliments issus de l’agriculture biologique, préparation des fruits et légumes (lavage, essuyage, etc.), autoconsommation et utilisation de produits phytosanitaires au potager, matériaux des ustensiles utilisés pour la cuisson,réchauffage des aliments ou boissons et cuisson au barbecue ;
+    
+  + les **aspects microbiologiques** : cueillette/pêche/chasse en milieu naturel, consommation de denrées animales crues et des croûtes de fromage, durées de conservation des aliments non-pré-emballés et des restes alimentaires, respect des dates limite de consommation (DLC), préparation des fruits et légumes (lavage, essuyage, etc.) ;
+  
+  + les **aspects comportementaux** : consommations hors-foyer, consommations entre les repas
+principaux, sources d’informations en alimentation, lecture des étiquettes et critères de choix des
+aliments, préférences alimentaires (enfants de 3-17 ans) ;
+
+  + les **spécificités de l’alimentation des enfants de 0 à 35 mois** : allaitement (exclusif ou partiel), type de laits consommés, recours aux aliments infantiles, diversification alimentaire, matériaux des biberons et des tétines, préparation, stockage et conservation des biberons de lait, stérilisation des biberons et tétines avant utilisation, mode de chauffage des laits et contenants utilisés.
+    
+  + les **habitudes en termes de présence de sel/beurre/sauce sur la table** au moment des repas.
+    
+  + le **traitement annexe de l’eau destinée aux usages alimentaires** : types d’eaux utilisées,traitements de l’eau du robinet au domicile et raisons du traitement de l’eau.
+    
+## Mesures et relevés lors de la visite à domicile
+
+### Mesures anthropométriques
+
+Le poids (en kg) et la taille (en cm) des individus ont été mesurés par l’enquêteur lors de la visite à domicile.
+En cas de refus, le participant était invité à déclarer son poids et/ou sa taille. Pour les enfants de moins de 3
+ans, les données sur le poids et la taille figurant dans le carnet de santé et datant de moins de 15 jours ont
+également été recueillies.
+  
+  + Le poids a été mesuré à l’aide d’un pèse-personne électronique précis à 0,1 kg près d’une portée maximale de 180 kg. Le poids des enfants de 0 à 24 mois était calculé par la différence entre le poids du représentant portant l’enfant et le poids du représentant seul. Les individus devaient être en tenue légère et sans chaussures.
+
+  + La taille des participants a été mesurée au centimètre près, à l’aide d’un mètre ruban et d’une équerre en suivant les recommandations de l’OMS. Les individus de 25 mois à 79 ans étaient mesurés debout et sans chaussures. Les enfants de la naissance à 24 mois étaient mesurés en position allongée les jambes bien à plat.
+
+
+## Participation et effectifs
+
+Afin de garantir une exploitation correcte des données de l’étude INCA3, une procédure de redressement a été mise en œuvre. Compte tenu des différentes étapes de l’étude et de la multitude des questionnaires posés, trois niveaux de participation ont été définis afin de garder le plus grand nombre d’individus selon le volet de questionnaire étudié (Tableau 1 et Figure 2) :
+
+  + les « participants ETUDE » (POP1) sont ceux qui ont accepté de participer à l’étude et réalisé la visite à domicile, incluant la réponse au questionnaire FAF (socio-démographie, anthropométrie, consommation de CA, activité physique et sédentarité chez les 3-17 ans). Ces différents volets sont donc exploitables séparément du recueil des consommations alimentaires.
+  
+  + les « participants AA » (POP2) sont les individus ayant réalisé au minimum la visite à domicile et complété les deux volets (individuel et ménage) du questionnaire AA, quel que soit le nombre d’interviews alimentaires réalisées. Ces différents volets de questionnaires sont donc exploitables séparément du recueil des consommations alimentaires.
+ 
+  + les « participants CONS  + » (POP3) sont les individus ayant au minimum réalisé la visite à domicile, complété le volet individuel du questionnaire AA (dont le FPQ) et répondu à au moins 2 interviews alimentaires conformément aux exigences de l’EFSA
+
+
+
+
+
+
+
+
+
+# les différentes bases disponibles 
+
+
+Lorsqu’on souhaite travailler sur un volet de questionnaire donné, il faut partir de la table correspondante  et l’apparier avec la table DESCRIPTION_INDIV pour récupérer toutes les variables individuelles souhaitées ainsi que les bonnes variables de pondération. La variable POPULATION de la table initiale permet de savoir quelle pondération doit être utilisée.
+
+
+```{r}
+data(package="inca3")$results[,"Item"]
+```
+
+## description_indiv_decode
+
+
+> Cette table contient les données des questionnaires face-à-face relatifs aux volets « Socio-économique » et « Mesures anthropométriques » et des données des questionnaires auto-administrés relatifs aux volets « Etat de santé » et « Tabagisme ». Elle inclut également les différentes variables de pondération, les variables nécessaires à la déclaration du plan de sondage complexe de l’étude ainsi que les variables relatives à la sous ou sur-déclaration en termes de consommations alimentaires.
+Elle regroupe les informations suivantes : caractéristiques socio-démographiques de l’individu (ou de son représentant dans le cas des enfants), caractéristiques socio-démographiques de la personne de référence du foyer, niveau de vie du foyer, insécurité alimentaire, caractéristiques anthropométriques (poids, taille, indice de masse corporelle, statut pondéral) ; statut vis-à-vis d’allergies ou d’intolérances alimentaires, types de régimes alimentaires, types d’allergies ou d’intolérances alimentaires, régimes et histoire pondérale, statut vis-à-vis de la grossesse, de l’allaitement et de la ménopause (uniquement pour les femmes de 15 ans et plus), statut tabagique ; indicateurs de sous ou sur-déclaration en termes de consommations alimentaires
+
+
+```{r}
+liaison_format %>%
+  filter(VARIABLE %in% names(description_indiv_decode)) %>%
+  select(-TYPE,-FORMAT) %>%  
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(description_indiv_decode) %>% DT::datatable()
+```
+
+
+## habitudes_indiv_decode
+
+
+> Cette table contient les données des questionnaires auto-administrés relatifs aux volets « Habitudes alimentaires » et « Origine des aliments ». Elle regroupe les informations suivantes : lieux et occasions de consommation, consommations hors-foyer et entre les repas, préférences alimentaires, présence de sel/beurre/sauce sur la table au moment des repas, lecture des étiquettes, sources d’informations en alimentation, consommation de denrées animales crues et des croûtes de fromage, préparation des fruits et légumes crus, spécificités de l’alimentation des enfants de 0 à 35 mois (ex : allaitement (exclusif ou partiel), type de laits consommés, diversification alimentaire, matériaux des biberons et des tétines, préparation, stockage et conservation des biberons de lait, mode de chauffage des laits et contenants utilisés), autoconsommation et utilisation de produits phytosanitaires au potager, consommation d’aliments issus de l’agriculture biologique et cuisson des aliments au barbecue.
+
+
+```{r}
+liaison_format %>% 
+  filter(VARIABLE %in% names(habitudes_indiv_decode)) %>%
+  select(-TYPE,-FORMAT) %>%
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(habitudes_indiv_decode) %>%
+  DT::datatable()
+```
+
+
+
+## habitudes_men_decode
+
+> Cette table contient les données des questionnaires auto-administrés relatifs aux volets « Préparation des aliments », « Conservations des aliments » et « Traitement de l’eau ».
+Elle regroupe les informations suivantes : préparation des fruits et légumes cuits, matériaux des ustensiles utilisés pour la cuisson et le réchauffage des aliments ou boissons, critères de choix des aliments, lieux d’achat des aliments, durées de conservation des aliments non-pré-emballés et des restes alimentaires, respect des dates limite de consommation (DLC), types d’eaux utilisées, traitements de l’eau du robinet au domicile et les raisons du traitement de l’eau
+
+
+```{r}
+liaison_format %>% filter(VARIABLE %in% names(habitudes_men_decode)) %>%
+  select(-TYPE,-FORMAT) %>%
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(habitudes_men_decode) %>%
+  DT::datatable()
+```
+
+## actphys_sedent_decode
+
+
+```{r}
+liaison_format %>%
+  filter(VARIABLE %in% names(actphys_sedent_decode)) %>%
+  select(-TYPE,-FORMAT) %>%
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(actphys_sedent_decode) %>%
+  DT::datatable()
+```
+
+
+> Cette table contient les données des questionnaires auto-administrés (pour les adultes 18-79 ans) et face-à-face (pour les enfants 3-17 ans) relatifs au volet « Sédentarité, activité physique et loisirs ». Il n’y a pas de données relatives à cette thématique pour les enfants de 0-35 mois.
+Elle regroupe les informations suivantes : mode de transport du trajet domicile-travail, temps passé devant les écrans (télévision, jeux vidéo, ordinateur) pendant la semaine et le week-end, pratique et fréquence d’une activité physique (y compris dans le cadre scolaire), type d’activité physique pratiquée, niveau d’activité physique, niveau de sédentarité et profils d’activité physique.
+
+
+## occasions
+
+> Cette table contient les données relatives aux journées et occasions de consommation recueillies par les 2 ou 3 jours de rappels de 24 heures pour les 4 114 individus
+de Pop3.
+Elle regroupe les informations suivantes : type de jour de consommation (ex : semaine vs week-end), prise ou non d’une occasion de consommation, type d’occasion
+de consommation et lieu de consommation
+
+
+Remarques :
+
++ Le logiciel prévoyait 10 types de repas/occasions différentes par jour. Afin de pouvoir calculer des fréquences de consommation des prises alimentaires, la table contient également les repas/occasions non pris(e)s. La variable « occ_ouinon » permet de dire si le repas/l’occasion a été pris ou non
+
++ Sur les 10 repas/occasions, 4 pouvaient être citées plusieurs fois pour une même journée (avant le petit-déjeuner, dans la matinée, dans l’après-midi, dans la soirée/nuit). Ces occasions peuvent donc apparaitre plusieurs fois dans une journée à des heures différentes et sur des lieux différents.
+
++ Le nombre total d’occasions de la table (131 097) est supérieur au nombre théorique (122 100), correspondant aux 12 210 journées de consommations * 10 occasions de consommation/jour) en raison des occasions qui peuvent être citées plusieurs fois.
+
++ Le nombre total de journées de consommations dans la table est de 12 210 (3 942 individus avec 3*R24 + 132 individus avec 2*R24). Cette base des journées de consommations (indépendamment des occasions) peut être obtenue en enlevant les doublons grâce à l’identifiant unique NOIND + R24_num
+
+```{r}
+liaison_format %>%
+  filter(VARIABLE %in% names(occasions_decode)) %>%
+  select(-TYPE,-FORMAT) %>%
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(occasions_decode) %>% DT::datatable()
+```
+
+
+## conso_compo_alim
+
+```{r}
+liaison_format %>%
+  filter(VARIABLE %in% names(conso_compo_alim)) %>%
+  select(-TYPE,-FORMAT) %>%
+  distinct() %>%
+  knitr::kable()
+```
+
+
+```{r}
+head(conso_compo_alim) %>%
+  DT::datatable()
+```

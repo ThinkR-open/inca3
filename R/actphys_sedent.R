@@ -1,0 +1,102 @@
+#' actphys_sedent
+#'
+#' Data inca3.
+#'
+#' @format A data frame with 4725 rows and 93 variables:
+#' \describe{
+#'   \item{ POPULATION }{  character }
+#'   \item{ NOIND }{  numeric }
+#'   \item{ transport_personnel }{  logical }
+#'   \item{ transport_ecole }{  numeric }
+#'   \item{ tv_score }{  logical }
+#'   \item{ tv_duree }{  numeric }
+#'   \item{ jvideo_score }{  logical }
+#'   \item{ jvideo_duree }{  numeric }
+#'   \item{ ordi_score }{  logical }
+#'   \item{ ordi_duree }{  numeric }
+#'   \item{ jeux_pleinair_nbjours }{  numeric }
+#'   \item{ enfant_actif }{  numeric }
+#'   \item{ eps_ouinon }{  numeric }
+#'   \item{ eps_nbjours }{  numeric }
+#'   \item{ eps_duree }{  numeric }
+#'   \item{ club_nbjours }{  numeric }
+#'   \item{ club_nb }{  numeric }
+#'   \item{ activite_musculation_nbjours }{  numeric }
+#'   \item{ activite_moderee_nbjours }{  numeric }
+#'   \item{ activite_intense_nbjours }{  numeric }
+#'   \item{ escalier_score }{  logical }
+#'   \item{ emploi_4sem }{  logical }
+#'   \item{ travail_freq_semaine }{  logical }
+#'   \item{ travail_duree }{  logical }
+#'   \item{ travail_score }{  logical }
+#'   \item{ transport_voiture_score }{  logical }
+#'   \item{ transport_public_score }{  logical }
+#'   \item{ transport_velo_score }{  logical }
+#'   \item{ transport_pied_score }{  logical }
+#'   \item{ transport_score }{  logical }
+#'   \item{ activite_balayer_score }{  logical }
+#'   \item{ activite_nettoyer_score }{  logical }
+#'   \item{ activite_aspirateur_score }{  logical }
+#'   \item{ activite_repasser_score }{  logical }
+#'   \item{ activite_vaisselle_score }{  logical }
+#'   \item{ activite_lessive_score }{  logical }
+#'   \item{ activite_jardiner_score }{  logical }
+#'   \item{ activite_tondre_score }{  logical }
+#'   \item{ activite_arroser_score }{  logical }
+#'   \item{ activite_becher_score }{  logical }
+#'   \item{ activite_bricoler_score }{  logical }
+#'   \item{ activite_marche_score }{  logical }
+#'   \item{ activite_piscine_score }{  logical }
+#'   \item{ activite_velo_score }{  logical }
+#'   \item{ activite_roller_score }{  logical }
+#'   \item{ activite_danse_salon_score }{  logical }
+#'   \item{ activite_bowling_score }{  logical }
+#'   \item{ activite_billard_score }{  logical }
+#'   \item{ activite_peche_score }{  logical }
+#'   \item{ activite_chasse_score }{  logical }
+#'   \item{ activite_loisirs_assis_score }{  logical }
+#'   \item{ activite_loisirs_debout_score }{  logical }
+#'   \item{ activite_randonnee_score }{  logical }
+#'   \item{ activite_jogging_score }{  logical }
+#'   \item{ activite_natation_score }{  logical }
+#'   \item{ activite_yoga_score }{  logical }
+#'   \item{ activite_rameur_score }{  logical }
+#'   \item{ activite_aerobic_score }{  logical }
+#'   \item{ activite_danse_moderne_score }{  logical }
+#'   \item{ activite_cyclisme_score }{  logical }
+#'   \item{ activite_tennis_score }{  logical }
+#'   \item{ activite_boxe_score }{  logical }
+#'   \item{ activite_escrime_score }{  logical }
+#'   \item{ activite_haltere_score }{  logical }
+#'   \item{ activite_athletisme_score }{  logical }
+#'   \item{ activite_ski_score }{  logical }
+#'   \item{ activite_voile_score }{  logical }
+#'   \item{ activite_canoe_score }{  logical }
+#'   \item{ activite_equitation_score }{  logical }
+#'   \item{ activite_golf_score }{  logical }
+#'   \item{ activite_tir_score }{  logical }
+#'   \item{ activite_moto_score }{  logical }
+#'   \item{ activite_musique_score }{  logical }
+#'   \item{ activite_ping_pong_score }{  logical }
+#'   \item{ activite_gym_score }{  logical }
+#'   \item{ activite_escalade_score }{  logical }
+#'   \item{ activite_alpinisme_score }{  logical }
+#'   \item{ activite_foot_score }{  logical }
+#'   \item{ activite_rugby_score }{  logical }
+#'   \item{ activite_basket_score }{  logical }
+#'   \item{ activite_hand_score }{  logical }
+#'   \item{ activite_volley_score }{  logical }
+#'   \item{ activite_hockey_score }{  logical }
+#'   \item{ activite_domloissport_duree }{  logical }
+#'   \item{ activite_domloissport_score }{  logical }
+#'   \item{ activite_moderee_score }{  logical }
+#'   \item{ activite_intense_score }{  logical }
+#'   \item{ activite_total_duree }{  logical }
+#'   \item{ activite_total_score }{  logical }
+#'   \item{ nap }{  numeric }
+#'   \item{ profil_activite }{  numeric }
+#'   \item{ sedentarite }{  numeric }
+#'   \item{ sedentarite_duree }{  logical }
+#' }
+#' @source Inca3
+"actphys_sedent"

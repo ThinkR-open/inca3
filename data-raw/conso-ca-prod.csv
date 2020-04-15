@@ -1,0 +1,2381 @@
+﻿POPULATION;NOIND;periode_reference;num_ligne_CA;num_prod;type_prod;classif_reg_prod;classif_prod;pres_prod;nb_unit_prod;mode_conso_prod;nb_jours_an
+Pop1 Individu;110300601;4;111;1;2;vitamines et minéraux;5;1;3;1;90
+Pop1 Individu;110600401;4;131;1;2;vitamines et minéraux;5;1;3;1;14
+Pop1 Individu;110601301;4;141;1;2;vitamines et minéraux;5;1;4;1;122
+Pop1 Individu;110601801;4;151;1;1;substances à but nutritionnels;6;4;4;2;365
+Pop1 Individu;110601801;4;152;2;1;vitamines et minéraux;5;1;4;2;365
+Pop1 Individu;110601801;4;153;3;1;vitamines et minéraux;1;2;1;2;365
+Pop1 Individu;110601801;4;154;4;1;vitamines et minéraux;1;4;1;2;365
+Pop1 Individu;110601801;4;155;5;2;vitamines et minéraux;1;14;15;2;365
+Pop1 Individu;110604501;4;201;1;1;mélange;10;4;1;2;365
+Pop1 Individu;110604901;4;211;1;1;plantes et produits naturels;9;7;2;2;365
+Pop1 Individu;110604901;4;212;2;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;110604901;4;213;3;2;vitamines et minéraux;5;1;1;1;126
+Pop1 Individu;110604901;4;214;4;1;plantes et produits naturels;9;7;1;3;52
+Pop1 Individu;110605101;4;221;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;110605101;4;222;2;2;;;1;;1;28
+Pop1 Individu;111201301;4;351;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;111202201;4;381;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;111203001;4;401;1;1;mélange;10;4;1;2;365
+Pop1 Individu;111304701;4;511;1;2;vitamines et minéraux;1;1;1;4;4
+Pop1 Individu;111305101;4;521;1;1;mélange;13;1;1;1;14
+Pop1 Individu;111305101;4;522;2;1;plantes et produits naturels;8;3;1;1;28
+Pop1 Individu;111400801;4;581;1;3;vitamines et minéraux;2;6;1;1;21
+Pop1 Individu;111400801;4;582;2;2;vitamines et minéraux;1;3;1;1;21
+Pop1 Individu;111400801;4;583;3;1;plantes et produits naturels;8;2;3;1;122
+Pop1 Individu;111401801;4;611;1;1;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;111401801;4;612;2;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;111401801;4;613;3;1;plantes et produits naturels;9;2;1;1;60
+Pop1 Individu;111406001;4;721;1;1;mélange;12;2;3;4;1
+Pop1 Individu;111406001;4;722;2;1;vitamines et minéraux;2;2;1;2;365
+Pop1 Individu;111406001;4;723;3;1;plantes et produits naturels;8;2;1;4;1
+Pop1 Individu;111406001;4;724;4;1;plantes et produits naturels;8;2;3;4;1
+Pop1 Individu;111406801;4;731;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;112101001;4;821;1;1;plantes et produits naturels;9;4;2;1;14
+Pop1 Individu;112101601;4;841;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;112101601;4;842;2;1;plantes et produits naturels;8;13;2;1;90
+Pop1 Individu;112101601;4;843;3;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;112101601;4;844;4;1;plantes et produits naturels;8;1;1;1;30
+Pop1 Individu;112101601;4;845;5;2;vitamines et minéraux;2;3;2;1;30
+Pop1 Individu;112202501;4;911;1;3;plantes et produits naturels;9;11;1;1;105
+Pop1 Individu;112202501;4;912;2;2;vitamines et minéraux;1;3;1;4;6
+Pop1 Individu;112400301;4;931;1;1;mélange;12;1;1;1;42
+Pop1 Individu;112401101;4;951;1;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;112401501;4;971;1;1;mélange;10;4;1;1;274
+Pop1 Individu;112500201;4;991;1;1;plantes et produits naturels;19;8;2;2;365
+Pop1 Individu;112500201;4;992;2;1;mélange;12;2;1;1;91
+Pop1 Individu;112502201;4;1061;1;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;112502301;4;1071;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;112503901;4;1091;1;2;vitamines et minéraux;5;1;1;3;12
+Pop1 Individu;112504201;4;1101;1;1;mélange;27;8;1;1;30
+Pop1 Individu;112506301;4;1171;1;2;vitamines et minéraux;5;1;6;1;182
+Pop1 Individu;112506301;4;1172;2;2;vitamines et minéraux;1;1;2;1;60
+Pop1 Individu;112506501;4;1181;1;3;vitamines et minéraux;2;3;1;4;1
+Pop1 Individu;112700401;4;1201;1;2;vitamines et minéraux;2;2;1;1;90
+Pop1 Individu;112700401;4;1202;2;1;mélange;12;2;1;1;30
+Pop1 Individu;112701901;4;1231;1;1;vitamines et minéraux;3;1;3;1;30
+Pop1 Individu;112703501;4;1271;1;1;plantes et produits naturels;9;11;1;1;60
+Pop1 Individu;112703901;4;1281;1;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;112800301;4;1301;1;3;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;112902101;4;1351;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;112903201;4;1361;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;112903701;4;1381;1;1;vitamines et minéraux;5;1;4;1;21
+Pop1 Individu;113000601;4;1421;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;113000601;4;1422;2;1;vitamines et minéraux;5;1;2;1;7
+Pop1 Individu;113002101;4;1441;1;3;mélange;27;1;1;1;30
+Pop1 Individu;113002101;4;1442;2;3;mélange;27;1;1;4;1
+Pop1 Individu;113002501;4;1451;1;3;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;113103201;4;1521;1;1;plantes et produits naturels;8;1;1;1;60
+Pop1 Individu;113104301;4;1551;1;1;mélange;10;4;1;1;274
+Pop1 Individu;113201201;4;1592;2;3;vitamines et minéraux;3;1;2;1;21
+Pop1 Individu;113300201;4;1611;1;1;plantes et produits naturels;8;3;1;1;21
+Pop1 Individu;113300801;4;1621;1;3;plantes et produits naturels;8;1;1;1;30
+Pop1 Individu;113300801;4;1622;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;113301701;4;1641;1;2;vitamines et minéraux;5;2;2;1;182
+Pop1 Individu;113303801;4;1681;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;113401301;4;1771;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;113401701;4;1791;1;1;plantes et produits naturels;8;2;1;2;365
+Pop1 Individu;113401901;4;1801;1;1;plantes et produits naturels;8;2;1;1;61
+Pop1 Individu;113401901;4;1802;2;1;substances à but nutritionnels;6;2;1;1;60
+Pop1 Individu;113401901;4;1803;3;1;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;113402101;4;1811;1;2;vitamines et minéraux;5;2;1;1;42
+Pop1 Individu;113402101;4;1812;2;1;plantes et produits naturels;9;8;2;1;42
+Pop1 Individu;113404401;4;1851;1;1;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;113404401;4;1852;2;1;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;113404401;4;1854;4;3;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;113404401;4;1855;5;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;113502201;4;1921;1;2;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;113502601;4;1941;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;113502601;4;1942;2;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;113502601;4;1943;3;1;plantes et produits naturels;8;14;12;1;14
+Pop1 Individu;113503301;4;1981;1;1;plantes et produits naturels;9;4;2;1;14
+Pop1 Individu;113601701;4;2041;1;1;plantes et produits naturels;8;3;1;2;365
+Pop1 Individu;113601701;4;2042;2;2;vitamines et minéraux;5;1;2;1;61
+Pop1 Individu;113601701;4;2043;3;1;vitamines et minéraux;4;1;1;1;56
+Pop1 Individu;113602801;4;2051;1;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;113603201;4;2061;1;2;vitamines et minéraux;2;1;2;1;60
+Pop1 Individu;113603201;4;2062;2;2;vitamines et minéraux;2;1;2;1;14
+Pop1 Individu;113605201;4;2101;1;3;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;113605801;4;2111;1;1;substances à but nutritionnels;7;2;2;1;14
+Pop1 Individu;113605801;4;2112;2;1;mélange;12;1;1;1;14
+Pop1 Individu;113605801;4;2113;3;1;mélange;11;2;1;1;14
+Pop1 Individu;113605801;4;2114;4;1;substances à but nutritionnels;7;2;1;1;14
+Pop1 Individu;113606001;4;2121;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;113700301;4;2141;1;1;vitamines et minéraux;5;2;1;1;63
+Pop1 Individu;113801001;4;2151;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;113801001;4;2152;2;1;mélange;21;2;1;1;61
+Pop1 Individu;113801001;4;2153;3;2;vitamines et minéraux;2;3;1;1;30
+Pop1 Individu;113801701;4;2181;1;1;plantes et produits naturels;9;14;4;1;91
+Pop1 Individu;113801701;4;2182;2;1;plantes et produits naturels;9;2;2;1;30
+Pop1 Individu;113804001;4;2271;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;113804501;4;2281;1;1;vitamines et minéraux;1;13;1;1;152
+Pop1 Individu;113804701;4;2301;1;1;mélange;13;1;1;1;61
+Pop1 Individu;113805801;4;2351;1;1;substances à but nutritionnels;7;2;2;1;91
+Pop1 Individu;113806001;4;2361;1;2;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;113806001;4;2362;2;1;mélange;11;2;1;1;91
+Pop1 Individu;113806601;4;2381;1;1;plantes et produits naturels;8;2;1;1;21
+Pop1 Individu;113806601;4;2382;2;1;mélange;13;13;1;1;14
+Pop1 Individu;113806601;4;2383;3;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;114401101;4;2451;1;1;mélange;11;8;2;2;365
+Pop1 Individu;114401101;4;2452;2;1;vitamines et minéraux;2;2;2;1;42
+Pop1 Individu;114403701;4;2491;1;1;mélange;13;1;1;1;91
+Pop1 Individu;114403701;4;2492;2;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;114403701;4;2493;3;1;mélange;11;1;1;1;91
+Pop1 Individu;114403701;4;2494;4;1;vitamines et minéraux;2;1;1;1;91
+Pop1 Individu;114501401;4;2581;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;114501401;4;2582;2;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;114900401;4;2651;1;2;vitamines et minéraux;2;1;2;1;182
+Pop1 Individu;114900401;4;2652;2;3;vitamines et minéraux;5;1;2;1;91
+Pop1 Individu;114900401;4;2653;3;2;vitamines et minéraux;5;1;6;1;30
+Pop1 Individu;114902701;4;2711;1;1;mélange;13;1;1;2;365
+Pop1 Individu;115400401;4;2821;1;3;vitamines et minéraux;2;3;2;1;14
+Pop1 Individu;115400401;4;2822;2;3;vitamines et minéraux;1;16;2;1;7
+Pop1 Individu;115602201;4;2861;1;1;vitamines et minéraux;3;1;1;1;60
+Pop1 Individu;115602401;4;2871;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;115604601;4;2901;1;3;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;115604601;4;2902;2;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;115700401;4;2931;1;1;vitamines et minéraux;2;1;1;1;21
+Pop1 Individu;115701101;4;2951;1;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;115701101;4;2952;2;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;115701101;4;2953;3;1;mélange;12;2;6;1;21
+Pop1 Individu;115703501;4;3011;1;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;115704201;4;3021;1;1;plantes et produits naturels;8;2;4;2;365
+Pop1 Individu;115903101;4;3121;1;2;vitamines et minéraux;5;3;2;1;21
+Pop1 Individu;115903101;4;3122;2;3;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;115904601;4;3141;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;115904601;4;3142;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;115909901;4;3281;1;3;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;115911201;4;3321;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;115911201;4;3322;2;2;vitamines et minéraux;1;3;1;1;60
+Pop1 Individu;115913101;4;3351;1;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;115913101;4;3352;2;1;mélange;12;1;2;2;365
+Pop1 Individu;115913101;4;3353;3;1;plantes et produits naturels;19;1;2;2;365
+Pop1 Individu;115913901;4;3361;1;2;vitamines et minéraux;5;1;6;1;14
+Pop1 Individu;115913901;4;3362;2;1;vitamines et minéraux;3;11;1;1;7
+Pop1 Individu;116000401;4;3391;1;1;substances à but nutritionnels;6;2;2;2;365
+Pop1 Individu;116000401;4;3392;2;1;plantes et produits naturels;8;11;1;2;365
+Pop1 Individu;116000401;4;3393;3;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;116000401;4;3394;4;1;plantes et produits naturels;9;7;1;2;365
+Pop1 Individu;116200301;4;3451;1;1;plantes et produits naturels;9;;1;1;90
+Pop1 Individu;116201501;4;3501;1;1;vitamines et minéraux;1;1;2;1;30
+Pop1 Individu;116300201;4;3531;1;2;vitamines et minéraux;2;3;1;1;182
+Pop1 Individu;116300201;4;3532;2;2;vitamines et minéraux;4;3;1;1;182
+Pop1 Individu;116300201;4;3533;3;2;vitamines et minéraux;4;13;1;1;182
+Pop1 Individu;116300401;4;3541;1;1;mélange;11;8;2;1;30
+Pop1 Individu;116300501;4;3551;1;1;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;116300601;4;3561;1;1;mélange;12;1;1;2;365
+Pop1 Individu;116301301;4;3581;1;1;vitamines et minéraux;5;2;1;1;14
+Pop1 Individu;116301301;4;3582;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;116302501;4;3611;1;1;plantes et produits naturels;9;2;2;1;70
+Pop1 Individu;116302501;4;3612;2;3;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;116302901;4;3631;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;116302901;4;3632;2;2;vitamines et minéraux;5;1;6;2;365
+Pop1 Individu;116302901;4;3633;3;3;mélange;27;2;3;1;28
+Pop1 Individu;116304101;4;3651;1;3;mélange;27;1;2;1;14
+Pop1 Individu;116500601;4;3671;1;1;vitamines et minéraux;5;12;1;1;42
+Pop1 Individu;116500601;4;3672;2;3;vitamines et minéraux;2;1;2;2;365
+Pop1 Individu;116500601;4;3673;3;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;116500901;4;3701;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;116501101;4;3711;1;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;116600401;4;3721;1;1;plantes et produits naturels;9;8;2;2;365
+Pop1 Individu;116601101;4;3731;1;1;mélange;11;1;2;1;61
+Pop1 Individu;116701801;4;3781;1;1;plantes et produits naturels;9;4;1;1;42
+Pop1 Individu;116701801;4;3782;2;1;plantes et produits naturels;9;6;1;1;61
+Pop1 Individu;116701801;4;3783;3;1;plantes et produits naturels;8;1;1;3;52
+Pop1 Individu;116701801;4;3784;4;1;vitamines et minéraux;1;2;1;3;12
+Pop1 Individu;116702101;4;3801;1;2;vitamines et minéraux;2;1;1;5;999
+Pop1 Individu;116705301;4;3851;1;1;mélange;21;4;2;2;365
+Pop1 Individu;116707801;4;3921;1;1;mélange;12;2;2;2;365
+Pop1 Individu;116707801;4;3922;2;1;mélange;12;1;2;2;365
+Pop1 Individu;116708401;4;3941;1;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;116800301;4;3951;1;3;mélange;27;7;3;2;365
+Pop1 Individu;116900501;4;4021;1;2;vitamines et minéraux;5;1;3;1;28
+Pop1 Individu;116900801;4;4051;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;116900901;4;4061;1;2;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;116901301;4;4071;1;2;vitamines et minéraux;1;1;1;4;6
+Pop1 Individu;116902701;4;4101;1;3;mélange;27;1;1;1;61
+Pop1 Individu;117000501;4;4121;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;117000501;4;4122;2;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;117100301;4;4161;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;117300701;4;4181;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;117300701;4;4182;2;1;vitamines et minéraux;3;1;9;1;60
+Pop1 Individu;117300701;4;4183;3;1;plantes et produits naturels;9;7;1;1;30
+Pop1 Individu;117301001;4;4191;1;3;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;117301001;4;4192;2;1;substances à but nutritionnels;7;8;2;2;365
+Pop1 Individu;117301601;4;4211;1;2;vitamines et minéraux;5;1;6;1;30
+Pop1 Individu;117301601;4;4212;2;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;117301601;4;4213;3;3;plantes et produits naturels;8;2;3;1;14
+Pop1 Individu;117301601;4;4214;4;3;plantes et produits naturels;8;2;3;1;14
+Pop1 Individu;117301701;4;4221;1;1;mélange;12;4;2;2;365
+Pop1 Individu;117401301;4;4291;1;2;vitamines et minéraux;4;1;3;1;30
+Pop1 Individu;117402601;4;4341;1;1;mélange;12;2;1;2;365
+Pop1 Individu;117403501;4;4371;1;2;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;117403801;4;4381;1;1;mélange;11;8;80;1;91
+Pop1 Individu;117403801;4;4382;2;1;mélange;12;1;.2;1;60
+Pop1 Individu;117403801;4;4383;3;1;mélange;27;3;1;1;30
+Pop1 Individu;117403901;4;4391;1;1;plantes et produits naturels;19;3;1;1;42
+Pop1 Individu;117403901;4;4392;2;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;117403901;4;4393;3;1;vitamines et minéraux;5;2;2;2;365
+Pop1 Individu;117404101;4;4401;1;2;vitamines et minéraux;5;1;1;1;183
+Pop1 Individu;117404101;4;4402;2;2;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;117404101;4;4403;3;2;vitamines et minéraux;2;1;3;2;365
+Pop1 Individu;117404101;4;4404;4;1;plantes et produits naturels;8;1;1;1;999
+Pop1 Individu;117404101;4;4405;5;1;vitamines et minéraux;5;4;1;1;30
+Pop1 Individu;117404801;4;4421;1;1;vitamines et minéraux;1;2;1;1;30
+Pop1 Individu;117404801;4;4422;2;1;mélange;21;2;3;1;61
+Pop1 Individu;117404801;4;4423;3;1;mélange;11;1;10;1;30
+Pop1 Individu;117404801;4;4424;4;1;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;117404801;4;4425;5;1;mélange;17;2;2;3;30
+Pop1 Individu;117502001;4;4491;1;1;plantes et produits naturels;8;1;.5;2;365
+Pop1 Individu;117502101;4;4501;1;1;plantes et produits naturels;8;1;4;2;365
+Pop1 Individu;117502101;4;4502;2;2;vitamines et minéraux;1;1;1.5;3;30
+Pop1 Individu;117507701;4;4571;1;2;vitamines et minéraux;1;3;1;1;91
+Pop1 Individu;117507901;4;4581;1;1;vitamines et minéraux;5;1;1;4;1
+Pop1 Individu;117509601;4;4611;1;1;vitamines et minéraux;5;1;1;1;180
+Pop1 Individu;117509601;4;4612;2;1;vitamines et minéraux;2;2;2;1;120
+Pop1 Individu;117509601;4;4613;3;1;plantes et produits naturels;9;2;2;1;60
+Pop1 Individu;117509601;4;4614;4;1;substances à but nutritionnels;6;2;2;1;60
+Pop1 Individu;117509601;4;4615;5;2;plantes et produits naturels;9;2;2;1;60
+Pop1 Individu;117510701;4;4631;1;2;vitamines et minéraux;1;1;1;3;52
+Pop1 Individu;117515001;4;4691;1;1;vitamines et minéraux;1;1;1;1;122
+Pop1 Individu;117515001;4;4692;2;2;vitamines et minéraux;1;1;1;5;999
+Pop1 Individu;117600201;4;4731;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;117600201;4;4732;2;1;mélange;12;4;3;1;91
+Pop1 Individu;117600201;4;4733;3;1;mélange;12;2;3;1;30
+Pop1 Individu;117602601;4;4761;1;1;mélange;10;4;3;1;42
+Pop1 Individu;117604101;4;4791;1;1;vitamines et minéraux;5;1;1;1;84
+Pop1 Individu;117604201;4;4801;1;1;mélange;12;1;1;1;7
+Pop1 Individu;117801501;4;4861;1;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;117801501;4;4862;2;3;vitamines et minéraux;1;1;1;3;52
+Pop1 Individu;117802101;4;4881;1;1;plantes et produits naturels;9;11;1;4;6
+Pop1 Individu;117802101;4;4882;2;1;substances à but nutritionnels;6;4;2;1;999
+Pop1 Individu;117802201;4;4891;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;117803001;4;4901;1;2;vitamines et minéraux;1;3;1;1;330
+Pop1 Individu;117805901;4;4941;1;1;mélange;12;1;1;1;60
+Pop1 Individu;117805901;4;4942;2;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;117805901;4;4943;3;1;vitamines et minéraux;5;1;1;1;84
+Pop1 Individu;117806001;4;4951;1;3;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;117806401;4;4961;1;2;vitamines et minéraux;5;1;2;1;91
+Pop1 Individu;117806401;4;4962;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;117806501;4;4971;1;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;118000301;4;5001;1;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;118000301;4;5002;2;1;mélange;11;1;1;1;30
+Pop1 Individu;118000501;4;5021;1;2;vitamines et minéraux;1;1;2;2;365
+Pop1 Individu;118000901;4;5051;1;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;118001401;4;5061;1;3;vitamines et minéraux;5;1;1;3;12
+Pop1 Individu;118001501;4;5071;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;118200701;4;5091;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;118401401;4;5161;1;3;plantes et produits naturels;9;7;1;2;365
+Pop1 Individu;118401801;4;5191;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;118402001;4;5201;1;1;plantes et produits naturels;9;2;1;1;42
+Pop1 Individu;118402001;4;5202;2;1;plantes et produits naturels;19;3;1;1;21
+Pop1 Individu;118402001;4;5203;3;2;vitamines et minéraux;4;13;1;1;91
+Pop1 Individu;118402601;4;5221;1;1;plantes et produits naturels;9;2;2;1;60
+Pop1 Individu;118602901;4;5321;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;118602901;4;5322;2;3;vitamines et minéraux;2;1;1;1;122
+Pop1 Individu;118701701;4;5371;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;118701701;4;5372;2;3;vitamines et minéraux;2;1;1;1;21
+Pop1 Individu;118702601;4;5411;1;1;vitamines et minéraux;3;1;1;1;42
+Pop1 Individu;118801101;4;5431;1;2;vitamines et minéraux;5;1;3;1;60
+Pop1 Individu;119100901;4;5471;1;2;vitamines et minéraux;1;1;2;2;365
+Pop1 Individu;119205001;4;5541;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;119205001;4;5542;2;1;vitamines et minéraux;3;1;1;2;365
+Pop1 Individu;119302001;4;5611;1;1;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;119302001;4;5612;2;1;plantes et produits naturels;8;7;1;1;7
+Pop1 Individu;119307501;4;5691;1;1;mélange;12;1;3;1;182
+Pop1 Individu;119307501;4;5692;2;1;plantes et produits naturels;9;2;2;1;21
+Pop1 Individu;119403801;4;5711;1;1;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;120100801;4;5801;1;1;mélange;12;11;4;1;21
+Pop1 Individu;120101301;4;5841;1;1;vitamines et minéraux;5;1;3;1;14
+Pop1 Individu;120300101;4;5861;1;2;vitamines et minéraux;5;1;2;1;21
+Pop1 Individu;120600901;4;5871;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;120601801;4;5901;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;120601801;4;5902;2;1;vitamines et minéraux;5;5;1;1;30
+Pop1 Individu;120601801;4;5903;3;2;vitamines et minéraux;1;1;1;1;122
+Pop1 Individu;120602501;4;5911;1;1;mélange;27;1;1;2;365
+Pop1 Individu;120602601;4;5921;1;3;mélange;27;11;1;1;61
+Pop1 Individu;120603701;1;5951;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;120603701;1;5953;3;2;plantes et produits naturels;8;11;3;1;42
+Pop1 Individu;120605201;4;5981;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;120700301;4;6021;1;2;vitamines et minéraux;1;14;1;1;3.5
+Pop1 Individu;120700501;4;6031;1;2;vitamines et minéraux;1;14;5;1;30
+Pop1 Individu;120700601;4;6041;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;120700701;4;6051;1;2;vitamines et minéraux;1;3;1;1;182
+Pop1 Individu;120900301;4;6061;1;1;vitamines et minéraux;5;11;1;1;14
+Pop1 Individu;121100201;4;6081;1;1;plantes et produits naturels;8;1;.5;1;21
+Pop1 Individu;121100501;4;6091;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;121101901;4;6101;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;121102401;4;6121;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;121102401;4;6122;2;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;121102401;4;6123;3;1;mélange;12;1;1;5;999
+Pop1 Individu;121200401;4;6161;1;1;vitamines et minéraux;1;1;.2;1;21
+Pop1 Individu;121200601;4;6181;1;1;plantes et produits naturels;9;2;1;1;60
+Pop1 Individu;121201001;4;6191;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;121202201;4;6241;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;121202201;4;6242;2;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;121301501;4;6311;1;1;plantes et produits naturels;8;2;3;1;91
+Pop1 Individu;121302701;4;6341;1;3;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;121303701;4;6351;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;121600501;4;6561;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;121600501;4;6562;2;3;vitamines et minéraux;2;1;1;1;21
+Pop1 Individu;121600501;4;6563;3;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;121600601;4;6571;1;1;mélange;23;11;1;1;14
+Pop1 Individu;121600901;4;6581;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;121600901;4;6582;2;1;mélange;12;1;1;1;91
+Pop1 Individu;121600901;4;6583;3;2;vitamines et minéraux;1;14;3;1;91
+Pop1 Individu;122102301;4;6651;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;122102401;4;6661;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;122200801;4;6721;1;1;vitamines et minéraux;5;13;1;1;7
+Pop1 Individu;122201501;4;6731;1;3;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;122202201;4;6771;1;1;plantes et produits naturels;9;11;1;1;91
+Pop1 Individu;122502101;4;6881;1;1;mélange;12;1;1;1;7
+Pop1 Individu;122503601;4;6911;1;1;vitamines et minéraux;3;11;1;1;56
+Pop1 Individu;122701001;4;6991;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;122701801;4;7011;1;1;vitamines et minéraux;3;11;1;1;7
+Pop1 Individu;122703001;2;7051;1;2;vitamines et minéraux;5;13;1;2;91
+Pop1 Individu;123000401;4;7261;1;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;123200601;4;7391;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;123200601;4;7392;2;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;123200601;4;7393;3;1;plantes et produits naturels;8;14;21;2;365
+Pop1 Individu;123200601;4;7394;4;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;123200801;4;7401;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;123301301;4;7431;1;2;vitamines et minéraux;1;1;1;1;999
+Pop1 Individu;123305201;4;7511;1;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;123401401;4;7561;1;1;vitamines et minéraux;5;13;1;1;7
+Pop1 Individu;123501101;4;7621;1;3;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;123502201;4;7661;1;1;plantes et produits naturels;8;2;2;3;30
+Pop1 Individu;123502401;4;7671;1;2;vitamines et minéraux;2;1;2;1;21
+Pop1 Individu;123502801;4;7691;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;123600201;1;7721;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;123602001;4;7761;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;123603501;4;7781;1;3;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;123603501;4;7782;2;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;123700301;4;7821;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;123801201;4;7841;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;123801201;4;7842;2;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;123801201;4;7843;3;1;plantes et produits naturels;8;14;20;1;30
+Pop1 Individu;123801301;4;7851;1;2;vitamines et minéraux;5;3;2;2;365
+Pop1 Individu;123802201;4;7901;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;123802601;4;7911;1;1;mélange;12;1;1;1;14
+Pop1 Individu;123802601;4;7912;2;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;123802901;4;7931;1;1;mélange;23;3;1;5;999
+Pop1 Individu;123803601;4;7961;1;3;vitamines et minéraux;5;3;1;4;1
+Pop1 Individu;123804501;4;8001;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;123805301;4;8031;1;1;mélange;11;1;1;1;30
+Pop1 Individu;123806001;4;8041;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;124400701;4;8061;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;124401801;4;8091;1;2;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;124402701;4;8111;1;1;plantes et produits naturels;19;1;8;2;365
+Pop1 Individu;124402701;4;8112;2;3;mélange;27;3;1;1;7
+Pop1 Individu;124403001;4;8121;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;124500401;4;8181;1;2;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;124901401;1;8281;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;124902101;4;8291;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;124903401;4;8321;1;1;vitamines et minéraux;5;1;1;4;2
+Pop1 Individu;124903601;4;8341;1;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;124903801;4;8351;1;1;mélange;10;2;1;1;3.5
+Pop1 Individu;124903801;4;8352;2;3;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;124904401;4;8371;1;1;plantes et produits naturels;9;6;1;2;365
+Pop1 Individu;125101301;4;8471;1;3;vitamines et minéraux;2;3;.30000001;1;91
+Pop1 Individu;125400601;4;8551;1;1;mélange;23;12;1;1;61
+Pop1 Individu;125401501;4;8591;1;1;vitamines et minéraux;3;5;1;1;30
+Pop1 Individu;125401501;4;8592;2;2;vitamines et minéraux;2;7;1;1;30
+Pop1 Individu;125401801;4;8601;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;125601401;4;8641;1;1;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;125604301;4;8711;1;1;vitamines et minéraux;5;5;1;1;30
+Pop1 Individu;125604301;4;8712;2;1;mélange;12;11;1;1;28
+Pop1 Individu;125700401;4;8721;1;1;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;125700401;4;8722;2;1;plantes et produits naturels;9;6;1;1;28
+Pop1 Individu;125700601;1;8731;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;125702101;4;8751;1;1;plantes et produits naturels;8;2;3;1;91
+Pop1 Individu;125702101;4;8752;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;125801401;4;8801;1;1;vitamines et minéraux;3;11;1;1;7
+Pop1 Individu;125901501;1;8841;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;125904001;4;8881;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;125907501;1;9011;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;125908501;4;9041;1;1;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;125908601;4;9051;1;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;125908801;4;9061;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;125909301;4;9081;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;125910401;2;9091;1;2;vitamines et minéraux;1;14;4;2;91
+Pop1 Individu;125913001;4;9121;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;126000101;4;9151;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;126200201;4;9231;1;1;plantes et produits naturels;8;1;1;3;30
+Pop1 Individu;126201201;4;9281;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;126203101;4;9331;1;1;mélange;23;11;1;1;21
+Pop1 Individu;126300101;4;9351;1;1;vitamines et minéraux;3;11;2;2;365
+Pop1 Individu;126300701;4;9371;1;1;vitamines et minéraux;3;5;1;1;30
+Pop1 Individu;126401101;1;9441;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;126500501;4;9451;1;1;plantes et produits naturels;9;13;1;1;60
+Pop1 Individu;126501101;4;9471;1;1;plantes et produits naturels;8;1;1;3;146
+Pop1 Individu;126701701;4;9561;1;1;mélange;13;7;1;1;63
+Pop1 Individu;126701701;4;9562;2;1;plantes et produits naturels;9;3;1;1;63
+Pop1 Individu;126701701;4;9563;3;1;mélange;21;4;1;5;999
+Pop1 Individu;126702301;4;9591;1;1;plantes et produits naturels;19;12;1;1;30
+Pop1 Individu;126704301;4;9661;1;3;vitamines et minéraux;2;3;1;4;1
+Pop1 Individu;126705401;4;9701;1;1;plantes et produits naturels;8;2;1;3;146
+Pop1 Individu;126705401;4;9702;2;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;126705701;4;9711;1;1;mélange;23;11;2;1;14
+Pop1 Individu;126800801;4;9781;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;126803601;4;9841;1;1;vitamines et minéraux;5;1;1;1;90
+Pop1 Individu;126900501;4;9861;1;1;plantes et produits naturels;9;2;1;1;90
+Pop1 Individu;126900501;4;9862;2;1;plantes et produits naturels;8;2;1;1;28
+Pop1 Individu;126900501;4;9863;3;1;mélange;12;6;2;1;60
+Pop1 Individu;126900701;4;9881;1;1;plantes et produits naturels;9;6;1;1;189
+Pop1 Individu;126900701;4;9882;2;1;plantes et produits naturels;8;4;1;1;168
+Pop1 Individu;126900701;4;9883;3;1;vitamines et minéraux;5;1;1;1;105
+Pop1 Individu;126901801;4;9921;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;127001001;4;9961;1;2;vitamines et minéraux;2;11;2;1;61
+Pop1 Individu;127300901;4;10031;1;2;vitamines et minéraux;1;3;1;4;6
+Pop1 Individu;127301801;4;10081;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;127301801;4;10082;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;127400301;1;10101;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;127404601;4;10271;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;127406801;4;10391;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;127502901;4;10511;1;2;vitamines et minéraux;5;13;1;2;365
+Pop1 Individu;127503701;4;10531;1;1;vitamines et minéraux;3;11;1;1;60
+Pop1 Individu;127503701;4;10532;2;1;plantes et produits naturels;19;11;2;2;365
+Pop1 Individu;127504601;4;10551;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;127504601;4;10552;2;2;vitamines et minéraux;2;11;1;1;30
+Pop1 Individu;127504601;4;10553;3;2;vitamines et minéraux;4;11;1;1;30
+Pop1 Individu;127508901;4;10621;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;127508901;4;10622;2;1;mélange;10;4;1;1;60
+Pop1 Individu;127509001;4;10631;1;1;vitamines et minéraux;3;11;1;1;42
+Pop1 Individu;127510001;1;10641;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;127510101;4;10651;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;127602501;4;10691;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;127602501;4;10692;2;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;127700401;4;10721;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;127803701;4;10781;1;2;vitamines et minéraux;1;3;1;1;10.5
+Pop1 Individu;127804001;4;10801;1;2;vitamines et minéraux;2;1;1;1;120
+Pop1 Individu;127804001;4;10802;2;1;vitamines et minéraux;3;16;1;1;120
+Pop1 Individu;127804301;4;10821;1;1;vitamines et minéraux;1;9;1;2;365
+Pop1 Individu;127804301;4;10822;2;1;vitamines et minéraux;1;14;9;2;365
+Pop1 Individu;127804301;4;10823;3;1;plantes et produits naturels;9;2;2;1;63
+Pop1 Individu;127804301;4;10824;4;3;vitamines et minéraux;4;14;1;1;61
+Pop1 Individu;127805201;4;10841;1;1;vitamines et minéraux;3;11;1;1;21
+Pop1 Individu;128000701;1;10891;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;128001501;1;10921;1;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;128601501;4;11061;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;129205801;4;11261;1;2;vitamines et minéraux;2;6;2;1;30
+Pop1 Individu;129402101;4;11481;1;1;vitamines et minéraux;3;1;1;3;146
+Pop1 Individu;129402701;4;11501;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;129404001;2;11511;1;2;vitamines et minéraux;1;14;4;2;91
+Pop1 Individu;129404101;4;11521;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;129404601;4;11531;1;2;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;129407901;4;11551;1;1;mélange;13;1;2;1;14
+Pop1 Individu;210601301;4;11691;1;1;plantes et produits naturels;9;8;1;2;365
+Pop1 Individu;210601301;4;11692;2;1;plantes et produits naturels;8;7;1;2;365
+Pop1 Individu;210603301;4;11701;1;1;vitamines et minéraux;2;1;2;3;146
+Pop1 Individu;210605901;4;11751;1;1;mélange;13;2;1;1;30
+Pop1 Individu;210605901;4;11752;2;2;vitamines et minéraux;2;2;2;1;30
+Pop1 Individu;210606701;4;11781;1;1;mélange;10;4;1;2;365
+Pop1 Individu;210606701;4;11782;2;1;mélange;22;4;1;2;365
+Pop1 Individu;210606701;4;11783;3;1;plantes et produits naturels;8;2;6;1;60
+Pop1 Individu;210607901;4;11791;1;1;plantes et produits naturels;8;12;3;1;28
+Pop1 Individu;210700701;4;11831;1;2;vitamines et minéraux;2;1;1;4;1
+Pop1 Individu;211100201;4;11851;1;1;vitamines et minéraux;2;1;1;2;365
+Pop1 Individu;211100301;4;11861;1;1;vitamines et minéraux;2;1;1;1;60
+Pop1 Individu;211100301;4;11862;2;1;vitamines et minéraux;3;2;1;1;60
+Pop1 Individu;211100301;4;11863;3;1;mélange;12;1;1;1;122
+Pop1 Individu;211100301;4;11864;4;1;substances à but nutritionnels;24;2;3;5;999
+Pop1 Individu;211101401;4;11871;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;211101401;4;11872;2;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;211102801;4;11891;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;211201401;4;11911;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;211203301;4;11991;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;211203301;4;11992;2;1;plantes et produits naturels;8;2;16;1;61
+Pop1 Individu;211203401;4;12001;1;1;mélange;11;1;3;3;52
+Pop1 Individu;211300101;4;12021;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;211300801;4;12041;1;1;vitamines et minéraux;3;1;1;1;14
+Pop1 Individu;211300801;4;12042;2;1;plantes et produits naturels;8;13;1;1;14
+Pop1 Individu;211300801;4;12043;3;1;mélange;12;13;1;1;14
+Pop1 Individu;211301101;4;12051;1;1;plantes et produits naturels;8;14;9;1;60
+Pop1 Individu;211301601;4;12061;1;3;vitamines et minéraux;2;1;1;1;42
+Pop1 Individu;211301801;4;12071;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;211302101;4;12091;1;1;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;211304201;4;12111;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;211304501;4;12121;1;2;vitamines et minéraux;2;2;3;1;30
+Pop1 Individu;211304501;4;12122;2;1;plantes et produits naturels;8;1;1;1;21
+Pop1 Individu;211304801;4;12131;1;1;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;211307301;4;12171;1;2;vitamines et minéraux;5;1;4;1;91
+Pop1 Individu;211307601;4;12191;1;1;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;211307601;4;12192;2;1;plantes et produits naturels;8;2;1;1;61
+Pop1 Individu;211400201;4;12201;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;211400701;4;12231;1;1;plantes et produits naturels;8;13;1;1;14
+Pop1 Individu;211400701;4;12232;2;1;plantes et produits naturels;8;1;2;1;14
+Pop1 Individu;211403301;4;12281;1;3;plantes et produits naturels;8;2;2;1;180
+Pop1 Individu;211403301;4;12282;2;1;mélange;27;6;1;1;91
+Pop1 Individu;211403301;4;12283;3;1;plantes et produits naturels;8;13;1;1;14
+Pop1 Individu;211403301;4;12284;4;3;plantes et produits naturels;8;2;2;1;90
+Pop1 Individu;211404401;4;12321;1;3;vitamines et minéraux;1;3;1;1;91
+Pop1 Individu;211404401;4;12322;2;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;211600401;4;12361;1;1;plantes et produits naturels;8;4;6;2;365
+Pop1 Individu;211600401;4;12362;2;1;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;211600501;4;12371;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;211600501;4;12372;2;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;211600701;4;12381;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;211601301;4;12401;1;1;mélange;15;4;3;1;182
+Pop1 Individu;211601301;4;12402;2;1;mélange;12;1;2;1;182
+Pop1 Individu;212200601;4;12491;1;2;vitamines et minéraux;1;3;1;1;91
+Pop1 Individu;212200601;4;12492;2;2;vitamines et minéraux;2;1;1;1;91
+Pop1 Individu;212200801;4;12501;1;2;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;212200801;4;12502;2;2;plantes et produits naturels;8;1;1;1;14
+Pop1 Individu;212201101;4;12511;1;1;plantes et produits naturels;8;1;1;1;7
+Pop1 Individu;212202001;4;12531;1;1;mélange;21;2;1;2;365
+Pop1 Individu;212202001;4;12532;2;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;212202001;4;12533;3;1;mélange;11;1;1;2;365
+Pop1 Individu;212202201;4;12551;1;2;plantes et produits naturels;8;2;2;1;63
+Pop1 Individu;212202201;4;12552;2;1;vitamines et minéraux;2;2;2;1;84
+Pop1 Individu;212400501;4;12591;1;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;212401201;4;12601;1;1;plantes et produits naturels;8;2;2;1;21
+Pop1 Individu;212401801;4;12611;1;2;mélange;25;1;1;2;365
+Pop1 Individu;212401801;4;12612;2;2;substances à but nutritionnels;24;1;1;2;365
+Pop1 Individu;212501601;4;12661;1;2;vitamines et minéraux;5;3;1;1;30
+Pop1 Individu;212501601;4;12662;2;2;vitamines et minéraux;4;13;1;3;12
+Pop1 Individu;212501601;4;12663;3;1;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;212503101;4;12731;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;212503301;4;12741;1;1;mélange;12;12;1;1;14
+Pop1 Individu;212503801;4;12751;1;3;vitamines et minéraux;2;3;2;1;14
+Pop1 Individu;212505201;4;12791;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;212701501;4;12851;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;212703401;4;12881;1;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;213000401;4;12961;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;213000401;4;12962;2;1;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;213000401;4;12963;3;1;plantes et produits naturels;8;3;2;2;365
+Pop1 Individu;213000401;4;12964;4;1;plantes et produits naturels;8;3;1;2;365
+Pop1 Individu;213001101;4;12972;2;2;vitamines et minéraux;5;1;3;1;14
+Pop1 Individu;213001101;4;12973;3;3;vitamines et minéraux;1;1;1;1;84
+Pop1 Individu;213102601;4;13061;1;1;substances à but nutritionnels;6;1;2;1;61
+Pop1 Individu;213102601;4;13062;2;3;mélange;27;1;4;1;61
+Pop1 Individu;213102601;4;13063;3;1;plantes et produits naturels;8;2;4;1;61
+Pop1 Individu;213200101;4;13111;1;1;plantes et produits naturels;19;1;3;1;91
+Pop1 Individu;213301901;4;13211;1;1;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;213303001;4;13241;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;213303001;4;13242;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;213303001;4;13243;3;1;vitamines et minéraux;2;1;1;1;21
+Pop1 Individu;213303001;4;13244;4;1;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;213303301;4;13271;1;1;plantes et produits naturels;19;3;1;3;146
+Pop1 Individu;213304901;4;13301;1;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;213305101;4;13311;1;1;mélange;11;6;4;1;30
+Pop1 Individu;213501601;4;13441;1;1;vitamines et minéraux;1;14;1;1;61
+Pop1 Individu;213501601;4;13442;2;1;plantes et produits naturels;8;1;1;1;70
+Pop1 Individu;213501601;4;13444;4;3;plantes et produits naturels;9;2;2;1;3.5
+Pop1 Individu;213502001;4;13461;1;2;vitamines et minéraux;5;1;2;1;28
+Pop1 Individu;213502901;4;13521;1;1;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;213502901;4;13522;2;1;mélange;13;1;1;1;60
+Pop1 Individu;213502901;4;13523;3;1;vitamines et minéraux;3;1;2;1;30
+Pop1 Individu;213601201;4;13571;1;2;vitamines et minéraux;3;1;3;1;14
+Pop1 Individu;213800501;4;13661;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;213800501;4;13662;2;1;plantes et produits naturels;9;2;2;1;30
+Pop1 Individu;213802501;4;13731;1;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;213803201;4;13741;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;213803701;4;13771;1;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;213803701;4;13772;2;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;213803901;4;13791;1;1;plantes et produits naturels;9;1;3;2;365
+Pop1 Individu;213804601;4;138110;1;1;mélange;10;1;1;1;274
+Pop1 Individu;213804601;4;138111;2;1;mélange;10;4;1;1;274
+Pop1 Individu;213804601;4;138120;3;1;mélange;10;1;1;1;213
+Pop1 Individu;213804601;4;138121;4;1;mélange;10;4;1;1;213
+Pop1 Individu;213804901;4;13841;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;213805301;4;13861;1;1;mélange;20;2;3;2;365
+Pop1 Individu;213805301;4;13862;2;1;mélange;20;2;3;2;365
+Pop1 Individu;213805701;4;13871;1;1;plantes et produits naturels;19;3;1;1;14
+Pop1 Individu;213805701;4;13872;2;1;vitamines et minéraux;5;3;1;2;365
+Pop1 Individu;213805701;4;13873;3;2;plantes et produits naturels;8;14;20;1;152
+Pop1 Individu;213806301;4;13891;1;3;mélange;27;2;1;1;21
+Pop1 Individu;213900501;4;13921;1;1;plantes et produits naturels;9;13;1;1;21
+Pop1 Individu;214400301;4;13951;1;1;mélange;25;4;1;1;61
+Pop1 Individu;214402101;4;13971;1;1;vitamines et minéraux;5;1;2;1;105
+Pop1 Individu;214402101;4;13972;2;2;vitamines et minéraux;1;1;.5;1;180
+Pop1 Individu;214405001;4;14031;1;2;vitamines et minéraux;5;1;2;1;61
+Pop1 Individu;214500401;4;14041;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;214500401;4;14042;2;1;substances à but nutritionnels;24;2;1;1;61
+Pop1 Individu;214501401;4;14061;1;2;vitamines et minéraux;4;3;2;1;60
+Pop1 Individu;214501401;4;14062;2;2;vitamines et minéraux;2;3;2;1;60
+Pop1 Individu;214501401;4;14063;3;2;vitamines et minéraux;2;3;2;1;60
+Pop1 Individu;214501401;4;14064;4;3;plantes et produits naturels;9;14;2;1;28
+Pop1 Individu;214501401;4;14065;5;1;plantes et produits naturels;8;14;2;1;28
+Pop1 Individu;214501701;4;14091;1;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;214900201;4;14121;1;1;vitamines et minéraux;2;2;2;2;365
+Pop1 Individu;214900201;4;14122;2;1;plantes et produits naturels;9;2;2;2;365
+Pop1 Individu;214900201;4;14123;3;1;mélange;10;4;1;2;365
+Pop1 Individu;214900201;4;14124;4;2;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;214901801;4;14141;1;1;mélange;12;2;1;1;30
+Pop1 Individu;214901801;4;14142;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;214905001;4;14211;1;1;vitamines et minéraux;5;1;3;1;60
+Pop1 Individu;214906301;4;14241;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;215300401;4;14331;1;2;vitamines et minéraux;1;3;1;1;42
+Pop1 Individu;215400601;4;14361;1;1;vitamines et minéraux;5;1;2;1;3.5
+Pop1 Individu;215401001;4;14381;1;1;vitamines et minéraux;5;1;1;5;999
+Pop1 Individu;215602001;4;14391;1;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;215602001;4;14392;2;1;plantes et produits naturels;9;2;2;1;42
+Pop1 Individu;215602001;4;14393;3;1;plantes et produits naturels;8;2;2;1;42
+Pop1 Individu;215603201;4;14401;1;1;plantes et produits naturels;8;1;2;1;14
+Pop1 Individu;215701701;4;14491;1;2;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;215702801;4;14511;1;1;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;215702801;4;14512;2;1;vitamines et minéraux;2;1;1;2;365
+Pop1 Individu;215702801;4;14513;3;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;215702801;4;14514;4;1;vitamines et minéraux;3;1;1;2;365
+Pop1 Individu;215702801;4;14515;5;1;plantes et produits naturels;9;7;1;2;365
+Pop1 Individu;215703501;4;14531;1;2;vitamines et minéraux;5;1;4;1;60
+Pop1 Individu;215900701;4;14631;1;1;plantes et produits naturels;8;13;1;2;365
+Pop1 Individu;215900701;4;14632;2;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;215900701;4;14633;3;2;vitamines et minéraux;2;2;3;2;365
+Pop1 Individu;215900701;4;14634;4;1;mélange;13;2;2;1;30
+Pop1 Individu;215901301;4;14641;1;1;vitamines et minéraux;1;1;1;1;90
+Pop1 Individu;215901301;4;14642;2;1;plantes et produits naturels;9;2;2;1;30
+Pop1 Individu;215902901;4;14691;1;1;plantes et produits naturels;8;2;3;1;42
+Pop1 Individu;215902901;4;14692;2;1;plantes et produits naturels;8;3;1;1;21
+Pop1 Individu;215902901;4;14693;3;1;plantes et produits naturels;8;3;3;1;21
+Pop1 Individu;215903201;4;14712;2;2;vitamines et minéraux;5;3;1;1;120
+Pop1 Individu;215908301;4;14791;1;2;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;215908301;4;14792;2;1;vitamines et minéraux;3;5;3;1;42
+Pop1 Individu;215908601;4;14801;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;215909101;4;14821;1;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;215909601;4;14831;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;215909601;4;14832;2;1;mélange;12;1;1;2;365
+Pop1 Individu;215910701;4;14861;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;215911501;4;14901;1;1;plantes et produits naturels;8;6;2;2;365
+Pop1 Individu;215911501;4;14902;2;2;vitamines et minéraux;5;1;1;1;120
+Pop1 Individu;215911501;4;14903;3;2;mélange;12;13;1;2;365
+Pop1 Individu;215911701;4;14911;1;1;plantes et produits naturels;8;1;2;1;28
+Pop1 Individu;215914901;4;15011;1;3;mélange;27;1;1;1;30
+Pop1 Individu;215915001;4;15021;1;2;vitamines et minéraux;5;1;4;1;14
+Pop1 Individu;215915101;4;15031;1;1;mélange;12;1;1;1;14
+Pop1 Individu;215915101;4;15032;2;1;substances à but nutritionnels;6;2;1;1;14
+Pop1 Individu;215915101;4;15033;3;2;vitamines et minéraux;5;1;6;1;60
+Pop1 Individu;215915301;4;15041;1;2;vitamines et minéraux;5;1;4;1;30
+Pop1 Individu;216000301;4;15061;1;1;mélange;13;1;1;1;30
+Pop1 Individu;216102101;4;15101;1;2;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;216102101;4;15102;2;1;vitamines et minéraux;5;4;2;2;365
+Pop1 Individu;216102101;4;15103;3;1;mélange;12;1;2;1;42
+Pop1 Individu;216200501;4;15151;1;1;plantes et produits naturels;9;3;1;1;7
+Pop1 Individu;216300401;4;15201;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;216300701;4;15221;1;1;vitamines et minéraux;2;1;1;1;7
+Pop1 Individu;216303501;4;15271;1;2;vitamines et minéraux;1;3;1;3;12
+Pop1 Individu;216400501;4;15291;1;1;mélange;12;1;2;1;90
+Pop1 Individu;216400501;4;15292;2;2;vitamines et minéraux;2;2;2;2;365
+Pop1 Individu;216401301;4;15301;1;1;vitamines et minéraux;5;1;2;1;182
+Pop1 Individu;216401301;4;15302;2;2;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;216401301;4;15303;3;1;plantes et produits naturels;19;1;9;1;182
+Pop1 Individu;216401301;4;15304;4;1;plantes et produits naturels;9;11;1;1;14
+Pop1 Individu;216401801;4;15331;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;216501401;4;15371;1;1;plantes et produits naturels;19;2;1;1;14
+Pop1 Individu;216501401;4;15372;2;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;216501501;4;15381;1;1;mélange;20;2;1;1;91
+Pop1 Individu;216501901;4;15392;2;1;plantes et produits naturels;8;2;4;1;182
+Pop1 Individu;216501901;4;15393;3;1;plantes et produits naturels;9;2;4;1;182
+Pop1 Individu;216501901;4;15394;4;1;substances à but nutritionnels;6;4;2;1;120
+Pop1 Individu;216501901;4;15395;5;1;plantes et produits naturels;8;2;4;1;273
+Pop1 Individu;216502001;4;15401;1;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;216600301;4;15411;1;3;vitamines et minéraux;5;1;1;4;4
+Pop1 Individu;216702101;4;15471;1;1;mélange;10;4;1;2;365
+Pop1 Individu;216703501;4;15511;1;1;mélange;10;4;2;1;28
+Pop1 Individu;216703501;4;15512;2;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;216703501;4;15513;3;2;vitamines et minéraux;5;1;4;1;35
+Pop1 Individu;216704501;4;15531;1;3;vitamines et minéraux;1;6;1;1;182
+Pop1 Individu;216704501;4;15532;2;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;216704501;4;15533;3;2;vitamines et minéraux;2;1;1;2;365
+Pop1 Individu;216704501;4;15534;4;3;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;216704501;4;15535;5;3;vitamines et minéraux;1;2;1;1;30
+Pop1 Individu;216704701;4;15541;1;1;vitamines et minéraux;5;6;1;1;30
+Pop1 Individu;216704701;4;15542;2;3;mélange;27;1;;1;30
+Pop1 Individu;216704701;4;15543;3;2;vitamines et minéraux;5;1;1;1;244
+Pop1 Individu;216707001;4;15601;1;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;216707001;4;15602;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;216801601;4;15672;2;2;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;216801601;4;15673;3;1;vitamines et minéraux;5;1;2;1;28
+Pop1 Individu;216804601;4;15741;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;216901701;4;15791;1;1;plantes et produits naturels;8;3;1;1;122
+Pop1 Individu;216902001;4;15801;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;216902001;4;15802;2;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;216902101;4;15811;1;2;vitamines et minéraux;1;1;2;2;365
+Pop1 Individu;216902101;4;15812;2;1;mélange;20;2;2;2;365
+Pop1 Individu;216902101;4;15813;3;1;mélange;12;4;1;1;30
+Pop1 Individu;216903301;4;15841;1;2;vitamines et minéraux;5;1;4;2;365
+Pop1 Individu;216903301;4;15842;2;1;plantes et produits naturels;8;2;2;1;3.5
+Pop1 Individu;216903301;4;15843;3;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;217101501;4;15921;1;2;vitamines et minéraux;1;1;2;1;14
+Pop1 Individu;217300701;4;15931;1;2;vitamines et minéraux;1;1;1;4;6
+Pop1 Individu;217405001;4;16131;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;217405001;4;16132;2;1;vitamines et minéraux;3;2;1;1;182
+Pop1 Individu;217500401;4;16191;1;2;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;217500401;4;16192;2;1;mélange;12;2;1;1;91
+Pop1 Individu;217500401;4;16193;3;2;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;217500601;4;16201;1;2;vitamines et minéraux;5;14;2;2;365
+Pop1 Individu;217500601;4;16202;2;1;mélange;12;1;2;2;365
+Pop1 Individu;217500701;4;16211;1;1;vitamines et minéraux;5;1;1;1;90
+Pop1 Individu;217500701;4;16212;2;1;mélange;23;3;1;1;60
+Pop1 Individu;217500701;4;16213;3;2;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;217501001;4;16221;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;217504301;4;16261;1;1;mélange;20;2;2;1;91
+Pop1 Individu;217504301;4;16262;2;1;mélange;12;1;3;1;91
+Pop1 Individu;217505101;4;16271;1;2;vitamines et minéraux;1;1;2;1;14
+Pop1 Individu;217505501;4;16291;1;1;mélange;13;2;1;1;91
+Pop1 Individu;217505501;4;16292;2;1;substances à but nutritionnels;24;2;1;1;122
+Pop1 Individu;217505901;4;16311;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;217506701;4;16341;1;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;217506701;4;16342;2;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;217506801;4;16351;1;2;vitamines et minéraux;5;1;5;1;91
+Pop1 Individu;217507801;4;16361;1;2;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;217507801;4;16362;2;1;plantes et produits naturels;8;13;1;1;42
+Pop1 Individu;217508401;4;16371;1;1;plantes et produits naturels;8;2;2;1;61
+Pop1 Individu;217508401;4;16372;2;1;plantes et produits naturels;8;2;2;1;61
+Pop1 Individu;217508401;4;16373;3;1;plantes et produits naturels;8;7;1;1;14
+Pop1 Individu;217509001;4;16391;1;3;vitamines et minéraux;1;6;1;4;1
+Pop1 Individu;217509201;4;16401;1;2;vitamines et minéraux;1;1;3;1;10.5
+Pop1 Individu;217509201;4;16402;2;2;plantes et produits naturels;8;1;4;1;21
+Pop1 Individu;217509201;4;16403;3;1;vitamines et minéraux;3;1;1;1;28
+Pop1 Individu;217509201;4;16404;4;2;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;217509201;4;16405;5;3;mélange;27;16;1;5;999
+Pop1 Individu;217509801;4;16411;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;217509801;4;16412;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;217513401;4;16441;1;3;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;217513401;4;16442;2;3;vitamines et minéraux;2;2;2;2;365
+Pop1 Individu;217513401;4;16443;3;1;plantes et produits naturels;8;4;3;1;91
+Pop1 Individu;217513401;4;16444;4;1;plantes et produits naturels;8;3;1;1;84
+Pop1 Individu;217514601;4;16471;1;2;vitamines et minéraux;5;1;2;1;7
+Pop1 Individu;217514701;4;16481;1;2;vitamines et minéraux;5;1;2;1;21
+Pop1 Individu;217516401;4;16501;1;3;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;217516601;4;16511;1;2;substances à but nutritionnels;7;2;4;2;365
+Pop1 Individu;217516801;4;16521;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;217600301;4;16561;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;217600301;4;16562;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;217601001;4;16581;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;217603801;4;16661;1;1;vitamines et minéraux;5;1;4;1;30
+Pop1 Individu;217604101;4;16681;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;217700701;4;16701;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;217800701;4;16751;1;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;217800701;4;16752;2;2;vitamines et minéraux;1;1;2;1;61
+Pop1 Individu;217800701;4;16753;3;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;217801301;4;16771;1;1;vitamines et minéraux;3;1;1;1;14
+Pop1 Individu;218000901;4;16851;1;2;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;218300701;4;16891;1;2;vitamines et minéraux;5;1;3;1;30
+Pop1 Individu;218300901;4;16901;1;1;plantes et produits naturels;8;14;30;1;152
+Pop1 Individu;218300901;4;16902;2;2;vitamines et minéraux;5;1;6;1;14
+Pop1 Individu;218300901;4;16903;3;1;plantes et produits naturels;9;3;1;1;91
+Pop1 Individu;218300901;4;16904;4;3;mélange;27;1;1;1;90
+Pop1 Individu;218300901;4;16905;5;3;mélange;27;1;2;1;61
+Pop1 Individu;218301401;4;16921;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;218401901;4;16971;1;3;vitamines et minéraux;1;3;1;3;12
+Pop1 Individu;218402601;4;16991;1;1;mélange;12;3;1;2;365
+Pop1 Individu;218402601;4;16992;2;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;218402701;4;17001;1;1;mélange;13;1;1;1;28
+Pop1 Individu;218402901;4;17011;1;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;218603001;4;17091;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;218603601;4;17101;1;1;vitamines et minéraux;2;2;1;2;365
+Pop1 Individu;218603601;4;17102;2;1;plantes et produits naturels;8;4;3;2;365
+Pop1 Individu;218604001;4;17111;1;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;218604001;4;17112;2;1;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;218703401;4;17181;1;2;vitamines et minéraux;5;1;2;1;90
+Pop1 Individu;218703601;4;17191;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;218800601;4;17221;1;1;mélange;11;1;1;1;30
+Pop1 Individu;219203401;4;17281;1;1;mélange;11;1;2;2;365
+Pop1 Individu;219203401;4;17282;2;1;mélange;12;4;1;2;365
+Pop1 Individu;219203401;4;17283;3;1;mélange;23;2;1;2;365
+Pop1 Individu;219203401;4;17284;4;1;mélange;27;3;1;2;365
+Pop1 Individu;219203401;4;17285;5;1;plantes et produits naturels;19;1;9;2;365
+Pop1 Individu;219204001;4;17291;1;2;vitamines et minéraux;1;1;2;2;365
+Pop1 Individu;219204001;4;17292;2;2;vitamines et minéraux;5;11;3;2;365
+Pop1 Individu;219204001;4;17293;3;1;mélange;20;1;2;2;365
+Pop1 Individu;219207001;4;17321;1;1;vitamines et minéraux;5;1;1;4;4
+Pop1 Individu;219208101;4;17331;1;3;mélange;27;2;1;2;365
+Pop1 Individu;219208101;4;17332;2;3;mélange;27;2;1;2;365
+Pop1 Individu;219208101;4;17333;3;3;mélange;27;2;1;2;365
+Pop1 Individu;219208101;4;17334;4;3;mélange;27;2;1;2;365
+Pop1 Individu;219301101;4;17361;1;1;plantes et produits naturels;8;1;3;1;56
+Pop1 Individu;219301201;4;17371;1;1;vitamines et minéraux;5;1;1;1;90
+Pop1 Individu;219302301;4;17401;1;1;mélange;10;4;2;2;365
+Pop1 Individu;219302301;4;17402;2;1;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;219302301;4;17403;3;1;vitamines et minéraux;1;4;2;2;365
+Pop1 Individu;219302301;4;17404;4;1;substances à but nutritionnels;7;8;3;1;112
+Pop1 Individu;219303101;4;17421;1;1;vitamines et minéraux;5;1;2;1;120
+Pop1 Individu;219305001;4;17461;1;1;plantes et produits naturels;9;2;2;2;365
+Pop1 Individu;219305001;4;17462;2;1;plantes et produits naturels;8;4;6;2;365
+Pop1 Individu;219400101;4;17491;1;1;vitamines et minéraux;5;2;2;2;365
+Pop1 Individu;219400101;4;17492;2;2;mélange;11;1;4;2;365
+Pop1 Individu;219400101;4;17493;3;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;220101001;4;17631;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;220101701;4;17651;1;1;plantes et produits naturels;9;3;1;1;14
+Pop1 Individu;220101701;4;17652;2;1;vitamines et minéraux;5;2;1;1;7
+Pop1 Individu;220602001;2;17701;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;220602301;4;17711;1;1;vitamines et minéraux;3;7;1;1;90
+Pop1 Individu;220602301;4;17712;2;2;vitamines et minéraux;4;3;1;1;7
+Pop1 Individu;220602301;4;17713;3;1;vitamines et minéraux;3;7;1;1;90
+Pop1 Individu;220602301;4;17714;4;3;mélange;27;16;1;5;999
+Pop1 Individu;220602301;4;17715;5;3;mélange;27;16;1;5;999
+Pop1 Individu;220604901;3;17741;1;2;vitamines et minéraux;1;3;1;2;182
+Pop1 Individu;220700301;4;17781;1;1;plantes et produits naturels;9;7;1;1;7
+Pop1 Individu;220700301;4;17782;2;1;plantes et produits naturels;19;6;1;1;3.5
+Pop1 Individu;220701301;4;17811;1;1;plantes et produits naturels;9;3;2;1;28
+Pop1 Individu;220701401;1;17821;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;220900701;4;17851;1;1;vitamines et minéraux;1;13;1;2;365
+Pop1 Individu;221100201;4;17871;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;221101601;4;17891;1;1;vitamines et minéraux;5;11;1;1;28
+Pop1 Individu;221102401;1;17901;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;221200601;4;17921;1;2;vitamines et minéraux;4;10;1;1;7
+Pop1 Individu;221200801;4;17941;1;1;vitamines et minéraux;3;11;1;2;365
+Pop1 Individu;221202201;4;17991;1;1;vitamines et minéraux;3;11;1;3;12
+Pop1 Individu;221202901;4;18021;1;1;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;221203101;4;18031;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;221300501;4;18051;1;3;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;221300701;4;18061;1;1;plantes et produits naturels;9;2;1;1;14
+Pop1 Individu;221300901;4;18071;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;221305101;4;18151;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;221400501;4;18161;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;221401501;4;18201;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;221401601;4;18211;1;1;vitamines et minéraux;3;11;1;1;7
+Pop1 Individu;221402701;4;18231;1;1;plantes et produits naturels;9;6;1;1;14
+Pop1 Individu;221700401;4;18311;1;1;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;222101401;4;18351;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;222200901;4;18451;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;222201501;4;18461;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;222500401;4;18521;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;222501001;4;18531;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;222501801;4;18551;1;1;mélange;10;1;1;1;122
+Pop1 Individu;222502201;4;18581;1;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;222502301;4;18591;1;3;mélange;27;1;1;1;30
+Pop1 Individu;222502401;4;18601;1;2;vitamines et minéraux;4;7;1;1;7
+Pop1 Individu;222502901;4;18611;1;1;mélange;23;13;1;1;14
+Pop1 Individu;222702301;4;18711;1;2;vitamines et minéraux;2;11;1;1;91
+Pop1 Individu;222703501;4;18761;1;1;vitamines et minéraux;3;11;1;1;21
+Pop1 Individu;222703501;4;18762;2;2;mélange;11;3;1;1;122
+Pop1 Individu;222901401;1;18801;1;1;plantes et produits naturels;9;6;1;1;252
+Pop1 Individu;222901601;4;18811;1;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;222901701;3;18821;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;223000901;4;18901;1;1;mélange;12;12;1;1;60
+Pop1 Individu;223001101;4;18911;1;1;vitamines et minéraux;3;2;1;1;30
+Pop1 Individu;223300901;4;19021;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;223301801;1;19041;1;1;vitamines et minéraux;5;1;1;2;30
+Pop1 Individu;223301801;1;19042;2;1;plantes et produits naturels;9;2;1;2;30
+Pop1 Individu;223302101;4;19051;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;223303801;4;19131;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;223305101;4;19161;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;223305101;4;19162;2;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;223601101;1;19311;1;2;vitamines et minéraux;1;3;1;3;52
+Pop1 Individu;223601101;1;19312;2;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;223603101;4;19331;1;1;vitamines et minéraux;5;1;1;4;1
+Pop1 Individu;223603101;4;19332;2;3;vitamines et minéraux;5;1;1;4;4
+Pop1 Individu;223800701;4;19401;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;223802001;4;19441;1;1;mélange;12;11;1;1;30
+Pop1 Individu;223803701;4;19491;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;223803801;4;19501;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;223805801;4;19561;1;1;vitamines et minéraux;3;5;1;1;14
+Pop1 Individu;223805801;4;19562;2;1;mélange;12;11;1;1;14
+Pop1 Individu;223806601;4;19591;1;1;plantes et produits naturels;9;6;1;1;30
+Pop1 Individu;223806601;4;19592;2;1;mélange;23;11;1;1;28
+Pop1 Individu;223900101;4;19611;1;1;vitamines et minéraux;5;2;1;1;60
+Pop1 Individu;223900101;4;19613;3;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;223900101;4;19614;4;1;vitamines et minéraux;5;2;1;4;4
+Pop1 Individu;223900301;4;19621;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;224200401;4;19641;1;2;substances à but nutritionnels;7;13;1;2;365
+Pop1 Individu;224200401;4;19642;2;2;vitamines et minéraux;4;3;1;4;4
+Pop1 Individu;224401401;4;19691;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;224401601;4;19711;1;3;mélange;27;3;2;1;14
+Pop1 Individu;224401901;1;19721;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;224402301;1;19741;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;224901001;4;19821;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;224901401;4;19851;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;224901701;4;19861;1;3;vitamines et minéraux;1;1;.5;1;14
+Pop1 Individu;225100501;4;19981;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;225300301;4;20021;1;1;plantes et produits naturels;9;11;1;1;30
+Pop1 Individu;225300501;4;20041;1;3;mélange;27;11;1;4;1
+Pop1 Individu;225401601;4;20051;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;225900701;4;20231;1;1;vitamines et minéraux;1;11;1;1;30
+Pop1 Individu;225901601;4;20271;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;225902001;4;20291;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;225905801;4;20361;1;2;vitamines et minéraux;1;1;1;1;61
+Pop1 Individu;225905801;4;20362;2;1;vitamines et minéraux;3;11;2;1;61
+Pop1 Individu;225907701;4;20421;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;225907701;4;20422;2;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;225907901;1;20431;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;226200301;4;20641;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;226303201;4;20801;1;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;226400101;1;20821;1;2;vitamines et minéraux;3;13;1;2;30
+Pop1 Individu;226500201;4;20841;1;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;226501301;4;20861;1;3;mélange;27;3;1;1;14
+Pop1 Individu;226501301;4;20862;2;1;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;226701401;4;20901;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;226706501;4;21011;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;226800601;4;21051;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;226801101;4;21071;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;226802201;4;21091;1;2;vitamines et minéraux;1;3;1;4;6
+Pop1 Individu;226803201;4;21111;1;2;vitamines et minéraux;5;6;1;1;60
+Pop1 Individu;226803301;4;21121;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;226901101;4;21161;1;1;vitamines et minéraux;5;1;1;1;152
+Pop1 Individu;226901901;1;21191;1;2;vitamines et minéraux;3;13;1;2;30
+Pop1 Individu;227000701;4;21241;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;227101201;4;21311;1;1;vitamines et minéraux;5;11;4;1;30
+Pop1 Individu;227200101;4;21321;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;227300201;4;21331;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;227300701;4;21351;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;227403501;4;21471;1;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;227500601;4;21551;1;1;vitamines et minéraux;3;5;1;1;122
+Pop1 Individu;227500901;4;21561;1;1;vitamines et minéraux;3;1;1;1;91
+Pop1 Individu;227504401;4;21621;1;2;vitamines et minéraux;1;13;1;2;182
+Pop1 Individu;227504601;4;21641;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;227505001;4;21671;1;1;vitamines et minéraux;1;2;1;2;365
+Pop1 Individu;227505001;4;21672;2;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;227506001;4;21721;1;3;mélange;27;1;1;1;42
+Pop1 Individu;227508101;4;21751;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;227508301;4;21761;1;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;227511001;4;21811;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;227602401;4;21891;1;1;vitamines et minéraux;5;13;1;1;14
+Pop1 Individu;227801801;4;22041;1;1;plantes et produits naturels;8;1;1;1;42
+Pop1 Individu;227801801;4;22042;2;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;227801801;4;22043;3;1;plantes et produits naturels;9;6;1;1;60
+Pop1 Individu;227803001;4;22081;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;227803301;4;22091;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;227804201;4;22121;1;1;vitamines et minéraux;3;11;1;1;122
+Pop1 Individu;227804301;4;22131;1;1;vitamines et minéraux;5;11;1;1;61
+Pop1 Individu;227804301;4;22132;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;228000501;4;22151;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;228401401;4;22241;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;228402701;4;22261;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;228402801;4;22271;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;228602001;4;22321;1;3;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;228602601;3;22331;1;2;vitamines et minéraux;1;13;4.5;2;365
+Pop1 Individu;228602601;3;22334;4;2;vitamines et minéraux;2;6;2;2;365
+Pop1 Individu;228602601;3;22335;5;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;228701701;4;22411;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;228800101;4;22441;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;228900301;4;22481;1;1;plantes et produits naturels;9;2;4;1;14
+Pop1 Individu;229201301;4;22541;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;229201301;4;22542;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;229202401;4;22551;1;1;mélange;12;1;1;3;12
+Pop1 Individu;229202401;4;22552;2;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;229204701;4;22591;1;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;229209201;4;22671;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;229304101;4;22771;1;3;vitamines et minéraux;1;1;1;1;42
+Pop1 Individu;229304101;4;22772;2;3;vitamines et minéraux;1;3;1;1;182
+Pop1 Individu;229304801;2;22791;1;2;vitamines et minéraux;3;3;1;4;4
+Pop1 Individu;229403501;1;22941;1;2;vitamines et minéraux;3;13;1;2;30
+Pop1 Individu;310100201;4;23031;1;1;mélange;10;4;1;1;30
+Pop1 Individu;310101401;4;23051;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;310602101;4;23101;1;1;mélange;12;1;1;2;365
+Pop1 Individu;310602101;4;23102;2;2;vitamines et minéraux;2;3;1;2;365
+Pop1 Individu;310602101;4;23103;3;2;vitamines et minéraux;2;3;1;1;30
+Pop1 Individu;310602101;4;23104;4;1;substances à but nutritionnels;7;2;2;1;30
+Pop1 Individu;310603901;4;23131;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;310603901;4;23132;2;1;mélange;12;2;2;2;365
+Pop1 Individu;310603901;4;23133;3;1;mélange;12;1;1;1;180
+Pop1 Individu;310603901;4;23134;4;1;mélange;27;2;2;2;365
+Pop1 Individu;310603901;4;23135;5;1;mélange;20;2;2;2;365
+Pop1 Individu;310606201;4;23171;1;1;plantes et produits naturels;8;2;1;2;365
+Pop1 Individu;310608401;4;23191;1;2;vitamines et minéraux;1;1;1;4;6
+Pop1 Individu;310700101;4;23221;1;3;vitamines et minéraux;1;1;2;1;7
+Pop1 Individu;310701201;4;23271;1;1;mélange;12;1;1;1;30
+Pop1 Individu;310701201;4;23272;2;3;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;310900501;4;23281;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;311101601;4;23361;1;1;mélange;12;2;2;1;91
+Pop1 Individu;311101601;4;23362;2;2;mélange;11;1;4;1;91
+Pop1 Individu;311101601;4;23363;3;2;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;311102301;4;23371;1;2;vitamines et minéraux;1;1;1;5;999
+Pop1 Individu;311102301;4;23372;2;1;plantes et produits naturels;8;3;1;1;21
+Pop1 Individu;311102301;4;23373;3;1;plantes et produits naturels;8;3;2;1;21
+Pop1 Individu;311102301;4;23374;4;3;plantes et produits naturels;8;3;1;1;21
+Pop1 Individu;311200701;4;23411;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;311202301;4;23461;1;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;311301801;4;23551;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;311302701;4;23581;1;3;plantes et produits naturels;8;2;1;1;91
+Pop1 Individu;311303501;4;23591;1;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;311303501;4;23592;2;3;mélange;27;3;;1;90
+Pop1 Individu;311303701;4;23601;1;2;vitamines et minéraux;1;3;1;1;42
+Pop1 Individu;311305501;4;23641;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;311306001;4;23661;1;3;vitamines et minéraux;2;1;1;1;91
+Pop1 Individu;311400501;4;23691;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;311400601;4;23701;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;311400601;4;23702;2;1;mélange;13;4;1;1;28
+Pop1 Individu;311400601;4;23703;3;1;mélange;18;2;6;1;60
+Pop1 Individu;311600201;4;23811;1;2;vitamines et minéraux;2;1;3;1;61
+Pop1 Individu;311600401;4;23821;1;1;vitamines et minéraux;5;2;1;1;90
+Pop1 Individu;311600801;4;23831;1;1;plantes et produits naturels;8;2;2;4;1
+Pop1 Individu;311600801;4;23832;2;1;plantes et produits naturels;8;2;2;4;1
+Pop1 Individu;311601701;4;23871;1;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;311601701;4;23872;2;2;plantes et produits naturels;8;10;6;2;365
+Pop1 Individu;311601701;4;23873;3;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;311601701;4;23874;4;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;312104301;4;24001;1;3;mélange;27;12;1;1;183
+Pop1 Individu;312105301;4;24031;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;312105301;4;24032;2;1;mélange;12;2;2;2;365
+Pop1 Individu;312200401;4;24061;1;1;vitamines et minéraux;4;2;1;1;60
+Pop1 Individu;312200401;4;24062;2;1;vitamines et minéraux;2;2;2;3;146
+Pop1 Individu;312201001;4;24081;1;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;312201201;4;24091;1;1;mélange;12;12;6;1;182
+Pop1 Individu;312201201;4;24092;2;1;plantes et produits naturels;9;2;1;1;182
+Pop1 Individu;312201201;4;24093;3;3;mélange;21;4;2;1;182
+Pop1 Individu;312400301;4;24111;1;1;mélange;21;1;1;2;365
+Pop1 Individu;312400501;4;24121;1;1;vitamines et minéraux;2;1;2;1;30
+Pop1 Individu;312400501;4;24122;2;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;312500601;4;24131;1;1;vitamines et minéraux;5;1;2;1;122
+Pop1 Individu;312500601;4;24132;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;312500601;4;24133;3;1;plantes et produits naturels;8;13;1.5;1;42
+Pop1 Individu;312500601;4;24134;4;1;plantes et produits naturels;8;2;6;1;61
+Pop1 Individu;312500601;4;24135;5;1;plantes et produits naturels;8;2;6;1;35
+Pop1 Individu;312501101;4;24141;1;1;mélange;12;1;4;1;122
+Pop1 Individu;312501401;4;24161;1;1;vitamines et minéraux;5;2;2;1;61
+Pop1 Individu;312501701;4;24191;1;2;vitamines et minéraux;1;1;1;1;122
+Pop1 Individu;312503101;4;24231;1;1;mélange;17;1;2;1;61
+Pop1 Individu;312503701;4;24251;1;2;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;312504101;4;24271;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;312504101;4;24272;2;1;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;312504101;4;24273;3;1;substances à but nutritionnels;6;4;2;2;365
+Pop1 Individu;312504101;4;24274;4;1;vitamines et minéraux;5;2;2;2;365
+Pop1 Individu;312504101;4;24275;5;1;vitamines et minéraux;4;7;2;2;365
+Pop1 Individu;312505801;4;24301;1;2;vitamines et minéraux;5;1;4;1;14
+Pop1 Individu;312506601;4;24321;1;1;vitamines et minéraux;5;2;2;2;365
+Pop1 Individu;312701201;4;24331;1;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;312701801;4;24361;1;1;plantes et produits naturels;9;2;1;2;365
+Pop1 Individu;312800401;4;24411;1;3;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;312901201;4;24461;1;2;vitamines et minéraux;2;3;1;2;365
+Pop1 Individu;312901201;4;24462;2;1;substances à but nutritionnels;7;3;1;2;365
+Pop1 Individu;312901201;4;24463;3;1;plantes et produits naturels;8;4;1;2;365
+Pop1 Individu;312901201;4;24464;4;3;mélange;27;1;1;2;365
+Pop1 Individu;312903901;4;24491;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;312904301;4;24501;1;1;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;313000901;4;24541;1;1;vitamines et minéraux;3;3;1;1;21
+Pop1 Individu;313102001;4;24591;1;1;mélange;10;4;1;1;999
+Pop1 Individu;313102001;4;24592;2;2;vitamines et minéraux;5;1;4;1;91
+Pop1 Individu;313102601;4;24621;1;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;313102601;4;24622;2;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;313102601;4;24623;3;3;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;313104201;4;24671;1;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;313303201;4;24851;1;1;plantes et produits naturels;8;4;1;1;61
+Pop1 Individu;313303201;4;24852;2;1;vitamines et minéraux;5;1;3;1;21
+Pop1 Individu;313305601;4;24891;1;2;vitamines et minéraux;2;1;1;1;182
+Pop1 Individu;313305601;4;24892;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;313400801;4;24931;1;2;vitamines et minéraux;1;4;2;1;3.5
+Pop1 Individu;313403201;4;24951;1;1;mélange;17;2;1;2;365
+Pop1 Individu;313403201;4;24952;2;1;substances à but nutritionnels;6;4;1;2;365
+Pop1 Individu;313403201;4;24953;3;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;313403201;4;24954;4;2;vitamines et minéraux;2;2;1;2;365
+Pop1 Individu;313403801;4;24971;1;2;vitamines et minéraux;2;3;2;1;42
+Pop1 Individu;313403801;4;24972;2;3;vitamines et minéraux;4;3;2;1;42
+Pop1 Individu;313403801;4;24973;3;3;vitamines et minéraux;4;3;2;1;42
+Pop1 Individu;313404301;4;24981;1;1;mélange;27;2;2;1;30
+Pop1 Individu;313404301;4;24982;2;1;plantes et produits naturels;8;3;2;1;14
+Pop1 Individu;313502701;4;25081;1;2;vitamines et minéraux;1;1;2;1;42
+Pop1 Individu;313502701;4;25082;2;1;plantes et produits naturels;8;2;1;1;14
+Pop1 Individu;313502701;4;25083;3;3;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;313502901;4;25091;1;1;plantes et produits naturels;8;2;1;1;21
+Pop1 Individu;313601001;4;25121;1;1;mélange;10;4;1;1;30
+Pop1 Individu;313802601;4;25301;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;313802901;4;25321;1;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;313803401;4;25331;1;1;plantes et produits naturels;8;2;1;1;3.5
+Pop1 Individu;313803501;4;25341;1;2;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;313803501;4;25342;2;2;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;313804001;4;25351;1;1;plantes et produits naturels;8;1;4;1;30
+Pop1 Individu;313804001;4;25352;2;1;mélange;12;13;2;1;30
+Pop1 Individu;313804501;4;25371;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;313804501;4;25372;2;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;313804501;4;25373;3;1;vitamines et minéraux;5;1;1;3;30
+Pop1 Individu;313804701;4;25381;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;313804901;4;25391;1;1;plantes et produits naturels;9;2;2;1;42
+Pop1 Individu;313804901;4;25392;2;1;plantes et produits naturels;8;4;1;1;182
+Pop1 Individu;313804901;4;25393;3;1;plantes et produits naturels;8;14;75;3;146
+Pop1 Individu;313804901;4;25394;4;1;substances à but nutritionnels;6;4;2;1;14
+Pop1 Individu;313804901;4;25395;5;3;vitamines et minéraux;1;1;4;1;91
+Pop1 Individu;313805801;4;25421;1;1;substances à but nutritionnels;7;2;1;1;91
+Pop1 Individu;313805801;4;25422;2;3;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;313805801;4;25423;3;1;mélange;12;1;1;1;91
+Pop1 Individu;314100301;4;25491;1;1;substances à but nutritionnels;6;4;6;1;182
+Pop1 Individu;314100301;4;25492;2;1;mélange;12;4;2;2;365
+Pop1 Individu;314100301;4;25493;3;1;mélange;12;13;1;2;365
+Pop1 Individu;314200801;4;25531;1;3;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;314402101;4;25551;1;1;substances à but nutritionnels;6;1;2;1;91
+Pop1 Individu;314402701;4;25571;1;1;mélange;12;1;1;1;56
+Pop1 Individu;314403801;4;25581;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;314404101;4;25591;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;314404101;4;25592;2;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;314404901;4;25621;1;1;vitamines et minéraux;3;1;1;1;91
+Pop1 Individu;314404901;4;25622;2;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;314404901;4;25623;3;2;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;314404901;4;25624;4;1;plantes et produits naturels;8;1;1;1;30
+Pop1 Individu;314405801;4;25641;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;314500701;4;25661;1;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;314500701;4;25662;2;2;mélange;12;1;1;3;52
+Pop1 Individu;314501301;4;25681;1;1;plantes et produits naturels;8;1;1;1;244
+Pop1 Individu;314501301;4;25682;2;3;vitamines et minéraux;2;3;1;1;30
+Pop1 Individu;314901301;4;25711;1;1;plantes et produits naturels;8;4;3;1;91
+Pop1 Individu;314901301;4;25712;2;1;plantes et produits naturels;8;4;2;1;999
+Pop1 Individu;314902101;4;25741;1;2;vitamines et minéraux;5;1;2;1;61
+Pop1 Individu;314903001;4;25771;1;1;mélange;12;1;1;1;30
+Pop1 Individu;314904401;4;25801;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;315300101;4;25911;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;315400701;4;25941;1;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;315400901;4;25951;1;3;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;315401501;4;25961;1;3;vitamines et minéraux;2;1;1;1;91
+Pop1 Individu;315401501;4;25962;2;1;plantes et produits naturels;9;11;1;1;182
+Pop1 Individu;315403001;4;26021;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;315601901;4;26071;1;1;plantes et produits naturels;8;1;6;2;365
+Pop1 Individu;315601901;4;26072;2;1;substances à but nutritionnels;7;1;6;2;365
+Pop1 Individu;315601901;4;26073;3;1;vitamines et minéraux;2;1;.5;2;365
+Pop1 Individu;315601901;4;26074;4;1;vitamines et minéraux;1;1;.5;2;365
+Pop1 Individu;315601901;4;26075;5;1;mélange;10;14;8;2;365
+Pop1 Individu;315602201;4;26081;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;315602201;4;26082;2;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;315703001;4;26201;1;1;vitamines et minéraux;2;2;1;1;91
+Pop1 Individu;315703601;4;26211;1;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;315900501;4;26261;1;2;vitamines et minéraux;5;1;6;1;42
+Pop1 Individu;315900501;4;26262;2;2;vitamines et minéraux;1;1;1;1;61
+Pop1 Individu;315900601;4;26271;1;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;315900801;4;26281;1;1;mélange;10;4;1;2;365
+Pop1 Individu;315900801;4;26282;2;1;mélange;10;4;1;2;365
+Pop1 Individu;315901301;4;26301;1;1;plantes et produits naturels;9;1;1;1;183
+Pop1 Individu;315901301;4;26302;2;3;vitamines et minéraux;2;15;2;1;30
+Pop1 Individu;315901801;4;26321;1;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;315902101;4;26341;1;1;plantes et produits naturels;9;2;1;1;61
+Pop1 Individu;315903301;4;26391;1;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;315903301;4;26392;2;3;vitamines et minéraux;4;11;2;1;60
+Pop1 Individu;315906401;4;26441;1;3;vitamines et minéraux;2;2;1;1;30
+Pop1 Individu;315906701;4;26451;1;2;vitamines et minéraux;2;3;1;2;365
+Pop1 Individu;315908901;4;26531;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;315910701;4;26571;1;2;vitamines et minéraux;5;3;1;1;122
+Pop1 Individu;315910701;4;26572;2;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;315910901;4;26581;1;2;vitamines et minéraux;5;1;6;1;90
+Pop1 Individu;315910901;4;26582;2;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;315911001;4;26591;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;316102001;4;26711;1;3;mélange;27;1;3;1;14
+Pop1 Individu;316200801;4;26751;1;1;plantes et produits naturels;9;3;1;1;61
+Pop1 Individu;316202901;4;26841;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;316300101;4;26851;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;316501801;4;26961;1;1;plantes et produits naturels;8;6;1;3;146
+Pop1 Individu;316501801;4;26962;2;1;mélange;27;6;1;2;365
+Pop1 Individu;316501801;4;26963;3;1;plantes et produits naturels;8;6;1;2;365
+Pop1 Individu;316501801;4;26964;4;1;plantes et produits naturels;8;1;1;1;60
+Pop1 Individu;316501801;4;26965;5;3;mélange;27;16;1;3;12
+Pop1 Individu;316701101;4;26971;1;1;mélange;10;2;6;1;30
+Pop1 Individu;316702601;4;27021;1;2;vitamines et minéraux;5;1;3;1;21
+Pop1 Individu;316702601;4;27022;2;3;vitamines et minéraux;1;3;1;1;91
+Pop1 Individu;316704401;4;27081;1;1;mélange;21;2;2;1;182
+Pop1 Individu;316704401;4;27082;2;2;vitamines et minéraux;2;1;1;3;146
+Pop1 Individu;316800401;4;27131;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;316800401;4;27132;2;2;vitamines et minéraux;5;1;3;1;10.5
+Pop1 Individu;316801001;4;27141;1;1;plantes et produits naturels;9;10;1;1;122
+Pop1 Individu;316801201;4;27151;1;1;vitamines et minéraux;3;11;1;1;28
+Pop1 Individu;316801201;4;27152;2;1;vitamines et minéraux;1;14;1;1;168
+Pop1 Individu;316801201;4;27153;3;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;316801201;4;27154;4;1;vitamines et minéraux;2;2;2;1;120
+Pop1 Individu;316801201;4;27155;5;1;plantes et produits naturels;8;1;2;1;999
+Pop1 Individu;316801801;4;27161;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;316802801;4;27201;1;1;vitamines et minéraux;2;1;1;3;30
+Pop1 Individu;316901301;4;27251;1;1;mélange;12;1;1;1;120
+Pop1 Individu;316902201;4;27271;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;316902201;4;27272;2;1;vitamines et minéraux;5;2;1;1;7
+Pop1 Individu;316902301;4;27281;1;2;vitamines et minéraux;5;1;3;1;30
+Pop1 Individu;316902301;4;27282;2;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;316902301;4;27283;3;3;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;317000301;4;27331;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;317001001;4;27341;1;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;317300101;4;27421;1;1;vitamines et minéraux;2;1;2;1;182
+Pop1 Individu;317300101;4;27422;2;1;vitamines et minéraux;2;2;3;2;365
+Pop1 Individu;317300101;4;27423;3;3;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;317300101;4;27424;4;1;mélange;13;2;2;1;21
+Pop1 Individu;317300801;4;27451;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;317301601;4;27481;1;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;317401601;4;27512;2;1;mélange;22;6;1;2;365
+Pop1 Individu;317404501;4;27621;1;3;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;317405201;4;27651;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;317406301;4;27692;2;1;mélange;22;7;2;3;52
+Pop1 Individu;317406501;4;27701;1;1;plantes et produits naturels;8;1;1;3;30
+Pop1 Individu;317406501;4;27702;2;1;plantes et produits naturels;8;1;1;1;21
+Pop1 Individu;317500901;4;27731;1;2;vitamines et minéraux;1;1;1;4;4
+Pop1 Individu;317501101;4;27741;1;1;vitamines et minéraux;2;1;1;1;60
+Pop1 Individu;317501101;4;27742;2;3;vitamines et minéraux;2;3;1;4;2
+Pop1 Individu;317503101;4;27751;1;2;vitamines et minéraux;1;1;1;4;6
+Pop1 Individu;317503101;4;27752;2;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;317503501;4;27761;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;317503601;4;27771;1;2;mélange;12;1;2;1;21
+Pop1 Individu;317504401;4;27801;1;3;vitamines et minéraux;1;1;1;4;2
+Pop1 Individu;317504801;4;27831;1;1;mélange;12;2;2;1;122
+Pop1 Individu;317504801;4;27832;2;2;substances à but nutritionnels;7;2;2;1;122
+Pop1 Individu;317504801;4;27833;3;1;mélange;12;1;.30000001;1;152
+Pop1 Individu;317504801;4;27834;4;1;mélange;13;1;1;1;30
+Pop1 Individu;317505201;4;27841;1;2;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;317506501;4;27861;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;317507101;4;27871;1;1;vitamines et minéraux;4;2;2;2;365
+Pop1 Individu;317507101;4;27872;2;1;plantes et produits naturels;9;2;1;1;999
+Pop1 Individu;317507101;4;27873;3;1;mélange;10;2;1;2;365
+Pop1 Individu;317508601;4;27891;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;317510601;4;27921;1;2;vitamines et minéraux;1;4;1;1;14
+Pop1 Individu;317512701;4;27941;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;317512701;4;27942;2;1;vitamines et minéraux;2;1;1;1;91
+Pop1 Individu;317512701;4;27943;3;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;317512701;4;27944;4;3;vitamines et minéraux;1;1;1;1;61
+Pop1 Individu;317513201;4;27952;2;1;substances à but nutritionnels;7;6;.30000001;1;120
+Pop1 Individu;317513201;4;27953;3;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;317513201;4;27954;4;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;317513201;4;27955;5;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;317513401;4;27961;1;3;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;317513401;4;27962;2;2;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;317513801;4;27971;1;2;vitamines et minéraux;1;1;2;1;3.5
+Pop1 Individu;317513901;4;27981;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;317515401;4;27991;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;317515701;4;28001;1;1;plantes et produits naturels;8;2;2;1;60
+Pop1 Individu;317515701;4;28002;2;1;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;317515801;4;28011;1;3;vitamines et minéraux;2;1;1;1;61
+Pop1 Individu;317515801;4;28012;2;3;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;317515801;4;28013;3;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;317516401;4;28031;1;2;vitamines et minéraux;1;1;1;1;42
+Pop1 Individu;317516401;4;28032;2;1;substances à but nutritionnels;7;2;1;1;91
+Pop1 Individu;317600401;4;28081;1;2;vitamines et minéraux;5;1;3;2;365
+Pop1 Individu;317600401;4;28082;2;2;vitamines et minéraux;2;2;2;1;91
+Pop1 Individu;317600401;4;28083;3;3;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;317601301;4;28091;1;2;vitamines et minéraux;2;2;2;2;365
+Pop1 Individu;317601301;4;28092;2;1;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;317601301;4;28093;3;1;vitamines et minéraux;2;1;1;1;61
+Pop1 Individu;317700101;4;28131;1;3;mélange;27;6;1;1;122
+Pop1 Individu;317700101;4;28132;2;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;317700101;4;28133;3;1;plantes et produits naturels;8;13;1;1;21
+Pop1 Individu;317700101;4;28134;4;3;plantes et produits naturels;8;3;1;1;30
+Pop1 Individu;317700701;4;28181;1;1;substances à but nutritionnels;6;2;1;1;7
+Pop1 Individu;317801401;4;28211;1;1;plantes et produits naturels;8;2;1;1;90
+Pop1 Individu;317801401;4;28212;2;3;mélange;27;1;1;1;30
+Pop1 Individu;317802901;4;28231;1;1;plantes et produits naturels;9;11;1;1;120
+Pop1 Individu;317802901;4;28232;2;1;substances à but nutritionnels;6;1;1;1;90
+Pop1 Individu;317803901;4;28261;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;317804001;4;28271;1;2;vitamines et minéraux;1;1;2;4;4
+Pop1 Individu;318000401;4;28291;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;318000401;4;28292;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;318000701;4;28321;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;318000801;4;28331;1;1;mélange;15;2;2;2;365
+Pop1 Individu;318200601;4;28391;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;318201001;4;28401;1;1;plantes et produits naturels;8;4;2;1;152
+Pop1 Individu;318300401;4;28411;1;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;318301301;4;28431;1;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;318301901;4;28451;1;1;vitamines et minéraux;1;2;1;2;365
+Pop1 Individu;318402101;4;28531;1;3;mélange;27;2;1;1;30
+Pop1 Individu;318403701;4;28581;1;1;mélange;12;1;2;1;60
+Pop1 Individu;318601701;4;28621;1;3;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;318601701;4;28622;2;1;plantes et produits naturels;8;1;4;1;7
+Pop1 Individu;318601701;4;28623;3;3;vitamines et minéraux;2;6;1;1;28
+Pop1 Individu;318602401;4;28651;1;2;mélange;12;1;1;3;12
+Pop1 Individu;318602701;4;28671;1;1;mélange;13;1;1;1;61
+Pop1 Individu;318602701;4;28672;2;2;vitamines et minéraux;2;1;1;1;61
+Pop1 Individu;318603701;4;28701;1;2;vitamines et minéraux;2;2;6;1;30
+Pop1 Individu;318603701;4;28702;2;2;vitamines et minéraux;1;3;1;1;61
+Pop1 Individu;318700201;4;28711;1;1;substances à but nutritionnels;6;4;1;2;365
+Pop1 Individu;318700201;4;28712;2;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;318700201;4;28713;3;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;318700701;4;28741;1;1;plantes et produits naturels;8;11;2;1;61
+Pop1 Individu;318701101;4;28751;1;1;substances à but nutritionnels;7;2;2;1;61
+Pop1 Individu;318800601;4;28821;1;1;plantes et produits naturels;9;2;2;2;365
+Pop1 Individu;318800601;4;28822;2;1;plantes et produits naturels;9;4;1;1;30
+Pop1 Individu;319100601;4;28831;1;2;vitamines et minéraux;5;1;3;1;21
+Pop1 Individu;319100701;4;28841;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;319203601;4;28881;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;319206901;4;28911;1;2;vitamines et minéraux;1;1;2;4;1
+Pop1 Individu;319208201;4;28961;1;1;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;319208201;4;28962;2;2;vitamines et minéraux;1;1;2;1;21
+Pop1 Individu;319208601;4;28981;1;1;plantes et produits naturels;9;3;1;1;60
+Pop1 Individu;319302501;4;29011;1;3;mélange;27;6;3;2;365
+Pop1 Individu;319305601;4;29061;1;1;mélange;12;2;1;2;365
+Pop1 Individu;319305601;4;29062;2;1;plantes et produits naturels;8;3;1;1;63
+Pop1 Individu;319305801;4;29081;1;2;vitamines et minéraux;2;2;1;1;182
+Pop1 Individu;319306501;4;29091;1;1;mélange;13;1;1;2;365
+Pop1 Individu;319306501;4;29092;2;1;mélange;12;1;4;2;365
+Pop1 Individu;319400301;4;29101;1;1;plantes et produits naturels;8;13;1;1;42
+Pop1 Individu;319400301;4;29102;2;1;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;319400301;4;29103;3;1;vitamines et minéraux;1;2;1;2;365
+Pop1 Individu;319406401;4;29142;2;1;plantes et produits naturels;8;2;2;1;28
+Pop1 Individu;320603501;4;29301;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;320604001;4;29311;1;1;mélange;23;11;1;1;30
+Pop1 Individu;320604501;4;29331;1;1;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;320606501;1;29361;1;2;vitamines et minéraux;3;13;1;2;30
+Pop1 Individu;320700201;4;29371;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;321100201;4;29421;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;321101001;4;29441;1;2;vitamines et minéraux;2;1;1;2;365
+Pop1 Individu;321101301;1;29451;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;321101801;4;29461;1;3;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;321200501;1;29501;1;2;vitamines et minéraux;1;14;2;2;30
+Pop1 Individu;321300701;4;29581;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;321303801;4;29591;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;321303801;4;29592;2;1;vitamines et minéraux;5;11;1;1;61
+Pop1 Individu;321304001;4;29601;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;321306101;4;29631;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;321400101;1;29641;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;321400701;4;29671;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;321402301;4;29701;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;321600401;4;29761;1;1;vitamines et minéraux;3;1;1;1;60
+Pop1 Individu;321600401;4;29762;2;1;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;321600501;4;29771;1;1;vitamines et minéraux;5;11;1;1;14
+Pop1 Individu;321600501;4;29772;2;2;substances à but nutritionnels;7;3;1;1;7
+Pop1 Individu;322101201;4;29831;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;322200801;4;29921;1;1;vitamines et minéraux;3;1;1;1;60
+Pop1 Individu;322200801;4;29922;2;2;vitamines et minéraux;5;3;1;1;60
+Pop1 Individu;322400401;3;29931;1;2;vitamines et minéraux;3;3;1;1;182
+Pop1 Individu;322400701;1;29941;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;322500301;4;29961;1;1;plantes et produits naturels;8;12;1;1;152
+Pop1 Individu;322504301;4;30031;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;322702401;1;30111;1;2;vitamines et minéraux;1;14;4;1;999
+Pop1 Individu;322800801;4;30141;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;323102601;4;30251;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;323200501;4;30271;1;3;vitamines et minéraux;5;2;1;1;21
+Pop1 Individu;323301501;1;30331;1;2;vitamines et minéraux;1;3;1;2;30
+Pop1 Individu;323301501;1;30332;2;2;vitamines et minéraux;1;3;1;2;30
+Pop1 Individu;323301601;4;30341;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;323402001;4;30561;1;1;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;323501201;4;30591;1;1;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;323501501;4;30611;1;1;vitamines et minéraux;3;11;1;1;244
+Pop1 Individu;323801501;4;30831;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;323801501;4;30832;2;3;vitamines et minéraux;1;3;1;5;999
+Pop1 Individu;323801801;4;30841;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;323802201;4;30861;1;3;mélange;27;5;1;1;3.5
+Pop1 Individu;323802401;4;30871;1;1;plantes et produits naturels;19;2;1;1;21
+Pop1 Individu;323803201;4;30891;1;1;plantes et produits naturels;8;14;30;1;21
+Pop1 Individu;323803201;4;30892;2;1;plantes et produits naturels;8;14;3;1;17.5
+Pop1 Individu;323805101;1;30961;1;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;323805701;4;30971;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;324402801;4;31061;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;324403201;4;31081;1;2;vitamines et minéraux;2;6;2;1;7
+Pop1 Individu;324403501;4;31091;1;1;mélange;23;11;1;1;7
+Pop1 Individu;324405301;4;31161;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;324501001;4;31221;1;2;vitamines et minéraux;5;1;1;1;63
+Pop1 Individu;324501501;4;31261;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;324900601;4;31291;1;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;324900601;4;31292;2;1;vitamines et minéraux;5;1;3;1;7
+Pop1 Individu;324900701;4;31301;1;1;plantes et produits naturels;9;2;1;1;61
+Pop1 Individu;324901101;4;31311;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;324901101;4;31312;2;2;vitamines et minéraux;1;14;4;2;182
+Pop1 Individu;325300301;4;31451;1;2;vitamines et minéraux;5;6;1;2;365
+Pop1 Individu;325400301;4;31471;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;325401301;4;31511;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;325401601;2;31521;1;2;vitamines et minéraux;5;13;1;2;91
+Pop1 Individu;325601501;4;31571;1;1;vitamines et minéraux;5;1;2;1;42
+Pop1 Individu;325601501;4;31572;2;1;mélange;22;2;1;1;30
+Pop1 Individu;325900601;4;31701;1;1;plantes et produits naturels;9;13;1;1;35
+Pop1 Individu;325900801;4;31711;1;3;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;325902401;4;31751;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;325905801;4;31821;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;325905801;4;31822;2;1;vitamines et minéraux;3;11;1;2;365
+Pop1 Individu;325907701;1;31901;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;326100401;4;32121;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;326100401;4;32122;2;1;plantes et produits naturels;9;1;1;1;60
+Pop1 Individu;326100801;4;32131;1;2;vitamines et minéraux;5;3;1;1;61
+Pop1 Individu;326300301;4;32241;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;326300301;4;32242;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;326302201;4;32271;1;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;326400901;4;32291;1;1;vitamines et minéraux;3;11;1;2;365
+Pop1 Individu;326401301;4;32311;1;1;vitamines et minéraux;5;12;1;1;30
+Pop1 Individu;326401501;4;32321;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;326402101;4;32331;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;326501001;4;32371;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;326501001;4;32372;2;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;326701301;4;32411;1;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;326701301;4;32412;2;1;plantes et produits naturels;8;2;1;1;91
+Pop1 Individu;326701301;4;32413;3;3;vitamines et minéraux;1;2;1;1;91
+Pop1 Individu;326704401;4;32491;1;2;vitamines et minéraux;2;6;2;3;12
+Pop1 Individu;326706501;4;32521;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;326802601;4;32591;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;327100101;1;32701;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;327100701;4;32721;1;1;vitamines et minéraux;3;3;1;1;30
+Pop1 Individu;327401201;4;32761;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;327401501;4;32781;1;3;vitamines et minéraux;2;1;2;3;146
+Pop1 Individu;327403601;4;32871;1;1;vitamines et minéraux;3;6;1;1;7
+Pop1 Individu;327500301;3;32971;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;327501501;4;32981;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;327501501;4;32982;2;2;vitamines et minéraux;1;6;1;1;21
+Pop1 Individu;327501501;4;32983;3;2;vitamines et minéraux;1;1;1;4;4
+Pop1 Individu;327501601;4;32991;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;327508801;4;33091;1;2;vitamines et minéraux;5;3;1.5;1;61
+Pop1 Individu;327509901;4;33131;1;1;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;327512301;1;33171;1;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;327512401;4;33181;1;2;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;327512401;4;33182;2;2;vitamines et minéraux;2;2;1;1;60
+Pop1 Individu;327512401;4;33183;3;2;vitamines et minéraux;2;3;1;1;7
+Pop1 Individu;327600101;2;33191;1;1;vitamines et minéraux;3;11;1;3;52
+Pop1 Individu;327602101;4;33261;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;327700901;4;33301;1;1;plantes et produits naturels;9;2;1;2;365
+Pop1 Individu;327800801;4;33341;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;327803501;4;33431;1;1;vitamines et minéraux;5;2;1;1;21
+Pop1 Individu;327803501;4;33432;2;1;plantes et produits naturels;9;2;1;2;365
+Pop1 Individu;327804701;4;33461;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;328000501;4;33511;1;1;vitamines et minéraux;1;6;1;1;21
+Pop1 Individu;328001301;1;33531;1;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;328603801;1;33751;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;328701101;4;33791;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;328900201;4;33871;1;2;vitamines et minéraux;3;2;2;3;30
+Pop1 Individu;329204301;4;33981;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;329204301;4;33982;2;2;vitamines et minéraux;5;1;3;2;365
+Pop1 Individu;329204801;4;34011;1;1;vitamines et minéraux;3;11;1;1;14
+Pop1 Individu;329205201;4;34021;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;329303501;4;34151;1;1;mélange;23;1;2;2;365
+Pop1 Individu;329400801;4;34251;1;1;plantes et produits naturels;8;14;3;1;182
+Pop1 Individu;329401601;4;34271;1;1;mélange;23;11;1;1;14
+Pop1 Individu;329401601;4;34272;2;2;vitamines et minéraux;4;1;1;1;14
+Pop1 Individu;410100201;4;34361;1;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;410100201;4;34362;2;1;plantes et produits naturels;19;1;2;1;60
+Pop1 Individu;410100201;4;34363;3;1;mélange;12;1;1;1;42
+Pop1 Individu;410100501;4;34371;1;2;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;410100501;4;34372;2;2;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;410101901;4;34411;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;410300101;4;34441;1;2;vitamines et minéraux;5;1;2;1;999
+Pop1 Individu;410300101;4;34442;2;3;vitamines et minéraux;5;1;1;5;999
+Pop1 Individu;410600301;4;34481;1;2;mélange;11;3;1;3;12
+Pop1 Individu;410601701;4;34501;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;410602601;4;34511;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;410700801;4;34561;1;1;plantes et produits naturels;8;2;3;1;61
+Pop1 Individu;410701401;4;34571;1;1;plantes et produits naturels;8;2;1;2;365
+Pop1 Individu;411100201;4;34591;1;2;vitamines et minéraux;5;1;4;1;21
+Pop1 Individu;411100901;4;34611;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;411101401;4;34621;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;411101901;4;34641;1;3;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;411101901;4;34642;2;2;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;411200101;4;34651;1;1;plantes et produits naturels;8;2;1;1;91
+Pop1 Individu;411202601;4;34681;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;411202601;4;34682;2;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;411301401;4;34731;1;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;411302401;4;34761;1;2;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;411303201;4;34771;1;2;vitamines et minéraux;4;13;1;1;60
+Pop1 Individu;411303201;4;34772;2;1;plantes et produits naturels;9;3;1;1;60
+Pop1 Individu;411303201;4;34773;3;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;411304401;4;34801;1;2;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;411304401;4;34802;2;1;mélange;26;2;2;1;140
+Pop1 Individu;411304401;4;34803;3;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;411304401;4;34804;4;1;substances à but nutritionnels;7;2;2;1;91
+Pop1 Individu;411304401;4;34805;5;2;vitamines et minéraux;5;1;4;1;30
+Pop1 Individu;411400601;4;34851;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;411400601;4;34852;2;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;411400901;4;34861;1;1;mélange;12;2;1;1;182
+Pop1 Individu;411400901;4;34862;2;1;plantes et produits naturels;9;2;1;2;365
+Pop1 Individu;411400901;4;34863;3;1;vitamines et minéraux;5;2;1;1;122
+Pop1 Individu;411401501;4;34871;1;3;vitamines et minéraux;3;1;2;2;365
+Pop1 Individu;411402101;4;34891;1;1;plantes et produits naturels;8;2;2;1;21
+Pop1 Individu;411405301;4;34951;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;411405601;4;34971;1;3;vitamines et minéraux;5;15;1;4;4
+Pop1 Individu;411405901;4;34991;1;3;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;411405901;4;34992;2;3;vitamines et minéraux;1;4;1;2;365
+Pop1 Individu;411600501;4;35041;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;411600501;4;35042;2;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;411600601;4;35051;1;1;mélange;10;4;2;1;30
+Pop1 Individu;411600601;4;35052;2;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;412103701;4;35151;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;412200601;4;35171;1;1;plantes et produits naturels;9;2;1;1;21
+Pop1 Individu;412201401;4;35191;1;3;mélange;27;2;2;1;61
+Pop1 Individu;412504801;4;35361;1;2;plantes et produits naturels;8;7;2;2;365
+Pop1 Individu;412504801;4;35362;2;1;mélange;12;1;3;1;122
+Pop1 Individu;412700901;4;35401;1;2;substances à but nutritionnels;7;3;1;1;21
+Pop1 Individu;412702701;4;35431;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;412800501;4;35451;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;412903401;4;35521;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;412905001;4;35551;1;3;mélange;27;1;1;1;21
+Pop1 Individu;413000801;4;35581;1;1;plantes et produits naturels;9;2;4;1;60
+Pop1 Individu;413000801;4;35582;2;1;substances à but nutritionnels;7;2;4;1;30
+Pop1 Individu;413000801;4;35583;3;1;plantes et produits naturels;8;4;2;1;61
+Pop1 Individu;413001001;4;35601;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;413103101;4;35681;1;2;vitamines et minéraux;1;1;.5;1;152
+Pop1 Individu;413103601;4;35691;1;1;vitamines et minéraux;5;2;1;1;122
+Pop1 Individu;413104301;4;35721;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;413104301;4;35722;2;1;plantes et produits naturels;8;2;2;1;122
+Pop1 Individu;413104301;4;35723;3;1;mélange;10;4;2;1;122
+Pop1 Individu;413104301;4;35724;4;2;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;413201101;4;35751;1;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;413201101;4;35752;2;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;413300101;4;35781;1;1;vitamines et minéraux;2;3;1;1;120
+Pop1 Individu;413300101;4;35782;2;2;vitamines et minéraux;1;1;1;1;56
+Pop1 Individu;413300101;4;35784;4;1;vitamines et minéraux;2;3;1;1;120
+Pop1 Individu;413300101;4;35785;5;1;vitamines et minéraux;2;3;1;1;90
+Pop1 Individu;413300301;4;35791;1;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;413300301;4;35792;2;2;vitamines et minéraux;3;1;1;3;146
+Pop1 Individu;413300301;4;35793;3;1;vitamines et minéraux;1;2;1;1;30
+Pop1 Individu;413300501;4;35801;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;413300501;4;35802;2;3;substances à but nutritionnels;7;1;2;1;30
+Pop1 Individu;413301701;4;35841;1;3;vitamines et minéraux;2;1;1;4;1
+Pop1 Individu;413302501;4;35871;1;2;;;1;;2;365
+Pop1 Individu;413302801;4;35891;1;2;vitamines et minéraux;5;1;1;4;4
+Pop1 Individu;413304001;4;35921;1;1;vitamines et minéraux;3;1;1;1;30
+Pop1 Individu;413304001;4;35922;2;2;vitamines et minéraux;1;14;1;1;999
+Pop1 Individu;413304401;4;35941;1;1;mélange;13;1;1;1;182
+Pop1 Individu;413304401;4;35942;2;1;plantes et produits naturels;19;2;1;1;30
+Pop1 Individu;413304401;4;35943;3;1;substances à but nutritionnels;6;2;1;1;91
+Pop1 Individu;413308401;4;36021;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;413308501;4;36031;1;1;vitamines et minéraux;3;1;9;1;122
+Pop1 Individu;413308601;4;36041;1;1;mélange;13;1;1;1;91
+Pop1 Individu;413401701;4;36061;1;2;vitamines et minéraux;5;1;6;2;365
+Pop1 Individu;413501901;4;36151;1;2;vitamines et minéraux;1;1;2;1;28
+Pop1 Individu;413502101;4;36161;1;1;vitamines et minéraux;5;2;2;1;30
+Pop1 Individu;413502201;4;36171;1;1;vitamines et minéraux;5;1;2;1;28
+Pop1 Individu;413502201;4;36172;2;1;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;413502401;4;36181;1;2;vitamines et minéraux;5;6;1;2;365
+Pop1 Individu;413502401;4;36182;2;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;413502401;4;36183;3;1;mélange;12;4;1;1;61
+Pop1 Individu;413503001;4;36191;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;413503001;4;36192;2;1;vitamines et minéraux;2;1;2;2;365
+Pop1 Individu;413503401;4;36201;1;1;plantes et produits naturels;8;4;2;1;61
+Pop1 Individu;413503401;4;36202;2;1;mélange;12;2;2;1;61
+Pop1 Individu;413504701;4;36231;1;1;vitamines et minéraux;1;1;1;1;61
+Pop1 Individu;413504701;4;36232;2;3;plantes et produits naturels;8;2;2;1;61
+Pop1 Individu;413600601;4;36261;1;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;413600601;4;36262;2;1;mélange;12;1;2;1;30
+Pop1 Individu;413601001;4;36271;1;3;mélange;27;6;1;1;42
+Pop1 Individu;413602701;4;36311;1;3;vitamines et minéraux;5;2;2;1;122
+Pop1 Individu;413605501;4;36361;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;413800501;4;36391;1;3;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;413800501;4;36392;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;413802901;4;36471;1;1;vitamines et minéraux;5;1;1;4;1
+Pop1 Individu;413802901;4;36472;2;3;vitamines et minéraux;3;1;1;4;1
+Pop1 Individu;413803001;4;36481;1;1;mélange;27;1;1;1;60
+Pop1 Individu;413803001;4;36482;2;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;413803101;4;36491;1;1;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;413803101;4;36492;2;1;vitamines et minéraux;5;2;2;1;91
+Pop1 Individu;413803101;4;36493;3;1;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;413803101;4;36494;4;2;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;413804501;4;36501;1;1;substances à but nutritionnels;6;2;2;1;122
+Pop1 Individu;413805701;4;36521;1;1;plantes et produits naturels;8;2;1;1;60
+Pop1 Individu;413806601;4;36531;1;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;413806601;4;36532;2;1;plantes et produits naturels;8;12;1;1;30
+Pop1 Individu;414401301;4;36581;1;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;414402201;4;36601;1;3;vitamines et minéraux;2;1;2;1;30
+Pop1 Individu;414402701;4;36621;1;1;plantes et produits naturels;9;8;1;3;12
+Pop1 Individu;414402701;4;36622;2;1;plantes et produits naturels;8;1;3;4;4
+Pop1 Individu;414403001;4;36631;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;414403001;4;36632;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;414403201;4;36641;1;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;414404601;4;36671;1;1;plantes et produits naturels;9;13;4;1;122
+Pop1 Individu;414404601;4;36672;2;1;plantes et produits naturels;9;16;6;1;180
+Pop1 Individu;414500301;4;36701;1;1;mélange;13;3;1;1;61
+Pop1 Individu;414500601;4;36711;1;1;mélange;27;1;1;1;60
+Pop1 Individu;414500601;4;36712;2;2;vitamines et minéraux;4;1;2;1;30
+Pop1 Individu;414500601;4;36713;3;1;vitamines et minéraux;5;1;4;1;30
+Pop1 Individu;414800701;4;36741;1;1;plantes et produits naturels;8;4;1;2;365
+Pop1 Individu;415602901;4;36991;1;2;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;415603501;4;37001;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;415701001;4;37031;1;1;plantes et produits naturels;8;4;3;1;30
+Pop1 Individu;415701201;4;37041;1;3;plantes et produits naturels;8;6;1;1;122
+Pop1 Individu;415701201;4;37042;2;3;plantes et produits naturels;8;7;1;1;122
+Pop1 Individu;415701201;4;37043;3;3;plantes et produits naturels;8;7;1;2;365
+Pop1 Individu;415701201;4;37044;4;1;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;415701201;4;37045;5;3;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;415702101;4;37061;1;1;substances à but nutritionnels;6;2;1;2;365
+Pop1 Individu;415702601;4;37091;1;2;vitamines et minéraux;4;1;3;1;30
+Pop1 Individu;415702601;4;37092;2;1;mélange;12;1;1;1;14
+Pop1 Individu;415900501;4;37181;1;1;vitamines et minéraux;5;2;2;1;91
+Pop1 Individu;415900501;4;37182;2;2;vitamines et minéraux;2;2;1;1;182
+Pop1 Individu;415901001;4;37191;1;2;vitamines et minéraux;1;3;1;3;30
+Pop1 Individu;415901401;4;37211;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;415902301;4;37241;1;3;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;415910401;4;37381;1;1;plantes et produits naturels;8;2;2;1;63
+Pop1 Individu;415910401;4;37382;2;1;plantes et produits naturels;8;2;2;1;63
+Pop1 Individu;415910401;4;37383;3;1;plantes et produits naturels;8;2;2;1;63
+Pop1 Individu;415911101;4;37391;1;2;substances à but nutritionnels;6;4;1;2;365
+Pop1 Individu;415911101;4;37392;2;1;mélange;11;8;4;1;42
+Pop1 Individu;416100301;4;37491;1;2;vitamines et minéraux;2;8;1.5;1;42
+Pop1 Individu;416200601;4;37531;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;416200901;4;37541;1;3;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;416201001;4;37551;1;2;vitamines et minéraux;5;1;4;1;21
+Pop1 Individu;416202401;4;37601;1;1;vitamines et minéraux;5;2;2;1;61
+Pop1 Individu;416301501;4;37671;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;416301501;4;37672;2;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;416402501;4;37751;1;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;416402501;4;37752;2;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;416402501;4;37753;3;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;416402501;4;37754;4;1;mélange;10;4;1;2;365
+Pop1 Individu;416402501;4;37755;5;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;416600101;4;37801;1;1;vitamines et minéraux;4;1;1;2;365
+Pop1 Individu;416600101;4;37802;2;1;mélange;12;1;1;1;30
+Pop1 Individu;416700501;4;37811;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;416700501;4;37812;2;2;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;416700801;4;37831;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;416700801;4;37832;2;1;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;416700801;4;37833;3;1;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;416700801;4;37834;4;1;vitamines et minéraux;1;14;1;1;61
+Pop1 Individu;416700801;4;37835;5;1;plantes et produits naturels;8;14;4;4;1
+Pop1 Individu;416701001;4;37841;1;1;mélange;13;1;1;1;30
+Pop1 Individu;416701201;4;37851;1;1;vitamines et minéraux;4;2;1;1;91
+Pop1 Individu;416703901;4;37951;1;1;plantes et produits naturels;9;2;1;1;60
+Pop1 Individu;416704001;4;37961;1;1;mélange;12;1;3;1;28
+Pop1 Individu;416704001;4;37962;2;1;mélange;12;1;16;1;28
+Pop1 Individu;416705101;4;37991;1;1;vitamines et minéraux;2;3;1;1;84
+Pop1 Individu;416705101;4;37992;2;2;vitamines et minéraux;1;3;1;1;42
+Pop1 Individu;416706501;4;38031;1;2;vitamines et minéraux;5;1;2;1;28
+Pop1 Individu;416706501;4;38032;2;1;plantes et produits naturels;9;1;1;1;28
+Pop1 Individu;416804201;4;38071;1;1;vitamines et minéraux;5;1;1;1;63
+Pop1 Individu;416804201;4;38072;2;1;plantes et produits naturels;8;2;3;1;14
+Pop1 Individu;416900401;4;38091;1;2;vitamines et minéraux;2;1;1;1;244
+Pop1 Individu;416900401;4;38092;2;3;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;416900501;4;38101;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;416900701;4;38121;1;1;mélange;13;1;1;1;30
+Pop1 Individu;416902301;4;38171;1;2;vitamines et minéraux;1;1;3;1;10.5
+Pop1 Individu;416902801;4;38211;1;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;416903901;4;38241;1;1;vitamines et minéraux;5;2;1;1;244
+Pop1 Individu;416903901;4;38242;2;1;vitamines et minéraux;5;1;4;1;21
+Pop1 Individu;416903901;4;38243;3;1;substances à but nutritionnels;6;2;1;1;244
+Pop1 Individu;417100901;4;38331;1;1;vitamines et minéraux;5;2;1;1;21
+Pop1 Individu;417101001;4;38341;1;3;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;417300401;4;38381;1;1;vitamines et minéraux;5;2;1;1;21
+Pop1 Individu;417400801;4;38431;1;1;mélange;20;2;2;1;30
+Pop1 Individu;417400801;4;38432;2;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;417403001;4;38581;1;1;plantes et produits naturels;8;2;4;1;28
+Pop1 Individu;417403001;4;38582;2;1;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;417404301;4;38611;1;1;plantes et produits naturels;9;11;1;1;21
+Pop1 Individu;417404401;4;38621;1;2;vitamines et minéraux;5;3;1;1;30
+Pop1 Individu;417404401;4;38622;2;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;417405901;4;38651;1;1;plantes et produits naturels;9;2;1;1;90
+Pop1 Individu;417405901;4;38652;2;1;plantes et produits naturels;8;14;25;1;42
+Pop1 Individu;417500101;4;38681;1;2;mélange;12;1;1;1;14
+Pop1 Individu;417500101;4;38682;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;417500101;4;38683;3;1;mélange;12;1;2;1;21
+Pop1 Individu;417500101;4;38684;4;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;417500801;4;38701;1;1;plantes et produits naturels;9;2;1;1;21
+Pop1 Individu;417502501;4;38721;1;3;vitamines et minéraux;3;3;1;4;4
+Pop1 Individu;417502701;4;38741;1;2;vitamines et minéraux;1;1;1;3;12
+Pop1 Individu;417503401;4;38761;1;1;plantes et produits naturels;9;3;1;1;61
+Pop1 Individu;417503501;4;38771;1;1;mélange;22;4;1;1;244
+Pop1 Individu;417503801;4;38781;1;2;vitamines et minéraux;5;3;1;1;30
+Pop1 Individu;417504001;4;38791;1;1;substances à but nutritionnels;24;2;1;2;365
+Pop1 Individu;417504001;4;38792;2;1;plantes et produits naturels;9;5;3;1;7
+Pop1 Individu;417504001;4;38793;3;1;plantes et produits naturels;9;7;1;1;21
+Pop1 Individu;417504601;4;38801;1;2;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;417505001;4;38811;1;1;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;417505501;4;38821;1;3;vitamines et minéraux;2;1;1;1;61
+Pop1 Individu;417505501;4;38822;2;3;vitamines et minéraux;3;2;1;1;999
+Pop1 Individu;417507301;4;38831;1;1;plantes et produits naturels;19;1;3;2;365
+Pop1 Individu;417507301;4;38832;2;2;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;417507301;4;38833;3;1;mélange;12;4;3;1;28
+Pop1 Individu;417513401;4;38901;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;417513401;4;38902;2;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;417514001;4;38911;1;1;plantes et produits naturels;8;4;2;1;30
+Pop1 Individu;417514001;4;38912;2;1;vitamines et minéraux;3;1;6;1;30
+Pop1 Individu;417514001;4;38913;3;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;417514001;4;38914;4;1;plantes et produits naturels;9;2;1;3;12
+Pop1 Individu;417514001;4;38915;5;1;plantes et produits naturels;8;1;2;1;30
+Pop1 Individu;417514401;4;38931;1;1;substances à but nutritionnels;7;2;2;1;122
+Pop1 Individu;417515801;4;38951;1;1;mélange;17;3;1;1;30
+Pop1 Individu;417515801;4;38952;2;1;plantes et produits naturels;8;1;1;1;30
+Pop1 Individu;417517001;4;38961;1;1;vitamines et minéraux;3;1;4;2;365
+Pop1 Individu;417517001;4;38962;2;1;mélange;10;4;1;2;365
+Pop1 Individu;417517001;4;38963;3;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;417517001;4;38964;4;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;417517001;4;38965;5;1;plantes et produits naturels;8;7;1;2;365
+Pop1 Individu;417600201;4;38981;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;417602001;4;39011;1;2;vitamines et minéraux;1;1;2;3;52
+Pop1 Individu;417602001;4;39012;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;417602001;4;39013;3;3;vitamines et minéraux;1;3;1;4;6
+Pop1 Individu;417602301;4;39021;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;417602301;4;39022;2;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;417602301;4;39023;3;2;vitamines et minéraux;1;3;1;1;21
+Pop1 Individu;417603401;4;39091;1;2;plantes et produits naturels;8;1;4;2;365
+Pop1 Individu;417603401;4;39092;2;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;417700801;4;39151;1;1;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;417700801;4;39152;2;1;plantes et produits naturels;9;11;1;1;21
+Pop1 Individu;417701501;4;39161;1;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;417800301;4;39171;1;3;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;418000301;4;39241;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;418000301;4;39242;2;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;418000401;4;39251;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;418200401;4;39301;1;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;418200401;4;39302;2;1;mélange;12;4;1;1;61
+Pop1 Individu;418200601;4;39311;1;1;mélange;12;4;2;2;365
+Pop1 Individu;418200601;4;39312;2;1;substances à but nutritionnels;6;4;2;2;365
+Pop1 Individu;418200901;4;39331;1;2;vitamines et minéraux;1;3;1;1;10.5
+Pop1 Individu;418201201;4;39351;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;418300301;4;39371;1;3;mélange;27;1;1;1;30
+Pop1 Individu;418401901;4;39421;1;1;vitamines et minéraux;5;6;1;1;42
+Pop1 Individu;418402001;4;39431;1;1;vitamines et minéraux;5;2;2;1;183
+Pop1 Individu;418402001;4;39432;2;1;vitamines et minéraux;2;13;1;1;61
+Pop1 Individu;418403001;4;39461;1;2;mélange;11;1;3;1;30
+Pop1 Individu;418600301;4;39471;1;1;vitamines et minéraux;4;2;2;1;91
+Pop1 Individu;418600301;4;39472;2;1;plantes et produits naturels;8;1;4;1;30
+Pop1 Individu;418600301;4;39473;3;1;mélange;12;14;2;1;91
+Pop1 Individu;418602701;4;39511;1;1;vitamines et minéraux;1;14;1;1;60
+Pop1 Individu;418602701;4;39512;2;1;mélange;12;1;2;1;61
+Pop1 Individu;418602701;4;39513;3;1;mélange;12;1;1;1;3.5
+Pop1 Individu;418700201;4;39561;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;418700901;4;39571;1;1;mélange;13;6;1;1;91
+Pop1 Individu;418700901;4;39572;2;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;419204301;4;39711;1;3;mélange;27;6;.2;1;999
+Pop1 Individu;419206401;4;39731;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;419207901;4;39742;2;1;plantes et produits naturels;9;8;2;2;365
+Pop1 Individu;419207901;4;39743;3;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;419208401;4;39751;1;1;mélange;12;1;1;2;365
+Pop1 Individu;419208401;4;39752;2;1;plantes et produits naturels;8;1;6;2;365
+Pop1 Individu;419208401;4;39753;3;1;plantes et produits naturels;8;4;3;2;365
+Pop1 Individu;419300201;4;39791;1;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;419304401;4;39841;1;1;mélange;11;1;4;2;365
+Pop1 Individu;419306801;4;39901;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;419401201;4;39941;1;1;vitamines et minéraux;5;2;1;1;30
+Pop1 Individu;419402301;4;39951;1;1;plantes et produits naturels;9;6;1;1;63
+Pop1 Individu;420100301;4;40011;1;1;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;420100401;4;40021;1;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;420101701;4;40071;1;2;vitamines et minéraux;4;1;4;1;182
+Pop1 Individu;420102401;4;40101;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;420102601;4;40111;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;420102601;4;40112;2;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;420200101;4;40121;1;1;vitamines et minéraux;5;13;1;1;56
+Pop1 Individu;420200301;4;40131;1;2;plantes et produits naturels;8;10;12;1;91
+Pop1 Individu;420605401;1;40261;1;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;421201401;4;40431;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;421202801;4;40481;1;2;vitamines et minéraux;5;3;1;1;90
+Pop1 Individu;421202801;4;40482;2;2;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;421202801;4;40483;3;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;421202801;4;40484;4;2;vitamines et minéraux;5;6;1;1;14
+Pop1 Individu;421203201;4;40501;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;421300201;4;40531;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;421300801;4;40541;1;2;mélange;12;1;3;4;1
+Pop1 Individu;421300801;4;40542;2;2;vitamines et minéraux;1;1;1;4;1
+Pop1 Individu;421301201;4;40561;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;421302201;4;40581;1;1;vitamines et minéraux;3;11;1;1;42
+Pop1 Individu;421302201;4;40582;2;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;421302301;4;40591;1;1;vitamines et minéraux;2;2;1;1;14
+Pop1 Individu;421304301;4;40631;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;421403001;3;40741;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;421600401;4;40801;1;2;vitamines et minéraux;3;3;1;4;2
+Pop1 Individu;421600801;4;40821;1;3;mélange;27;3;1;1;3.5
+Pop1 Individu;421600901;4;40831;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;422201601;4;41011;1;2;vitamines et minéraux;1;14;1;4;1
+Pop1 Individu;422400201;4;41021;1;1;vitamines et minéraux;5;11;1;1;14
+Pop1 Individu;422401101;4;41041;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;422500101;4;41051;1;1;mélange;13;13;1;1;42
+Pop1 Individu;422500101;4;41052;2;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;422501001;4;41081;1;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;422503301;4;41171;1;3;plantes et produits naturels;9;6;1;2;365
+Pop1 Individu;422503501;4;41181;1;3;substances à but nutritionnels;7;6;1;1;30
+Pop1 Individu;422901401;4;41361;1;3;mélange;27;3;1;4;1
+Pop1 Individu;422902701;4;41401;1;2;vitamines et minéraux;4;10;3;1;60
+Pop1 Individu;422902701;4;41402;2;2;vitamines et minéraux;1;3;1;1;14
+Pop1 Individu;423301701;4;41541;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;423302901;4;41551;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;423304301;4;41571;1;1;vitamines et minéraux;5;12;1;1;30
+Pop1 Individu;423304301;4;41572;2;1;vitamines et minéraux;3;5;1;1;30
+Pop1 Individu;423305501;4;41621;1;1;vitamines et minéraux;3;11;1;1;61
+Pop1 Individu;423305501;4;41622;2;1;mélange;23;12;1;1;91
+Pop1 Individu;423305601;4;41631;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;423305701;4;41641;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;423502001;1;41761;1;2;vitamines et minéraux;1;14;5;2;30
+Pop1 Individu;423502201;4;41771;1;3;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;423502401;4;41781;1;2;vitamines et minéraux;1;3;1;1;999
+Pop1 Individu;423503101;4;41801;1;1;plantes et produits naturels;9;3;1;1;273
+Pop1 Individu;423503101;4;41802;2;1;vitamines et minéraux;3;11;2;1;21
+Pop1 Individu;423503101;4;41803;3;1;mélange;12;11;1;1;21
+Pop1 Individu;423602601;4;41901;1;1;mélange;13;6;1;1;28
+Pop1 Individu;423700101;4;41971;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;423800801;4;41981;1;1;plantes et produits naturels;9;6;1;1;60
+Pop1 Individu;423800801;4;41982;2;1;mélange;23;13;1;1;30
+Pop1 Individu;423802101;4;42011;1;1;plantes et produits naturels;9;13;1;1;3.5
+Pop1 Individu;423802101;4;42012;2;2;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;423802501;4;42041;1;2;vitamines et minéraux;5;6;1;1;14
+Pop1 Individu;423802501;4;42042;2;1;plantes et produits naturels;8;1;1;1;91
+Pop1 Individu;423802801;4;42051;1;1;vitamines et minéraux;2;10;1;1;273
+Pop1 Individu;423803201;4;42071;1;1;vitamines et minéraux;5;11;1;1;30
+Pop1 Individu;423803201;4;42072;2;3;vitamines et minéraux;4;13;1;1;30
+Pop1 Individu;423803301;4;42081;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;423803601;4;42101;1;1;plantes et produits naturels;8;14;30;1;14
+Pop1 Individu;423803601;4;42102;2;1;mélange;12;1;1;1;28
+Pop1 Individu;423803701;4;42111;1;1;plantes et produits naturels;8;14;4;1;7
+Pop1 Individu;423803801;4;42121;1;1;vitamines et minéraux;5;6;1;1;21
+Pop1 Individu;423804601;4;42131;1;1;plantes et produits naturels;8;3;1;1;3.5
+Pop1 Individu;423804601;4;42132;2;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;423804901;4;42141;1;1;mélange;12;13;1;1;21
+Pop1 Individu;424401201;4;42191;1;3;mélange;27;3;1;1;7
+Pop1 Individu;424401901;4;42211;1;1;plantes et produits naturels;19;1;.5;1;42
+Pop1 Individu;424500301;4;42301;1;2;vitamines et minéraux;4;10;2;1;14
+Pop1 Individu;425102101;1;42541;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;425300501;4;42561;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;425300501;4;42562;2;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;425400401;3;42571;1;2;vitamines et minéraux;1;14;4;1;61
+Pop1 Individu;425602701;4;42641;1;1;plantes et produits naturels;8;1;1;1;56
+Pop1 Individu;425602701;4;42642;2;1;plantes et produits naturels;8;14;23;1;56
+Pop1 Individu;425603001;4;42651;1;1;vitamines et minéraux;3;5;1;1;3.5
+Pop1 Individu;425702301;4;42731;1;1;plantes et produits naturels;9;1;4;1;42
+Pop1 Individu;425900501;4;42821;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;425901901;4;42861;1;1;mélange;23;3;1;1;10.5
+Pop1 Individu;425905201;1;42971;1;2;vitamines et minéraux;3;13;1;2;30
+Pop1 Individu;425905401;4;42981;1;1;vitamines et minéraux;3;11;1;1;3.5
+Pop1 Individu;425910101;4;43141;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;425910501;4;43151;1;1;vitamines et minéraux;5;1;1;1;35
+Pop1 Individu;425910901;4;43171;1;2;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;425911601;4;43191;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;425911601;4;43192;2;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;425913701;4;43291;1;2;vitamines et minéraux;1;1;1;1;70
+Pop1 Individu;426101401;4;43331;1;2;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;426202201;4;43411;1;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;426300301;4;43431;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;426300401;4;43441;1;2;plantes et produits naturels;8;14;30;2;365
+Pop1 Individu;426401101;4;43491;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;426500101;1;43501;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;426701001;4;43551;1;2;vitamines et minéraux;3;3;1;1;999
+Pop1 Individu;426701901;4;43581;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;426703201;1;43611;1;2;vitamines et minéraux;1;3;1;1;336
+Pop1 Individu;426703201;1;43612;2;2;vitamines et minéraux;1;14;3;2;30
+Pop1 Individu;426800401;4;43661;1;1;plantes et produits naturels;9;1;2;1;182
+Pop1 Individu;426802001;4;43721;1;1;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;426900101;2;43751;1;2;vitamines et minéraux;1;14;3;2;91
+Pop1 Individu;426900501;4;43781;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;426900501;4;43782;2;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;426901201;4;43791;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;426902201;4;43801;1;1;plantes et produits naturels;9;11;1;1;30
+Pop1 Individu;427000501;4;43831;1;1;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;427000501;4;43832;2;1;plantes et produits naturels;9;3;1;1;14
+Pop1 Individu;427100201;4;43841;1;1;plantes et produits naturels;9;11;1;1;30
+Pop1 Individu;427300401;4;43911;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;427300501;4;43921;1;2;vitamines et minéraux;2;3;1;1;60
+Pop1 Individu;427400801;4;43961;1;1;vitamines et minéraux;5;6;1;1;28
+Pop1 Individu;427406901;4;44121;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;427501401;4;44151;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;427502401;4;44161;1;1;vitamines et minéraux;3;11;1;4;2
+Pop1 Individu;427502401;4;44162;2;1;vitamines et minéraux;3;3;1;4;1
+Pop1 Individu;427507601;4;44221;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;427507801;4;44241;1;1;substances à but nutritionnels;6;11;1;3;146
+Pop1 Individu;427508101;4;44251;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;427510801;4;44301;1;2;vitamines et minéraux;1;11;1;4;1
+Pop1 Individu;427600101;4;44311;1;1;vitamines et minéraux;2;2;1;1;30
+Pop1 Individu;427601301;4;44351;1;1;plantes et produits naturels;8;6;1;2;365
+Pop1 Individu;427603101;4;44421;1;1;plantes et produits naturels;9;3;1;1;28
+Pop1 Individu;427603101;4;44422;2;1;vitamines et minéraux;5;11;1;1;14
+Pop1 Individu;427603501;4;44441;1;2;vitamines et minéraux;3;3;1;4;1
+Pop1 Individu;427803001;4;44561;1;1;plantes et produits naturels;9;1;2;3;146
+Pop1 Individu;427804401;4;44581;1;1;mélange;23;11;2;1;21
+Pop1 Individu;427804401;4;44582;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;428001201;4;44611;1;2;vitamines et minéraux;1;1;2;1;7
+Pop1 Individu;428200201;4;44631;1;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;428300601;4;44651;1;1;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;428400101;1;44671;1;2;vitamines et minéraux;3;13;1;4;1
+Pop1 Individu;428400501;4;44691;1;1;vitamines et minéraux;2;2;2;1;14
+Pop1 Individu;428600601;2;44761;1;2;vitamines et minéraux;1;14;3;2;91
+Pop1 Individu;428600801;4;44771;1;1;vitamines et minéraux;5;6;1;1;30
+Pop1 Individu;428602701;4;44821;1;3;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;429203301;4;44991;1;1;vitamines et minéraux;3;1;1;1;61
+Pop1 Individu;429208101;4;45081;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;429406401;4;45361;1;3;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;510100701;4;45401;1;1;vitamines et minéraux;3;1;3;1;14
+Pop1 Individu;510102801;4;45461;1;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;510200301;4;45501;1;1;mélange;27;8;2;1;122
+Pop1 Individu;510200301;4;45502;2;1;vitamines et minéraux;1;14;3;2;365
+Pop1 Individu;510300301;4;45521;1;1;mélange;21;1;1;2;365
+Pop1 Individu;510603901;4;45601;1;1;vitamines et minéraux;3;7;2;2;365
+Pop1 Individu;510604101;4;45611;1;2;plantes et produits naturels;8;2;3;1;60
+Pop1 Individu;510606001;4;45641;1;2;vitamines et minéraux;1;3;1;3;12
+Pop1 Individu;510607601;4;45651;1;2;vitamines et minéraux;1;2;1;2;365
+Pop1 Individu;510608501;4;45671;1;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;510608801;4;45691;1;1;mélange;12;4;3;2;365
+Pop1 Individu;510610301;4;45711;1;2;vitamines et minéraux;2;1;2;1;30
+Pop1 Individu;510611001;4;45731;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;510700301;4;45771;1;1;mélange;12;1;1;1;91
+Pop1 Individu;510700801;4;45791;1;1;mélange;27;1;2;1;30
+Pop1 Individu;510701101;4;45801;1;2;vitamines et minéraux;1;14;.1;1;91
+Pop1 Individu;510702101;4;45811;1;1;mélange;13;1;1;1;60
+Pop1 Individu;511100601;4;45851;1;1;plantes et produits naturels;8;1;2;1;30
+Pop1 Individu;511100601;4;45852;2;1;vitamines et minéraux;4;2;4;1;122
+Pop1 Individu;511102301;4;45861;1;1;mélange;11;1;1;5;999
+Pop1 Individu;511102301;4;45862;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;511104201;4;45881;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;511200501;4;45911;1;1;mélange;10;4;1;2;365
+Pop1 Individu;511200501;4;45912;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;511200501;4;45913;3;3;vitamines et minéraux;1;3;1;1;14
+Pop1 Individu;511204501;4;46031;1;2;vitamines et minéraux;1;14;1;1;30
+Pop1 Individu;511204501;4;46032;2;1;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;511204501;4;46033;3;1;mélange;15;4;2;1;30
+Pop1 Individu;511205101;4;46041;1;3;vitamines et minéraux;2;1;1;1;21
+Pop1 Individu;511205201;4;46051;1;3;vitamines et minéraux;2;2;3;1;30
+Pop1 Individu;511205201;4;46052;2;3;mélange;27;1;3;1;90
+Pop1 Individu;511302601;4;46121;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;511302601;4;46122;2;2;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;511303201;4;46151;1;1;mélange;11;2;6;2;365
+Pop1 Individu;511303201;4;46152;2;1;mélange;12;2;2;1;120
+Pop1 Individu;511303201;4;46153;3;1;mélange;20;2;2;1;120
+Pop1 Individu;511303201;4;46154;4;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;511303201;4;46155;5;1;mélange;12;1;1;1;91
+Pop1 Individu;511303601;4;46181;1;1;mélange;12;14;1;1;30
+Pop1 Individu;511305701;4;46191;1;1;vitamines et minéraux;5;7;1;2;365
+Pop1 Individu;511307301;4;46211;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;511307301;4;46212;2;1;plantes et produits naturels;8;1;3;1;183
+Pop1 Individu;511401101;4;46281;1;1;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;511401101;4;46282;2;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;511401101;4;46283;3;1;vitamines et minéraux;2;2;1;1;21
+Pop1 Individu;511401101;4;46284;4;3;vitamines et minéraux;1;3;1;1;30
+Pop1 Individu;511401701;4;46301;1;1;substances à but nutritionnels;6;1;2;2;365
+Pop1 Individu;511401701;4;46302;2;2;vitamines et minéraux;2;1;1;1;182
+Pop1 Individu;511401901;4;46321;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;511403601;4;46381;1;1;plantes et produits naturels;9;3;1;1;91
+Pop1 Individu;511600901;4;46481;1;3;vitamines et minéraux;1;1;1;1;90
+Pop1 Individu;511600901;4;46482;2;3;vitamines et minéraux;2;2;1;1;273
+Pop1 Individu;511601001;4;46491;1;1;vitamines et minéraux;5;1;1;1;183
+Pop1 Individu;511601001;4;46492;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;511601001;4;46493;3;1;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;511700801;4;46511;1;1;vitamines et minéraux;2;2;2;1;42
+Pop1 Individu;511701501;4;46541;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;511702301;4;46551;1;1;mélange;10;9;1;1;84
+Pop1 Individu;512105401;4;46691;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;512106501;4;46711;1;3;vitamines et minéraux;1;1;1;5;999
+Pop1 Individu;512201301;4;46751;1;1;plantes et produits naturels;9;2;2;5;999
+Pop1 Individu;512201901;4;46761;1;1;vitamines et minéraux;2;2;1;1;21
+Pop1 Individu;512202701;4;46781;1;1;vitamines et minéraux;1;1;2;3;30
+Pop1 Individu;512202701;4;46782;2;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;512202701;4;46783;3;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;512202701;4;46784;4;1;plantes et produits naturels;9;7;1;3;30
+Pop1 Individu;512202701;4;46785;5;3;vitamines et minéraux;1;3;1;1;182
+Pop1 Individu;512202801;4;46791;1;1;plantes et produits naturels;9;3;1;1;21
+Pop1 Individu;512202801;4;46792;2;3;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;512202801;4;46793;3;1;vitamines et minéraux;2;13;1;1;182
+Pop1 Individu;512400801;4;46821;1;1;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;512401301;4;46841;1;2;mélange;11;1;4;1;30
+Pop1 Individu;512401301;4;46842;2;1;mélange;12;4;2;1;61
+Pop1 Individu;512401701;4;46861;1;2;vitamines et minéraux;2;1;2;2;365
+Pop1 Individu;512401701;4;46862;2;1;vitamines et minéraux;2;9;1;1;91
+Pop1 Individu;512401701;4;46863;3;1;plantes et produits naturels;19;8;1;1;30
+Pop1 Individu;512402401;4;46881;1;3;vitamines et minéraux;2;2;1;1;91
+Pop1 Individu;512402401;4;46882;2;1;vitamines et minéraux;5;2;1;1;91
+Pop1 Individu;512500601;4;46891;1;1;vitamines et minéraux;5;1;1;1;3.5
+Pop1 Individu;512503001;4;46931;1;1;vitamines et minéraux;3;11;1;1;21
+Pop1 Individu;512503701;4;46941;1;1;vitamines et minéraux;5;11;3;1;28
+Pop1 Individu;512503901;4;46951;1;3;vitamines et minéraux;2;2;2;1;14
+Pop1 Individu;512504401;4;46971;1;3;vitamines et minéraux;1;1;1;1;274
+Pop1 Individu;512504601;4;46981;1;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;512508601;4;47081;1;1;mélange;12;1;1;1;84
+Pop1 Individu;512702101;4;47121;1;1;mélange;13;1;1;1;21
+Pop1 Individu;512703001;4;47131;1;1;mélange;13;1;1;1;30
+Pop1 Individu;512704001;4;47151;1;2;vitamines et minéraux;1;1;1;1;122
+Pop1 Individu;512704001;4;47152;2;2;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;512704001;4;47153;3;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;512704801;4;47191;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;512704801;4;47192;2;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;512705101;4;47211;1;1;mélange;12;4;3;1;60
+Pop1 Individu;512800501;4;47241;1;1;plantes et produits naturels;8;1;9;1;122
+Pop1 Individu;512902601;4;47291;1;2;vitamines et minéraux;1;1;1;1;91
+Pop1 Individu;512904101;4;47331;1;1;plantes et produits naturels;8;4;1;2;365
+Pop1 Individu;513001001;4;47411;1;1;plantes et produits naturels;8;2;2;1;30
+Pop1 Individu;513001001;4;47412;2;1;plantes et produits naturels;8;13;1;1;28
+Pop1 Individu;513001001;4;47413;3;2;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;513001001;4;47414;4;1;plantes et produits naturels;8;3;1;4;6
+Pop1 Individu;513001001;4;47415;5;1;vitamines et minéraux;4;1;1;1;42
+Pop1 Individu;513001301;4;47421;1;2;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;513002501;4;47441;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;513100501;4;47461;1;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;513101301;4;47481;1;1;plantes et produits naturels;8;2;3;1;60
+Pop1 Individu;513101301;4;47482;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;513101301;4;47483;3;2;vitamines et minéraux;5;1;3;1;30
+Pop1 Individu;513103101;4;47511;1;1;plantes et produits naturels;8;2;1;2;365
+Pop1 Individu;513104301;4;47521;1;2;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;513104301;4;47522;2;2;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;513107301;4;47581;1;1;plantes et produits naturels;9;2;2;1;182
+Pop1 Individu;513107301;4;47582;2;1;vitamines et minéraux;2;1;2;1;30
+Pop1 Individu;513107801;4;47611;1;3;mélange;27;13;1;3;12
+Pop1 Individu;513107801;4;47612;2;3;mélange;27;13;1;3;30
+Pop1 Individu;513201001;4;47681;1;1;vitamines et minéraux;2;1;1;1;7
+Pop1 Individu;513201001;4;47682;2;1;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;513300301;4;47691;1;1;plantes et produits naturels;8;1;2;2;365
+Pop1 Individu;513300601;4;47701;1;1;mélange;10;4;1;1;91
+Pop1 Individu;513300801;4;47711;1;1;plantes et produits naturels;8;1;7;1;30
+Pop1 Individu;513300801;4;47712;2;1;plantes et produits naturels;8;12;1;1;30
+Pop1 Individu;513300801;4;47713;3;1;plantes et produits naturels;8;3;1;1;30
+Pop1 Individu;513301401;4;47721;1;1;plantes et produits naturels;9;4;2;2;365
+Pop1 Individu;513301401;4;47722;2;1;vitamines et minéraux;5;4;1;1;30
+Pop1 Individu;513301401;4;47723;3;3;vitamines et minéraux;5;1;1;1;330
+Pop1 Individu;513301801;4;47751;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;513303101;4;47791;1;1;mélange;12;4;1;2;365
+Pop1 Individu;513303101;4;47792;2;3;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;513304301;4;47841;1;2;vitamines et minéraux;2;1;2;1;244
+Pop1 Individu;513304401;4;47851;1;2;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;513305701;4;47873;3;2;vitamines et minéraux;2;3;1;2;365
+Pop1 Individu;513305701;4;47874;4;2;vitamines et minéraux;2;3;1;2;365
+Pop1 Individu;513305701;4;47875;5;2;vitamines et minéraux;4;3;1;2;365
+Pop1 Individu;513307101;4;47921;1;2;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;513307101;4;47922;2;1;mélange;13;1;1;1;91
+Pop1 Individu;513308201;4;47931;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;513309501;4;47981;1;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;513401401;4;48041;1;1;vitamines et minéraux;5;1;1;1;91
+Pop1 Individu;513401401;4;48042;2;1;substances à but nutritionnels;7;2;1;2;365
+Pop1 Individu;513401401;4;48043;3;1;vitamines et minéraux;2;2;1;2;365
+Pop1 Individu;513401401;4;48044;4;1;substances à but nutritionnels;24;2;1;2;365
+Pop1 Individu;513402401;4;48071;1;1;mélange;16;4;2;1;91
+Pop1 Individu;513402401;4;48072;2;1;plantes et produits naturels;8;4;2;2;365
+Pop1 Individu;513402401;4;48073;3;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;513405901;4;48101;1;1;mélange;12;2;2;2;365
+Pop1 Individu;513405901;4;48102;2;1;mélange;11;1;2;1;30
+Pop1 Individu;513407101;4;48131;1;2;vitamines et minéraux;2;1;1;1;30
+Pop1 Individu;513502201;4;48171;1;3;vitamines et minéraux;1;2;1;3;52
+Pop1 Individu;513601501;4;48291;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;513603801;4;48321;1;1;vitamines et minéraux;5;1;2;1;122
+Pop1 Individu;513605701;4;48341;1;1;mélange;12;1;.5;2;365
+Pop1 Individu;513605701;4;48342;2;1;mélange;22;8;1;2;365
+Pop1 Individu;513605701;4;48343;3;1;vitamines et minéraux;5;1;2;1;42
+Pop1 Individu;513605701;4;48344;4;1;mélange;12;2;2;1;91
+Pop1 Individu;513605701;4;48345;5;1;mélange;12;1;2;1;21
+Pop1 Individu;513605901;4;48351;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;513605901;4;48352;2;2;vitamines et minéraux;1;1;1;1;182
+Pop1 Individu;513606601;4;48381;1;2;vitamines et minéraux;2;2;4;1;91
+Pop1 Individu;513802901;4;48441;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;513802901;4;48442;2;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;513803801;4;48461;1;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;513805401;4;48531;1;1;mélange;12;1;1;1;91
+Pop1 Individu;513805701;4;48551;1;1;vitamines et minéraux;5;3;1;1;7
+Pop1 Individu;513805701;4;48552;2;2;plantes et produits naturels;8;3;2;1;28
+Pop1 Individu;513805701;4;48553;3;1;mélange;11;6;2;2;365
+Pop1 Individu;513805701;4;48554;4;1;vitamines et minéraux;2;6;1;1;30
+Pop1 Individu;513806101;4;48561;1;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;513806101;4;48562;2;1;plantes et produits naturels;9;2;2;1;21
+Pop1 Individu;513806701;4;48581;1;1;plantes et produits naturels;8;1;1;1;61
+Pop1 Individu;513808301;4;48651;1;1;substances à but nutritionnels;6;2;3;1;30
+Pop1 Individu;513808301;4;48652;2;1;plantes et produits naturels;9;11;1;1;30
+Pop1 Individu;513808701;4;486610;1;1;mélange;10;1;1;3;52
+Pop1 Individu;513808701;4;48662;2;3;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;513808701;4;486611;3;1;mélange;10;4;1;3;52
+Pop1 Individu;513808801;4;48671;1;1;plantes et produits naturels;9;2;1;1;14
+Pop1 Individu;513808801;4;48672;2;1;vitamines et minéraux;2;2;1;1;30
+Pop1 Individu;513808801;4;48673;3;1;plantes et produits naturels;8;2;1;1;14
+Pop1 Individu;513809201;4;48701;1;1;plantes et produits naturels;8;1;4;2;365
+Pop1 Individu;513900401;4;48771;1;3;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;514100101;4;48781;1;3;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;514100101;4;48782;2;1;plantes et produits naturels;9;3;1;2;365
+Pop1 Individu;514404101;4;48801;1;1;plantes et produits naturels;9;2;2;1;61
+Pop1 Individu;514404101;4;48802;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;514407101;4;48831;1;1;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;514407101;4;48832;2;1;plantes et produits naturels;8;1;1;2;365
+Pop1 Individu;514408201;4;48881;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;514408201;4;48882;2;1;plantes et produits naturels;9;3;1;1;30
+Pop1 Individu;514502401;4;48931;1;1;substances à but nutritionnels;7;1;2;1;30
+Pop1 Individu;514502401;4;48932;2;3;vitamines et minéraux;5;1;2;3;52
+Pop1 Individu;514901801;4;48991;1;1;plantes et produits naturels;9;2;3;1;21
+Pop1 Individu;514904301;4;49021;1;3;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;515102001;4;49141;1;1;mélange;13;2;1;1;30
+Pop1 Individu;515102201;4;49161;1;1;plantes et produits naturels;9;13;1;1;30
+Pop1 Individu;515301101;4;49221;1;1;plantes et produits naturels;9;3;1;1;42
+Pop1 Individu;515401101;4;49231;1;1;mélange;13;1;2;2;365
+Pop1 Individu;515401101;4;49232;2;2;vitamines et minéraux;1;6;3;1;14
+Pop1 Individu;515401101;4;49233;3;1;plantes et produits naturels;8;14;40;1;35
+Pop1 Individu;515401801;4;49251;1;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;515601601;4;49321;1;1;mélange;13;1;1;1;60
+Pop1 Individu;515602301;4;49341;1;1;plantes et produits naturels;9;3;1;1;60
+Pop1 Individu;515602301;4;49342;2;2;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;515602501;4;49351;1;1;vitamines et minéraux;2;12;1;2;365
+Pop1 Individu;515602501;4;49352;2;3;mélange;27;3;1;1;21
+Pop1 Individu;515603201;4;49371;1;1;substances à but nutritionnels;6;4;2;2;365
+Pop1 Individu;515603201;4;49372;2;1;plantes et produits naturels;19;1;6;1;91
+Pop1 Individu;515603601;4;49381;1;1;mélange;12;1;3;1;61
+Pop1 Individu;515603801;4;49391;1;1;plantes et produits naturels;8;13;2;2;365
+Pop1 Individu;515603801;4;49392;2;1;mélange;12;10;2;2;365
+Pop1 Individu;515603801;4;49393;3;1;mélange;12;12;3;2;365
+Pop1 Individu;515605701;4;49421;1;3;vitamines et minéraux;1;1;1;1;305
+Pop1 Individu;515605701;4;49422;2;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;515700501;4;49451;1;3;vitamines et minéraux;2;1;1;1;182
+Pop1 Individu;515700501;4;49452;2;3;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;515705801;4;49531;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;515801601;4;49601;1;1;plantes et produits naturels;8;14;2;1;182
+Pop1 Individu;515802101;4;496110;1;1;mélange;21;2;2;2;365
+Pop1 Individu;515802101;4;49612;2;1;plantes et produits naturels;8;2;2;2;365
+Pop1 Individu;515802101;4;49613;3;1;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;515802101;4;49614;4;1;vitamines et minéraux;2;2;3;2;365
+Pop1 Individu;515802101;4;496111;5;1;mélange;21;4;1;2;365
+Pop1 Individu;515802301;4;49631;1;1;mélange;23;3;1;1;30
+Pop1 Individu;515902901;4;49741;1;1;vitamines et minéraux;5;2;1;1;14
+Pop1 Individu;515903601;4;49761;1;1;plantes et produits naturels;9;2;1;1;122
+Pop1 Individu;515903601;4;49762;2;1;plantes et produits naturels;9;1;1;1;30
+Pop1 Individu;515905001;4;49801;1;2;plantes et produits naturels;8;2;4;1;7
+Pop1 Individu;515905501;4;49811;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;515906401;4;49821;1;1;vitamines et minéraux;5;1;4;1;42
+Pop1 Individu;515906401;4;49822;2;1;mélange;12;1;4;1;61
+Pop1 Individu;515906401;4;49823;3;2;plantes et produits naturels;8;13;50;1;30
+Pop1 Individu;515907901;4;49871;1;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;515908001;4;49881;1;2;plantes et produits naturels;8;2;6;1;60
+Pop1 Individu;515920401;4;50001;1;3;vitamines et minéraux;1;1;1;1;182
+Pop1 Individu;515921201;4;50041;1;2;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;515921201;4;50042;2;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;515921301;4;50051;1;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;515922101;4;50091;1;2;vitamines et minéraux;5;1;2;1;14
+Pop1 Individu;515922601;4;50121;1;2;vitamines et minéraux;1;1;.5;2;365
+Pop1 Individu;515922601;4;50122;2;1;plantes et produits naturels;9;2;2;1;61
+Pop1 Individu;516200401;4;50191;1;1;plantes et produits naturels;9;2;2;1;30
+Pop1 Individu;516201501;4;50231;1;2;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;516201501;4;50232;2;2;vitamines et minéraux;1;6;1;1;7
+Pop1 Individu;516302101;4;50371;1;2;plantes et produits naturels;9;2;1;1;14
+Pop1 Individu;516402601;4;50441;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;516403501;4;50491;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;516600701;4;50541;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;516702301;4;50621;1;1;mélange;13;1;1;1;182
+Pop1 Individu;516702301;4;50622;2;1;vitamines et minéraux;2;1;1;2;365
+Pop1 Individu;516702401;4;50631;1;1;mélange;12;1;1;1;30
+Pop1 Individu;516702601;4;50641;1;1;plantes et produits naturels;8;14;15;1;90
+Pop1 Individu;516702601;4;50642;2;1;plantes et produits naturels;8;14;20;1;30
+Pop1 Individu;516702601;4;50643;3;1;plantes et produits naturels;19;12;1;1;3.5
+Pop1 Individu;516702601;4;50644;4;2;plantes et produits naturels;8;2;2;1;7
+Pop1 Individu;516702601;4;50645;5;1;vitamines et minéraux;2;2;2;1;14
+Pop1 Individu;516703801;4;50661;1;3;vitamines et minéraux;2;16;2;1;30
+Pop1 Individu;516704101;4;50671;1;2;vitamines et minéraux;5;1;2;5;999
+Pop1 Individu;516707401;4;50751;1;2;vitamines et minéraux;1;1;2;1;21
+Pop1 Individu;516709801;4;50801;1;2;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;516711001;4;50831;1;2;vitamines et minéraux;2;1;2;1;61
+Pop1 Individu;516711001;4;50832;2;3;vitamines et minéraux;1;3;1;1;999
+Pop1 Individu;516711101;4;50841;1;2;vitamines et minéraux;5;1;2;1;61
+Pop1 Individu;516711301;4;50851;1;1;vitamines et minéraux;5;2;2;1;90
+Pop1 Individu;516711301;4;50852;2;1;vitamines et minéraux;5;1;1;1;120
+Pop1 Individu;516803001;4;50901;1;1;mélange;12;1;1;1;42
+Pop1 Individu;516804901;4;50911;1;1;vitamines et minéraux;1;1;1;3;146
+Pop1 Individu;516807101;4;50961;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;516807401;4;50971;1;1;vitamines et minéraux;5;3;1;1;63
+Pop1 Individu;516900301;4;50991;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;516902201;4;51021;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;516902201;4;51022;2;1;vitamines et minéraux;5;1;4;1;28
+Pop1 Individu;516902201;4;51024;4;1;mélange;12;1;1;1;3.5
+Pop1 Individu;516902201;4;51025;5;1;plantes et produits naturels;8;2;2;3;30
+Pop1 Individu;516903001;4;51041;1;3;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;516903301;4;51051;1;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;516903301;4;51052;2;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;516903301;4;51053;3;2;plantes et produits naturels;8;10;15;1;90
+Pop1 Individu;516903301;4;51054;4;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;516905301;4;51091;1;2;vitamines et minéraux;1;1;1;1;61
+Pop1 Individu;516905301;4;51092;2;3;plantes et produits naturels;8;3;1;1;14
+Pop1 Individu;517000601;4;51101;1;1;plantes et produits naturels;9;2;1;1;42
+Pop1 Individu;517100101;4;51131;1;3;vitamines et minéraux;5;1;1;3;52
+Pop1 Individu;517100101;4;51132;2;1;mélange;12;1;1;1;21
+Pop1 Individu;517100101;4;51133;3;1;plantes et produits naturels;8;2;2;4;4
+Pop1 Individu;517100101;4;51134;4;1;plantes et produits naturels;8;2;1;1;60
+Pop1 Individu;517100501;4;51141;1;2;vitamines et minéraux;1;1;1;1;28
+Pop1 Individu;517100601;4;51151;1;1;plantes et produits naturels;19;2;1;1;30
+Pop1 Individu;517300101;4;51201;1;3;plantes et produits naturels;9;2;1;1;30
+Pop1 Individu;517300901;4;51221;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;517301701;4;51251;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;517301701;4;51252;2;1;plantes et produits naturels;9;8;1;2;365
+Pop1 Individu;517400301;4;51291;1;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;517400301;4;51292;2;1;mélange;12;1;1;1;30
+Pop1 Individu;517402501;4;51331;1;1;plantes et produits naturels;8;11;2;1;21
+Pop1 Individu;517402501;4;51332;2;1;plantes et produits naturels;8;2;1;1;30
+Pop1 Individu;517402501;4;51333;3;1;plantes et produits naturels;8;11;2;1;21
+Pop1 Individu;517402501;4;51334;4;1;vitamines et minéraux;2;6;2;1;14
+Pop1 Individu;517402701;4;51341;1;1;mélange;13;1;1;1;91
+Pop1 Individu;517402701;4;51342;2;3;mélange;27;16;1;5;999
+Pop1 Individu;517402701;4;51343;3;3;mélange;27;16;1;5;999
+Pop1 Individu;517406901;4;51521;1;1;vitamines et minéraux;5;1;1;1;90
+Pop1 Individu;517408201;4;51581;1;1;vitamines et minéraux;2;2;2;1;21
+Pop1 Individu;517500201;4;51611;1;2;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;517506101;4;51671;1;1;mélange;12;1;1;1;7
+Pop1 Individu;517506201;4;51681;1;1;plantes et produits naturels;9;1;1;1;21
+Pop1 Individu;517506501;4;51691;1;2;vitamines et minéraux;1;1;2;1;70
+Pop1 Individu;517506501;4;51692;2;2;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;517507301;4;51701;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;517508501;4;51711;1;1;vitamines et minéraux;3;1;1;2;365
+Pop1 Individu;517508501;4;51712;2;1;mélange;23;1;1;2;365
+Pop1 Individu;517508501;4;51713;3;3;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;517508501;4;51714;4;3;plantes et produits naturels;8;2;3;2;365
+Pop1 Individu;517509801;4;51731;1;2;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;517511601;4;51741;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;517512101;4;51761;1;2;vitamines et minéraux;1;1;1;1;42
+Pop1 Individu;517512101;4;51762;2;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;517512101;4;51763;3;1;mélange;12;1;1;1;7
+Pop1 Individu;517512101;4;51764;4;1;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;517512101;4;51765;5;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;517512801;4;51791;1;1;substances à but nutritionnels;6;2;1;2;365
+Pop1 Individu;517513701;4;51811;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;517513701;4;51812;2;3;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;517514501;4;51831;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;517514501;4;51832;2;2;vitamines et minéraux;1;1;;1;7
+Pop1 Individu;517514601;4;51841;1;2;vitamines et minéraux;1;6;1;4;1
+Pop1 Individu;517516601;4;51851;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;517517401;4;51871;1;2;vitamines et minéraux;5;1;3;1;30
+Pop1 Individu;517517401;4;51872;2;2;vitamines et minéraux;1;1;1;4;4
+Pop1 Individu;517518301;4;51881;1;3;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;517522501;4;51901;1;1;mélange;13;1;1;1;91
+Pop1 Individu;517523001;4;51921;1;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;517603001;4;52041;1;3;vitamines et minéraux;4;13;1;1;14
+Pop1 Individu;517603001;4;52042;2;1;plantes et produits naturels;8;8;1;2;365
+Pop1 Individu;517604101;4;52051;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;517604101;4;52052;2;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;517604101;4;52053;3;1;substances à but nutritionnels;24;1;1;1;14
+Pop1 Individu;517604701;4;52071;1;1;plantes et produits naturels;9;11;1;1;120
+Pop1 Individu;517607001;4;52101;1;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;517701501;4;52151;1;1;mélange;10;12;1;3;146
+Pop1 Individu;517701501;4;52152;2;1;mélange;22;6;1;3;146
+Pop1 Individu;517801401;4;52171;1;2;vitamines et minéraux;1;1;1;1;60
+Pop1 Individu;517801401;4;52172;2;1;plantes et produits naturels;9;3;1;1;7
+Pop1 Individu;517803801;4;52181;1;3;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;518000401;4;52271;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;518000501;4;52281;1;1;vitamines et minéraux;1;1;1;1;3.5
+Pop1 Individu;518000501;4;52282;2;2;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;518201101;4;52351;1;2;vitamines et minéraux;3;1;2;1;7
+Pop1 Individu;518201301;4;52361;1;1;mélange;10;2;3;1;61
+Pop1 Individu;518300501;4;52391;1;3;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;518300501;4;52392;2;2;mélange;12;1;1;3;30
+Pop1 Individu;518300501;4;52393;3;2;vitamines et minéraux;1;1;1;3;30
+Pop1 Individu;518300801;4;52421;1;1;vitamines et minéraux;5;3;2;1;30
+Pop1 Individu;518300801;4;52422;2;1;vitamines et minéraux;1;1;1;1;35
+Pop1 Individu;518300801;4;52423;3;2;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;518301901;4;52441;1;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;518401301;4;52461;1;2;vitamines et minéraux;1;1;1;1;7
+Pop1 Individu;518401501;4;52481;1;1;vitamines et minéraux;5;2;1;2;365
+Pop1 Individu;518401501;4;52482;2;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;518401501;4;52483;3;1;plantes et produits naturels;8;11;1;1;122
+Pop1 Individu;518401701;4;52491;1;1;plantes et produits naturels;8;12;2;1;60
+Pop1 Individu;518401701;4;52492;2;1;vitamines et minéraux;5;2;2;1;60
+Pop1 Individu;518700901;4;52691;1;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;518702501;4;52731;1;1;plantes et produits naturels;9;2;1;1;61
+Pop1 Individu;518702501;4;52732;2;1;plantes et produits naturels;8;3;1;1;42
+Pop1 Individu;518702501;4;52733;3;2;vitamines et minéraux;5;1;1;1;21
+Pop1 Individu;518703201;4;52741;1;1;vitamines et minéraux;3;1;1;1;7
+Pop1 Individu;518703401;4;52751;1;2;substances à but nutritionnels;7;3;1;1;14
+Pop1 Individu;518703401;4;52752;2;1;mélange;11;1;1;1;91
+Pop1 Individu;518703401;4;52753;3;1;plantes et produits naturels;9;2;1;2;365
+Pop1 Individu;518703401;4;52754;4;2;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;518703901;4;52771;1;2;vitamines et minéraux;1;1;1;1;30
+Pop1 Individu;518703901;4;52772;2;3;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;518704501;4;52801;1;2;vitamines et minéraux;1;1;2;2;365
+Pop1 Individu;518705101;4;52811;1;2;vitamines et minéraux;1;3;1;1;21
+Pop1 Individu;518800301;4;52831;1;1;substances à but nutritionnels;7;8;2;1;122
+Pop1 Individu;518801101;4;52861;1;1;vitamines et minéraux;3;1;1;5;999
+Pop1 Individu;519201701;4;52941;1;3;mélange;27;6;1;1;14
+Pop1 Individu;519208801;4;52961;1;1;vitamines et minéraux;3;1;1;1;7
+Pop1 Individu;519301701;4;53071;1;2;vitamines et minéraux;2;2;1;2;365
+Pop1 Individu;519301701;4;53072;2;1;substances à but nutritionnels;7;2;2;1;122
+Pop1 Individu;519301701;4;53073;3;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;519302501;4;53091;1;2;vitamines et minéraux;5;1;3;2;365
+Pop1 Individu;519302501;4;53092;2;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;519304101;4;53101;1;3;vitamines et minéraux;4;2;1;2;365
+Pop1 Individu;519306301;4;53141;1;1;vitamines et minéraux;5;1;1;1;122
+Pop1 Individu;519400301;4;53181;1;1;vitamines et minéraux;5;1;1;1;182
+Pop1 Individu;519400301;4;53182;2;2;vitamines et minéraux;5;1;2;2;365
+Pop1 Individu;519400301;4;53183;3;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;519402401;4;53211;1;2;vitamines et minéraux;1;1;3;1;7
+Pop1 Individu;519406301;4;53241;1;1;mélange;10;4;2;1;42
+Pop1 Individu;519406301;4;53242;2;2;vitamines et minéraux;5;1;2;1;28
+Pop1 Individu;519406301;4;53243;3;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;519407101;4;53251;1;2;vitamines et minéraux;5;1;1;1;42
+Pop1 Individu;519407101;4;53252;2;2;vitamines et minéraux;2;1;2;1;21
+Pop1 Individu;519407101;4;53253;3;1;vitamines et minéraux;1;1;1;1;63
+Pop1 Individu;519407801;4;53261;1;1;plantes et produits naturels;8;1;3;2;365
+Pop1 Individu;519407801;4;53262;2;1;substances à but nutritionnels;7;7;2;3;12
+Pop1 Individu;519407801;4;53263;3;1;plantes et produits naturels;8;7;3;1;7
+Pop1 Individu;519408401;4;53281;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;519408801;4;53311;1;2;vitamines et minéraux;2;1;2;1;28
+Pop1 Individu;519408801;4;53312;2;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;520101001;3;53401;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;520101301;4;53411;1;1;vitamines et minéraux;5;1;2;1;21
+Pop1 Individu;520102001;4;53431;1;2;vitamines et minéraux;5;1;2;1;122
+Pop1 Individu;520604201;4;53501;1;1;vitamines et minéraux;3;11;1;2;365
+Pop1 Individu;520700201;4;53531;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;521100701;4;53551;1;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;521200501;4;53571;1;1;plantes et produits naturels;9;7;1;1;61
+Pop1 Individu;521201901;4;53601;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;521202101;4;53611;1;1;vitamines et minéraux;5;11;1;1;14
+Pop1 Individu;521300301;1;53631;1;2;vitamines et minéraux;1;14;2;2;30
+Pop1 Individu;521301901;3;53641;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;521302501;4;53661;1;1;plantes et produits naturels;9;13;;1;21
+Pop1 Individu;521302501;4;53662;2;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;521303901;4;53701;1;1;plantes et produits naturels;8;1;1;1;7
+Pop1 Individu;521402001;3;53771;1;3;vitamines et minéraux;1;14;3;2;365
+Pop1 Individu;522400601;4;53981;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;522401001;4;54001;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;522500701;4;54041;1;1;plantes et produits naturels;19;11;2;1;3.5
+Pop1 Individu;522701701;2;54171;1;2;vitamines et minéraux;1;14;4;2;91
+Pop1 Individu;523103001;4;54341;1;1;plantes et produits naturels;8;1;1;3;146
+Pop1 Individu;523103001;4;54342;2;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;523200101;4;54371;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;523200901;4;54381;1;1;vitamines et minéraux;5;11;2;4;1
+Pop1 Individu;523301101;4;54401;1;1;vitamines et minéraux;5;1;1;4;4
+Pop1 Individu;523301601;4;54421;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;523301701;4;54431;1;1;mélange;12;1;1;3;52
+Pop1 Individu;523301901;4;54441;1;2;vitamines et minéraux;1;14;1;3;12
+Pop1 Individu;523302401;4;54461;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;523304001;4;54481;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;523401901;4;54541;1;1;mélange;10;4;1;1;30
+Pop1 Individu;523401901;4;54542;2;1;plantes et produits naturels;9;1;2;1;61
+Pop1 Individu;523502601;2;54611;1;2;vitamines et minéraux;1;14;3;2;91
+Pop1 Individu;523503001;1;54631;1;2;vitamines et minéraux;1;13;2;2;30
+Pop1 Individu;523802101;4;54731;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;523802501;4;54751;1;1;plantes et produits naturels;9;3;1;1;14
+Pop1 Individu;523803301;4;54771;1;1;plantes et produits naturels;8;2;1;1;28
+Pop1 Individu;523803301;4;54772;2;1;vitamines et minéraux;2;2;1;1;21
+Pop1 Individu;523804001;4;54811;1;1;vitamines et minéraux;5;1;1;1;61
+Pop1 Individu;523804301;4;54841;1;1;vitamines et minéraux;2;13;2;3;30
+Pop1 Individu;523804301;4;54842;2;1;vitamines et minéraux;5;1;2;1;56
+Pop1 Individu;523804301;4;54843;3;1;plantes et produits naturels;8;14;30;4;6
+Pop1 Individu;523804301;4;54844;4;2;vitamines et minéraux;2;3;1;1;7
+Pop1 Individu;523804301;4;54845;5;2;vitamines et minéraux;4;13;1;1;56
+Pop1 Individu;523900101;4;54891;1;2;vitamines et minéraux;1;1;2;1;7
+Pop1 Individu;524401701;4;55011;1;1;vitamines et minéraux;5;1;1;1;28
+Pop1 Individu;524403001;4;55041;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;524500501;4;55061;1;2;vitamines et minéraux;5;6;2;1;14
+Pop1 Individu;524500501;4;55062;2;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;524901601;4;55151;1;1;vitamines et minéraux;5;1;1;1;60
+Pop1 Individu;524901601;4;55152;2;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;524904101;4;55211;1;1;vitamines et minéraux;3;5;1;1;60
+Pop1 Individu;524904101;4;55212;2;1;plantes et produits naturels;9;13;1;1;14
+Pop1 Individu;524904401;4;55231;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;525602001;4;55331;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;525602001;4;55332;2;2;plantes et produits naturels;9;10;1;1;30
+Pop1 Individu;525602001;4;55333;3;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;525602701;3;55351;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;525603201;4;55371;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;525905701;4;55581;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;525909501;4;55631;1;2;vitamines et minéraux;1;3;1;1;14
+Pop1 Individu;525910401;4;55651;1;1;vitamines et minéraux;1;1;1;1;42
+Pop1 Individu;525910401;4;55652;2;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;526100701;4;55701;1;1;vitamines et minéraux;3;1;1;1;60
+Pop1 Individu;526200701;4;55751;1;1;plantes et produits naturels;9;13;1;1;14
+Pop1 Individu;526201401;4;55781;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;526300201;4;55841;1;1;mélange;13;3;1;1;7
+Pop1 Individu;526300701;4;55861;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;526401101;1;55921;1;2;vitamines et minéraux;1;3;1;2;30
+Pop1 Individu;526701501;4;55971;1;1;plantes et produits naturels;8;4;2;1;21
+Pop1 Individu;526701501;4;55972;2;1;plantes et produits naturels;8;4;2;1;7
+Pop1 Individu;526703001;4;55991;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;526703401;4;56011;1;1;vitamines et minéraux;1;1;1;1;21
+Pop1 Individu;526705001;2;56051;1;3;vitamines et minéraux;1;3;1;1;120
+Pop1 Individu;526705501;1;56061;1;2;vitamines et minéraux;2;11;1;2;30
+Pop1 Individu;526802201;4;56081;1;2;vitamines et minéraux;4;10;3;1;30
+Pop1 Individu;526802901;4;56091;1;1;mélange;11;1;1;1;60
+Pop1 Individu;526803701;4;56101;1;1;vitamines et minéraux;5;1;1;1;14
+Pop1 Individu;526901801;4;56181;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;527100301;4;56231;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;527100301;4;56232;2;3;vitamines et minéraux;5;1;.5;1;14
+Pop1 Individu;527200501;4;56271;1;3;mélange;27;1;4;4;1
+Pop1 Individu;527200501;4;56272;2;3;mélange;27;1;1;4;1
+Pop1 Individu;527200501;4;56273;3;3;mélange;27;1;2;4;1
+Pop1 Individu;527300701;4;56301;1;3;vitamines et minéraux;5;1;1;1;213
+Pop1 Individu;527401701;4;56381;1;1;vitamines et minéraux;4;1;1;1;122
+Pop1 Individu;527404501;4;56451;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;527405301;3;56471;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;527500401;4;56491;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;527505801;4;56601;1;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;527506401;4;56611;1;3;vitamines et minéraux;5;1;1;4;1
+Pop1 Individu;527600201;4;56681;1;1;mélange;23;11;1;1;30
+Pop1 Individu;527600201;4;56682;2;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;527601701;4;56721;1;2;vitamines et minéraux;1;3;1;4;2
+Pop1 Individu;527803101;1;56841;1;2;vitamines et minéraux;1;14;4;2;30
+Pop1 Individu;528200501;4;56921;1;2;vitamines et minéraux;1;3;1;4;4
+Pop1 Individu;528401401;4;56991;1;1;vitamines et minéraux;3;11;1;1;30
+Pop1 Individu;528601501;4;57081;1;3;mélange;27;11;1;1;61
+Pop1 Individu;528701001;3;57151;1;2;vitamines et minéraux;1;14;5;2;365
+Pop1 Individu;528800101;4;57171;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;528800101;4;57172;2;2;vitamines et minéraux;1;3;1;2;365
+Pop1 Individu;528800401;4;57181;1;1;vitamines et minéraux;3;11;1;1;7
+Pop1 Individu;528800401;4;57182;2;1;vitamines et minéraux;5;1;1;1;7
+Pop1 Individu;528800401;4;57183;3;1;mélange;12;1;1;1;7
+Pop1 Individu;529200601;4;57211;1;1;vitamines et minéraux;3;11;1;1;122
+Pop1 Individu;529203101;4;57261;1;1;vitamines et minéraux;3;11;1;1;28
+Pop1 Individu;529203101;4;57262;2;3;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;529301801;4;57381;1;2;vitamines et minéraux;1;3;1;1;7
+Pop1 Individu;529302901;4;57391;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;529302901;4;57392;2;1;vitamines et minéraux;5;1;1;2;365
+Pop1 Individu;529405001;4;57621;1;1;plantes et produits naturels;9;11;1;1;61
+Pop1 Individu;529405101;1;57631;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;529405401;4;57651;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;621403801;4;57691;1;1;mélange;20;7;1;1;61
+Pop1 Individu;623304101;1;57751;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;623504301;1;57781;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;623804801;4;57791;1;3;vitamines et minéraux;1;3;1;1;3.5
+Pop1 Individu;627509401;4;57961;1;1;vitamines et minéraux;3;1;1;1;21
+Pop1 Individu;629206501;4;58001;1;3;vitamines et minéraux;1;1;1;1;14
+Pop1 Individu;720605901;1;58041;1;2;vitamines et minéraux;1;14;5;2;30
+Pop1 Individu;720701701;4;58051;1;1;vitamines et minéraux;1;1;.5;4;4
+Pop1 Individu;721102801;4;58061;1;1;plantes et produits naturels;8;1;1;1;999
+Pop1 Individu;721102801;4;58062;2;1;mélange;12;1;1;2;365
+Pop1 Individu;721102801;4;58063;3;1;vitamines et minéraux;3;5;1;5;999
+Pop1 Individu;721102801;4;58064;4;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;722104101;4;58071;1;1;vitamines et minéraux;5;1;1;1;30
+Pop1 Individu;722504401;4;58091;1;1;vitamines et minéraux;5;6;1;2;365
+Pop1 Individu;723402601;4;58111;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;724403601;4;58141;1;3;mélange;27;2;2;1;14
+Pop1 Individu;727406201;4;58221;1;2;vitamines et minéraux;2;11;2;2;365
+Pop1 Individu;727406201;4;58222;2;2;vitamines et minéraux;5;1;2;1;60
+Pop1 Individu;727406201;4;58223;3;3;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;727508901;1;58231;1;2;vitamines et minéraux;1;13;1;2;30
+Pop1 Individu;729307501;4;58291;1;1;plantes et produits naturels;8;1;6;1;42
+Pop1 Individu;729407101;4;58301;1;2;vitamines et minéraux;1;1;1;2;365
+Pop1 Individu;821203701;4;58311;1;1;vitamines et minéraux;5;1;1;3;146
+Pop1 Individu;821203701;4;58312;2;1;plantes et produits naturels;8;14;15;3;146
+Pop1 Individu;821700901;4;58341;1;1;vitamines et minéraux;5;1;2;1;91
+Pop1 Individu;823806101;4;58391;1;2;vitamines et minéraux;1;3;1;4;1
+Pop1 Individu;823806101;4;58392;2;1;vitamines et minéraux;5;2;1;1;14
+Pop1 Individu;824201201;1;58411;1;2;vitamines et minéraux;5;13;1;2;30
+Pop1 Individu;824904401;4;58421;1;1;vitamines et minéraux;5;1;2;1;30
+Pop1 Individu;826902401;4;58481;1;1;plantes et produits naturels;9;3;.5;1;304
+Pop1 Individu;827404801;4;58501;1;2;vitamines et minéraux;4;3;1;1;14
