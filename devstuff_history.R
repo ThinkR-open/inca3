@@ -1,15 +1,19 @@
 # Hide this file from build
 usethis::use_build_ignore("devstuff_history.R")
+usethis::use_build_ignore("codecov.yml")
+usethis::use_build_ignore(".travis.yml")
 # usethis::use_build_ignore("inst/dev")
 usethis::use_build_ignore("rsconnect")
 usethis::use_git_ignore("docs/")
 usethis::use_git_ignore("rsconnect/")
+usethis::use_git_ignore("inst/docs/")
+usethis::use_git_ignore("inst/fichiers_dataset/")
 # usethis::create_package(".")
 
 # description ----
 library(desc)
 unlink("DESCRIPTION")
-my_desc <- description$new("!new")
+my_desc <- description$new()
 my_desc$set_version("0.0.0.9000")
 my_desc$set(Package = "inca3")
 my_desc$set(Title = "Données de l'étude INCA 3")
@@ -23,7 +27,7 @@ my_desc$set("VignetteBuilder", "knitr")
 my_desc$del("Maintainer")
 my_desc$del("URL")
 my_desc$del("BugReports")
-my_desc$set_version("3.6")
+my_desc$set_version("0.0.0.9000")
 my_desc$write(file = "DESCRIPTION")
 
 # Licence ----
@@ -44,13 +48,20 @@ usethis::use_testthat()
 usethis::use_test("app")
 
 # _CI
-thinkridentity::use_gitlab_ci(image = "thinkr/runnerci", upgrade = "never")
+# thinkridentity::use_gitlab_ci(image = "thinkr/runnerci", upgrade = "never")
 # tic::use_tic()
 # travis::travis_set_pat()
 usethis::use_travis()
 usethis::use_appveyor()
 usethis::use_coverage()
+# CI github
+usethis::use_github_actions()
+usethis::use_github_action(name = "check-standard")
+usethis::use_github_actions_badge("R-CMD-check")
+usethis::use_github_action(name = "pkgdown")
 
+
+#### Badges
 usethis::use_travis_badge()
 usethis::use_appveyor_badge()
 # _rhub
@@ -60,8 +71,8 @@ usethis::use_appveyor_badge()
 # Documentation ----
 # _Readme
 # usethis::use_readme_rmd()
-chameleon::generate_readme_rmd()
-chameleon::generate_readme_rmd(parts = "description")
+# chameleon::generate_readme_rmd()
+# chameleon::generate_readme_rmd(parts = "description")
 # _News
 usethis::use_news_md()
 # _Vignette
@@ -76,11 +87,11 @@ devtools::build_vignettes()
 
 # _Book
 # remotes::install_github(repo = "ThinkR-open/chameleon")
-chameleon::create_book("inst/report", clean = TRUE)
-chameleon::open_guide_function()
-devtools::document()
-chameleon::build_book(clean = TRUE)
-inca3::open_guide()
+# chameleon::create_book("inst/report", clean = TRUE)
+# chameleon::open_guide_function()
+# devtools::document()
+# chameleon::build_book(clean = TRUE)
+# inca3::open_guide()
 
 # _Pkgdown
 chameleon::build_pkgdown(
@@ -150,6 +161,4 @@ files <- list.files("data/")
 files <- gsub(pattern = "\\.rda", replacement = "", files)
 lapply(files, function(x){usethis::use_data_doc(x, description = "Data inca3", source = "Inca3")})
 
-### gitgnore
 
-usethis::use_git_ignore("inst/docs/")

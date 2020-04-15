@@ -8,3 +8,7 @@
 ^_pkgdown\.yml$
 ^docs$
 ^appveyor\.yml$
+^devstuff_history\.R$
+^codecov\.yml$
+^\.travis\.yml$
+^\.github$

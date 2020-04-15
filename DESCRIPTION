@@ -21,6 +21,7 @@ Description: Données de consommations et habitudes alimentaires
     European harmonization process. Public Health Nutrition: 22(4),
     584–600. (doi:10.1017/S1368980018002896).
 License: MIT + file LICENSE
+Depends: R (>= 3.5)
 Suggests: 
     dplyr,
     DT,
