@@ -6,9 +6,9 @@
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.org/Cervangirard/inca3.svg?branch=master)](https://travis-ci.org/Cervangirard/inca3)
+status](https://travis-ci.org/ThinkR-open/inca3.svg?branch=master)](https://travis-ci.org/ThinkR-open/inca3)
 [![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/Cervangirard/inca3?branch=master&svg=true)](https://ci.appveyor.com/project/Cervangirard/inca3)
+status](https://ci.appveyor.com/api/projects/status/github/ThinkR-open/inca3?branch=master&svg=true)](https://ci.appveyor.com/project/ThinkR-open/inca3)
 <!-- badges: end -->
 
 <!-- description: start -->
