@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Données de l'étude INCA 3 • inca3</title>
+<title>Donnees De L'Etude INCA 3 • inca3</title>
 <!-- favicons --><link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="apple-touch-icon.png">
@@ -18,7 +18,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/v4-shims.min.css" integrity="sha256-6qHlizsOWFskGlwVOKuns+D1nB6ssZrHQrNj1wGplHc=" crossorigin="anonymous">
 <!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script><!-- sticky kit --><script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script><!-- pkgdown --><link href="pkgdown.css" rel="stylesheet">
-<script src="pkgdown.js"></script><meta property="og:title" content="Données de l'étude INCA 3">
+<script src="pkgdown.js"></script><meta property="og:title" content="Donnees De L'Etude INCA 3">
 <meta property="og:description" content="Données de consommations et habitudes alimentaires
     de l'étude INCA 3.Carine Dubuisson, Ariane Dufour, Sandrine Carrillo,
     Peggy Drouillet-Pinard, Sabrina Havard, Jean-Luc Volatier (2019). The
@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="index.html">inca3</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.0.0.9000</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.0.1</span>
       </span>
     </div>
 
@@ -88,6 +88,9 @@
     </li>
   </ul>
 </li>
+<li>
+  <a href="news/index.html">Changelog</a>
+</li>
       </ul>
 <ul class="nav navbar-nav navbar-right">
 <li>
@@ -98,7 +101,12 @@
 </ul>
 </div>
         </li>
-        
+        <li>
+  <a href="https://github.com/ThinkR-open/inca3/">
+    <span class="fab fa fab fa-github fa-lg"></span>
+     
+  </a>
+</li>
       </ul>
 </div>
 <!--/.nav-collapse -->
@@ -111,9 +119,10 @@
 
       </header><div class="row">
   <div class="contents col-md-9">
-<div id="inca3" class="section level1">
+<div id="inca3-" class="section level1">
 <div class="page-header"><h1 class="hasAnchor">
-<a href="#inca3" class="anchor"></a>inca3</h1></div>
+<a href="#inca3-" class="anchor"></a>inca3 <img src="pkgdown/favicon/apple-touch-icon.png" align="right" alt="" width="120">
+</h1></div>
 <!-- badges: start -->
 
 <!-- description: start -->
@@ -163,15 +172,24 @@
 <h2 class="hasAnchor">
 <a href="#installation" class="anchor"></a>Installation</h2>
 <!-- install: start -->
-<p>Pour installer le pacakge :</p>
+<p>Pour installer le package :</p>
 <div class="sourceCode" id="cb1"><pre class="r"><span class="co"># install.packages("remotes")</span>
-<span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"thinkr-open/inca3"</span>)</pre></div>
+<span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"thinkr-open/inca3"</span>, <span class="kw">build_vignettes</span> <span class="kw">=</span> <span class="fl">FALSE</span>)</pre></div>
 </div>
 </div>
   </div>
 
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
-    <div class="license">
+    <div class="links">
+<h2>Links</h2>
+<ul class="list-unstyled">
+<li>Browse source code at <br><a href="https://github.com/ThinkR-open/inca3/">https://​github.com/​ThinkR-open/​inca3/​</a>
+</li>
+<li>Report a bug at <br><a href="https://github.com/ThinkR-open/inca3/issues">https://​github.com/​ThinkR-open/​inca3/​issues</a>
+</li>
+</ul>
+</div>
+<div class="license">
 <h2>License</h2>
 <ul class="list-unstyled">
 <li><a href="LICENSE.html">Full license</a></li>
@@ -190,8 +208,6 @@
   <div class="dev-status">
 <h2>Dev status</h2>
 <ul class="list-unstyled">
-<li><a href="https://travis-ci.org/ThinkR-open/inca3"><img src="https://travis-ci.org/ThinkR-open/inca3.svg?branch=master" alt="Travis build status"></a></li>
-<li><a href="https://ci.appveyor.com/project/ThinkR-open/inca3"><img src="https://ci.appveyor.com/api/projects/status/github/ThinkR-open/inca3?branch=master&amp;svg=true" alt="AppVeyor build status"></a></li>
 <li><a href="https://github.com/ThinkR-open/inca3/actions"><img src="https://github.com/ThinkR-open/inca3/workflows/R-CMD-check/badge.svg" alt="R build status"></a></li>
 </ul>
 </div>
