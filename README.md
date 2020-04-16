@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# inca3 <img src="man/figures/thinkr-hex-inca3.png" align="right" alt="" width="120" />
+# inca3 <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 
