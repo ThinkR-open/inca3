@@ -9,6 +9,8 @@
 status](https://travis-ci.org/ThinkR-open/inca3.svg?branch=master)](https://travis-ci.org/ThinkR-open/inca3)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/ThinkR-open/inca3?branch=master&svg=true)](https://ci.appveyor.com/project/ThinkR-open/inca3)
+[![R build
+status](https://github.com/ThinkR-open/inca3/workflows/R-CMD-check/badge.svg)](https://github.com/ThinkR-open/inca3/actions)
 <!-- badges: end -->
 
 <!-- description: start -->
@@ -20,7 +22,11 @@ de l’étude
 Il a pour objectif de faciliter l’utilisation de ces données pour le
 logiciel R.
 
-D’aprés le site de l’anses :
+<hr>
+
+</hr>
+
+## D’aprés le site de l’anses :
 
 > Les études INCA permettent de situer l’alimentation de la population
 > au regard des recommandations du Programme National Nutrition Santé
@@ -59,5 +65,5 @@ Pour installer le pacakge :
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("tinkr-open/inca3")
+remotes::install_github("thinkr-open/inca3")
 ```

@@ -94,35 +94,24 @@ devtools::build_vignettes()
 # inca3::open_guide()
 
 # _Pkgdown
-chameleon::build_pkgdown(
-  # lazy = TRUE,
-  yml = system.file("pkgdown/_pkgdown.yml", package = "thinkridentity"),
-  favicon = system.file("pkgdown/favicon.ico", package = "thinkridentity"),
-  move = TRUE, clean_before = TRUE, clean_after = TRUE
-)
-
-chameleon::open_pkgdown_function(path = "docs")
-# pkg::open_pkgdown()
+# chameleon::build_pkgdown(
+#   # lazy = TRUE,
+#   yml = system.file("pkgdown/_pkgdown.yml", package = "thinkridentity"),
+#   favicon = system.file("logo/logo-inca3.png", package = "inca3"),
+#   move = TRUE, clean_before = TRUE, clean_after = TRUE
+# )
+file.copy("inst/logo/logo-inca3.png", to = "logo.png")
+pkgdown::build_favicons(overwrite = TRUE)
+unlink("logo.png")
+# chameleon::open_pkgdown_function(path = "inst/docs")
+pkgdown::build_site()
+usethis::use_git_ignore("docs/")
+usethis::use_build_ignore("pkgdown/")
 
 ## __ deploy on rsconnect
 usethis::use_git_ignore("docs/rsconnect")
 usethis::use_git_ignore("inst/docs/rsconnect")
 usethis::use_git_ignore("rsconnect")
-
-rsconnect::accounts()
-account_name <- rstudioapi::showPrompt("Rsconnect account", "Please enter your username:", "name")
-account_server <- rstudioapi::showPrompt("Rsconnect server", "Please enter your server name:", "1.1.1.1")
-origwd <- setwd("inst/docs")
-rsconnect::deployApp(
-  ".",                       # the directory containing the content
-  appFiles = list.files(".", recursive = TRUE), # the list of files to include as dependencies (all of them)
-  appPrimaryDoc = "index.html",                 # the primary file
-  appName = "appname",                   # name of the endpoint (unique to your account on Connect)
-  appTitle = "appname",                  # display name for the content
-  account = account_name,                # your Connect username
-  server = account_server                    # the Connect server, see rsconnect::accounts()
-)
-setwd(origwd)
 
 # Dependencies ----
 # devtools::install_github("ThinkR-open/attachment")
@@ -157,8 +146,9 @@ usethis::use_test("helper-config")
 
 ### Documentation
 
-files <- list.files("data/")
-files <- gsub(pattern = "\\.rda", replacement = "", files)
-lapply(files, function(x){usethis::use_data_doc(x, description = "Data inca3", source = "Inca3")})
+# files <- list.files("data/")
+# files <- gsub(pattern = "\\.rda", replacement = "", files)
+# personnel usethis
+# lapply(files, function(x){usethis::use_data_doc(x, description = "Data inca3", source = "Inca3")})
 
 

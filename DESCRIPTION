@@ -5,7 +5,8 @@ Authors@R:
     c(person(given = "Cervan",
              family = "Girard",
              role = "aut",
-             email = "cervan@thinkr.fr"),
+             email = "cervan@thinkr.fr",
+             comment = c(ORCID = "0000-0002-4816-4624")),
       person(given = "Vincent",
              family = "Guyader",
              role = c("aut", "cre"),
@@ -21,7 +22,8 @@ Description: Données de consommations et habitudes alimentaires
     European harmonization process. Public Health Nutrition: 22(4),
     584–600. (doi:10.1017/S1368980018002896).
 License: MIT + file LICENSE
-Depends: R (>= 3.5)
+Depends: 
+    R (>= 3.5)
 Suggests: 
     dplyr,
     DT,

@@ -26,7 +26,9 @@ Le package {inca3} est un pakcage qui contient les jeux de données issu de l'é
 
 Il a pour objectif de faciliter l'utilisation de ces données pour le logiciel R.
 
-D'aprés le site de l'anses :
+<hr></hr>
+
+## D'aprés le site de l'anses :
 
 > Les études INCA permettent de situer l’alimentation de la population au regard des recommandations du Programme National Nutrition Santé (PNNS) et d’envisager de poursuivre, modifier ou renforcer les priorités de la politique nutritionnelle en France.
 
@@ -56,6 +58,6 @@ Pour installer le pacakge :
 
 ```{r, echo=TRUE, eval=FALSE}
 # install.packages("remotes")
-remotes::install_github("tinkr-open/inca3")
+remotes::install_github("thinkr-open/inca3")
 ```
 

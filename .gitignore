@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-inst/docs/
 doc
 Meta
 inst/fichiers_dataset/
+docs/
