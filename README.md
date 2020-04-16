@@ -1,14 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# inca3
+# inca3 <img src="pkgdown/favicon/apple-touch-icon.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.org/ThinkR-open/inca3.svg?branch=master)](https://travis-ci.org/ThinkR-open/inca3)
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/ThinkR-open/inca3?branch=master&svg=true)](https://ci.appveyor.com/project/ThinkR-open/inca3)
 [![R build
 status](https://github.com/ThinkR-open/inca3/workflows/R-CMD-check/badge.svg)](https://github.com/ThinkR-open/inca3/actions)
 <!-- badges: end -->
@@ -61,9 +57,9 @@ logiciel R.
 
 <!-- install: start -->
 
-Pour installer le pacakge :
+Pour installer le package :
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("thinkr-open/inca3")
+remotes::install_github("thinkr-open/inca3", build_vignettes = FALSE)
 ```
