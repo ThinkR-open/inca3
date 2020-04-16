@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# inca3 <img src="man/figures/logo.png" align="right" alt="" width="120" />
+# inca3 <img src="man/figures/thinkr-hex-inca3.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 
@@ -9,20 +9,15 @@
 status](https://github.com/ThinkR-open/inca3/workflows/R-CMD-check/badge.svg)](https://github.com/ThinkR-open/inca3/actions)
 <!-- badges: end -->
 
-<!-- description: start -->
-
-Le package {inca3} est un pakcage qui contient les jeux de données issu
+Le package {inca3} est un package qui contient les jeux de données issus
 de l’étude
-[inca3](https://www.anses.fr/fr/content/etude-inca-3-pr%C3%A9sentation).
+[inca3](https://www.anses.fr/fr/content/etude-inca-3-pr%C3%A9sentation)
+de l’[ANSES](https://www.anses.fr).
 
 Il a pour objectif de faciliter l’utilisation de ces données pour le
 logiciel R.
 
-<hr>
-
-</hr>
-
-## D’aprés le site de l’anses :
+## Présentation des données
 
 > Les études INCA permettent de situer l’alimentation de la population
 > au regard des recommandations du Programme National Nutrition Santé
@@ -53,7 +48,7 @@ logiciel R.
 
 <!-- description: end -->
 
-## Installation
+## Installation du package
 
 <!-- install: start -->
 
@@ -63,3 +58,14 @@ Pour installer le package :
 # install.packages("remotes")
 remotes::install_github("thinkr-open/inca3", build_vignettes = FALSE)
 ```
+
+<!-- install: end -->
+
+## Réferences
+
+Carine Dubuisson, Ariane Dufour, Sandrine Carrillo, Peggy
+Drouillet-Pinard, Sabrina Havard, Jean-Luc Volatier (2019). The Third
+French Individual and National Food Consumption (INCA3) Survey
+2014-2015: method, design and participation rate in the framework of a
+European harmonization process. Public Health Nutrition: 22(4), 584–600.
+[doi:10.1017/S1368980018002896](https://doi.org/10.1017/S1368980018002896).
