@@ -1,6 +1,6 @@
 Package: inca3
-Title: Données de l'étude INCA 3
-Version: 0.0.0.9000
+Title: Donnees De L'Etude INCA 3
+Version: 0.0.1
 Authors@R: 
     c(person(given = "Cervan",
              family = "Girard",
