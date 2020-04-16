@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# inca3 <img src=/home/cervan/R/x86_64-pc-linux-gnu-library/3.6/inca3/logo/logo-inca3.png align="right" alt="" width="120" />
+# inca3 <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
 <!-- badges: start -->
 

@@ -70,6 +70,7 @@ usethis::use_appveyor_badge()
 
 # Documentation ----
 # _Readme
+file.copy("inst/logo/logo-inca3.png", to = "man/figures/logo.png")
 # usethis::use_readme_rmd()
 # chameleon::generate_readme_rmd()
 # chameleon::generate_readme_rmd(parts = "description")
