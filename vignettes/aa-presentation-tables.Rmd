@@ -3,11 +3,7 @@ title: "Présentation données inca3"
 author: "Vincent Guyader"
 date: "`r Sys.Date()`"
 output:
-  bookdown::html_document2:
-    base_format: rmarkdown::html_vignette
-    css: thinkr.css
-    includes:
-      in_header: header_hide.html
+  rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Title}
   %\VignetteEngine{knitr::rmarkdown}

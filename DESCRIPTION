@@ -30,8 +30,7 @@ Suggests:
     knitr,
     purrr,
     rmarkdown,
-    testthat,
-    bookdown
+    testthat
 VignetteBuilder: 
     knitr
 Encoding: UTF-8
