@@ -11,9 +11,10 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+img <- system.file("logo/logo-inca3.png", package = "inca3")
 ```
 
-# inca3 <img src="pkgdown/favicon/apple-touch-icon.png" align="right" alt="" width="120" />
+# inca3 <img src=`r img` align="right" alt="" width="120" />
 
 <!-- badges: start -->
 [![R build status](https://github.com/ThinkR-open/inca3/workflows/R-CMD-check/badge.svg)](https://github.com/ThinkR-open/inca3/actions)

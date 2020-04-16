@@ -4,7 +4,7 @@
 \name{inca3-package}
 \alias{inca3}
 \alias{inca3-package}
-\title{inca3: Données de l'étude INCA 3}
+\title{inca3: Donnees De L'Etude INCA 3}
 \description{
 Données de consommations et habitudes alimentaires
     de l'étude INCA 3.Carine Dubuisson, Ariane Dufour, Sandrine Carrillo,
@@ -14,12 +14,20 @@ Données de consommations et habitudes alimentaires
     European harmonization process. Public Health Nutrition: 22(4),
     584–600. (doi:10.1017/S1368980018002896).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ThinkR-open/inca3}
+  \item Report bugs at \url{https://github.com/ThinkR-open/inca3/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Vincent Guyader \email{vincent@thinkr.fr} (\href{https://orcid.org/0000-0003-0671-9270}{ORCID})
 
 Authors:
 \itemize{
-  \item Cervan Girard \email{cervan@thinkr.fr}
+  \item Cervan Girard \email{cervan@thinkr.fr} (\href{https://orcid.org/0000-0002-4816-4624}{ORCID})
 }
 
 Other contributors:
