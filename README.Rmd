@@ -12,6 +12,8 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 
+library(dplyr)
+library(inca3)
 ```
 
 # inca3 <img src="man/figures/logo.png" align="right" alt="" width="120" />
@@ -57,6 +59,19 @@ remotes::install_github("thinkr-open/inca3", build_vignettes = FALSE)
 ```
 
 <!-- install: end -->
+
+## Utilisation
+
+Description des individus suivis
+```{r}
+head(description_indiv_decode)
+```
+
+Composition des consommations alimentaires des individus
+```{r}
+head(conso_compo_alim)
+```
+
 
 ## Réferences
 Carine Dubuisson, Ariane Dufour, Sandrine Carrillo, Peggy Drouillet-Pinard, Sabrina Havard, Jean-Luc Volatier (2019). The Third French Individual and National Food Consumption (INCA3) Survey 2014-2015: method, design and participation rate in the framework of a European harmonization process. Public Health Nutrition: 22(4), 584–600. [doi:10.1017/S1368980018002896](https://doi.org/10.1017/S1368980018002896).
