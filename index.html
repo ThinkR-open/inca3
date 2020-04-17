@@ -176,6 +176,94 @@
 <span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"thinkr-open/inca3"</span>, <span class="kw">build_vignettes</span> <span class="kw">=</span> <span class="fl">FALSE</span>)</pre></div>
 <!-- install: end -->
 </div>
+<div id="utilisation" class="section level2">
+<h2 class="hasAnchor">
+<a href="#utilisation" class="anchor"></a>Utilisation</h2>
+<p>Description des individus suivis</p>
+<div class="sourceCode" id="cb2"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span>(<span class="no">description_indiv_decode</span>)
+<span class="co">#&gt; # A tibble: 6 x 185</span>
+<span class="co">#&gt;    NOMEN  NOIND ech   enf_allaite pop1  pop2  pop3  pond_indiv_adu_…</span>
+<span class="co">#&gt;    &lt;dbl&gt;  &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;            &lt;dbl&gt;</span>
+<span class="co">#&gt; 1 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Oui             11415.</span>
+<span class="co">#&gt; 2 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Oui              4644.</span>
+<span class="co">#&gt; 3 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Oui              6017.</span>
+<span class="co">#&gt; 4 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Oui              1782.</span>
+<span class="co">#&gt; 5 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Oui              2359.</span>
+<span class="co">#&gt; 6 1.10e6 1.10e8 Adul… &lt;NA&gt;        Oui   Oui   Non             13624.</span>
+<span class="co">#&gt; # … with 177 more variables: pond_indiv_enf_pop1 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   pond_indiv_adu_pop2 &lt;dbl&gt;, pond_indiv_enf_pop2 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   pond_indiv_adu_pop3 &lt;dbl&gt;, pond_indiv_enf_pop3 &lt;dbl&gt;, pond_men_pop1 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   pond_men_pop2 &lt;dbl&gt;, zae &lt;chr&gt;, strate &lt;chr&gt;, fpc1 &lt;dbl&gt;, fpc2 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   fpc3 &lt;dbl&gt;, saison_pop1 &lt;chr&gt;, saison_pop2 &lt;chr&gt;, saison_pop3 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   region_adm_12cl &lt;chr&gt;, region_inca3 &lt;chr&gt;, agglo_5cl &lt;chr&gt;, sex_PS &lt;chr&gt;,</span>
+<span class="co">#&gt; #   tage_PS &lt;chr&gt;, tage_PS_mois &lt;chr&gt;, lien_rep_enf &lt;chr&gt;,</span>
+<span class="co">#&gt; #   diplome_interv &lt;chr&gt;, etude_4cl_interv &lt;chr&gt;, situ_prof_5cl_interv &lt;chr&gt;,</span>
+<span class="co">#&gt; #   atrav_interv &lt;chr&gt;, trav_nuit_interv &lt;chr&gt;, trav_nuit_2cl_interv &lt;chr&gt;,</span>
+<span class="co">#&gt; #   PCS_8cl_interv &lt;chr&gt;, PCS_4cl_interv &lt;chr&gt;, tps_travail_interv &lt;chr&gt;,</span>
+<span class="co">#&gt; #   vacances_interv &lt;chr&gt;, interv_PR &lt;chr&gt;, sex_PR &lt;chr&gt;, tage_PR &lt;chr&gt;,</span>
+<span class="co">#&gt; #   lien_interv_PR &lt;chr&gt;, lien_PS_PR &lt;chr&gt;, diplome_PR &lt;chr&gt;,</span>
+<span class="co">#&gt; #   etude_4cl_PR &lt;chr&gt;, atrav_PR &lt;chr&gt;, PCS_8cl_PR &lt;chr&gt;, PCS_4cl_PR &lt;chr&gt;,</span>
+<span class="co">#&gt; #   tps_travail_PR &lt;chr&gt;, stat_log_2cl &lt;chr&gt;, soins &lt;chr&gt;, situ_fin_3cl &lt;chr&gt;,</span>
+<span class="co">#&gt; #   revenu &lt;chr&gt;, RUC_4cl &lt;chr&gt;, nbpers &lt;dbl&gt;, nbadu &lt;dbl&gt;, nbenf &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   situ_alim_statut &lt;chr&gt;, IA_statut &lt;dbl&gt;, IA_score &lt;dbl&gt;, taille_m &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   taille_d &lt;dbl&gt;, taille &lt;dbl&gt;, poids_m &lt;dbl&gt;, poids_d &lt;dbl&gt;, poids &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   imc &lt;dbl&gt;, statnut &lt;chr&gt;, maladie_allergie_alim &lt;chr&gt;,</span>
+<span class="co">#&gt; #   intoall_confirm_med &lt;chr&gt;, regime_vegetarien &lt;chr&gt;, regime_allergie &lt;chr&gt;,</span>
+<span class="co">#&gt; #   regime_maigrir_med &lt;chr&gt;, regime_maigrir_choix &lt;chr&gt;,</span>
+<span class="co">#&gt; #   regime_autre_med &lt;chr&gt;, regime_raisonmed_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   regime_poidsstable &lt;chr&gt;, regime_forme &lt;chr&gt;, regime_autreraison &lt;chr&gt;,</span>
+<span class="co">#&gt; #   regime_non &lt;chr&gt;, veget_viande &lt;chr&gt;, veget_prodmer &lt;chr&gt;,</span>
+<span class="co">#&gt; #   veget_prodlait &lt;chr&gt;, veget_oeuf &lt;chr&gt;, veget_miel &lt;chr&gt;,</span>
+<span class="co">#&gt; #   veget_autre_alim &lt;chr&gt;, veget_autre_alim_libelle &lt;lgl&gt;,</span>
+<span class="co">#&gt; #   allergie_laitvache &lt;chr&gt;, allergie_prepainfsoja &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_prepainfamande &lt;chr&gt;, allergie_gluten &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_farineble &lt;chr&gt;, allergie_lupin &lt;chr&gt;, allergie_arachide &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_fruitcoque &lt;chr&gt;, allergie_fruitcoque_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_oeuf &lt;chr&gt;, allergie_poisson &lt;chr&gt;, allergie_crustace &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_mollusque &lt;chr&gt;, allergie_soja &lt;chr&gt;, allergie_sesame &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_moutarde &lt;chr&gt;, allergie_sulfite &lt;chr&gt;, allergie_celeri &lt;chr&gt;,</span>
+<span class="co">#&gt; #   allergie_autres_fruitleg &lt;chr&gt;, …</span></pre></div>
+<p>Composition des consommations alimentaires des individus</p>
+<div class="sourceCode" id="cb3"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span>(<span class="no">conso_compo_alim</span>)
+<span class="co">#&gt; # A tibble: 6 x 109</span>
+<span class="co">#&gt;   POPULATION  NOIND NUM_LIGNE R24_num R24_nombre R24_pond occ_hdeb occ_type</span>
+<span class="co">#&gt;   &lt;chr&gt;       &lt;dbl&gt;     &lt;dbl&gt;   &lt;dbl&gt;      &lt;dbl&gt;    &lt;dbl&gt; &lt;drtn&gt;      &lt;dbl&gt;</span>
+<span class="co">#&gt; 1 Pop3       1.10e8         3       1          3        1 39600 s…        4</span>
+<span class="co">#&gt; 2 Pop3       1.10e8        16       1          3        1 45000 s…        5</span>
+<span class="co">#&gt; 3 Pop3       1.10e8    800001       1          3        1 45000 s…        5</span>
+<span class="co">#&gt; 4 Pop3       1.10e8         6       1          3        1 45000 s…        5</span>
+<span class="co">#&gt; 5 Pop3       1.10e8        14       1          3        1 45000 s…        5</span>
+<span class="co">#&gt; 6 Pop3       1.10e8         7       1          3        1 45000 s…        5</span>
+<span class="co">#&gt; # … with 101 more variables: occ_lieu &lt;dbl&gt;, occ_alim_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   occ_alim_num &lt;dbl&gt;, occ_alim_num_seq &lt;dbl&gt;, gpe_INCA3 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   aliment_code_INCA3 &lt;dbl&gt;, aliment_libelle_INCA3 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   aliment_code_FX &lt;chr&gt;, aliment_libelle_FX &lt;chr&gt;, qte_conso &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   qte_conso_pond &lt;dbl&gt;, facette_01 &lt;chr&gt;, facette_01_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_02 &lt;chr&gt;, facette_02_libelle &lt;chr&gt;, facette_03 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_03_libelle &lt;chr&gt;, facette_04 &lt;chr&gt;, facette_04_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_05 &lt;chr&gt;, facette_05_libelle &lt;chr&gt;, facette_06 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_06_libelle &lt;chr&gt;, facette_07 &lt;chr&gt;, facette_07_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_08 &lt;chr&gt;, facette_08_libelle &lt;chr&gt;, facette_09 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_09_libelle &lt;chr&gt;, facette_10 &lt;chr&gt;, facette_10_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_12 &lt;chr&gt;, facette_12_libelle &lt;chr&gt;, aliment_marque_bio &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   aliment_marque_enrichi &lt;dbl&gt;, facette_13 &lt;chr&gt;, facette_13_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_14 &lt;chr&gt;, facette_14_libelle &lt;chr&gt;, facette_19 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_19_libelle &lt;chr&gt;, facette_20 &lt;chr&gt;, facette_20_libelle &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_25 &lt;chr&gt;, facette_25_libelle &lt;chr&gt;, facette_27 &lt;chr&gt;,</span>
+<span class="co">#&gt; #   facette_27_libelle &lt;chr&gt;, aet &lt;dbl&gt;, aesa &lt;dbl&gt;, proteines &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   glucides &lt;dbl&gt;, sucres &lt;dbl&gt;, amidon &lt;dbl&gt;, polyols &lt;dbl&gt;, fibres &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   acides_organiques &lt;dbl&gt;, lipides &lt;dbl&gt;, ags &lt;dbl&gt;, ag_16_0 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   ag_18_0 &lt;dbl&gt;, ag_14_0 &lt;dbl&gt;, ag_12_0 &lt;dbl&gt;, ag_10_0 &lt;dbl&gt;, ag_04_0 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   ag_06_0 &lt;dbl&gt;, ag_08_0 &lt;dbl&gt;, agmi &lt;dbl&gt;, ag_18_1_ole &lt;dbl&gt;, agpi &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   ag_18_2_lino &lt;dbl&gt;, ag_18_3_a_lino &lt;dbl&gt;, ag_20_4_ara &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   ag_20_5_epa &lt;dbl&gt;, ag_20_6_dha &lt;dbl&gt;, alcool &lt;dbl&gt;, eau &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   retinol &lt;dbl&gt;, beta_carotene &lt;dbl&gt;, vitamine_b1 &lt;dbl&gt;, vitamine_b2 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   vitamine_b3 &lt;dbl&gt;, vitamine_b5 &lt;dbl&gt;, vitamine_b6 &lt;dbl&gt;, vitamine_b9 &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   vitamine_b12 &lt;dbl&gt;, vitamine_c &lt;dbl&gt;, vitamine_d &lt;dbl&gt;, vitamine_e &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   vitamine_k2 &lt;dbl&gt;, sodium &lt;dbl&gt;, sel &lt;dbl&gt;, magnesium &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   phosphore &lt;dbl&gt;, potassium &lt;dbl&gt;, calcium &lt;dbl&gt;, manganese &lt;dbl&gt;,</span>
+<span class="co">#&gt; #   fer &lt;dbl&gt;, cuivre &lt;dbl&gt;, zinc &lt;dbl&gt;, selenium &lt;dbl&gt;, …</span></pre></div>
+</div>
 <div id="réferences" class="section level2">
 <h2 class="hasAnchor">
 <a href="#r%C3%A9ferences" class="anchor"></a>Réferences</h2>
