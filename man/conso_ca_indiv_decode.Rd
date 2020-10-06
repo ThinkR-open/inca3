@@ -4,7 +4,8 @@
 \name{conso_ca_indiv_decode}
 \alias{conso_ca_indiv_decode}
 \title{conso_ca_indiv_decode}
-\format{A data frame with 5855 rows and 18 variables:
+\format{
+A data frame with 5855 rows and 18 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -24,7 +25,8 @@
   \item{ saison_autre }{  character }
   \item{ saison_autre_libelle }{  character }
   \item{ saison_nsp }{  character }
-}}
+}
+}
 \source{
 Inca3
 }

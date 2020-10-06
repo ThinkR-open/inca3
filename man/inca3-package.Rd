@@ -6,11 +6,13 @@
 \alias{inca3-package}
 \title{inca3: Donnees De L'Etude INCA 3}
 \description{
+\if{html}{\figure{logo.png}{options: align='right' alt='logo' width='120'}}
+
 Données de consommations et habitudes alimentaires
-    de l'étude INCA 3.Carine Dubuisson, Ariane Dufour, Sandrine Carrillo,
+    de l'étude INCA 3. Carine Dubuisson, Ariane Dufour, Sandrine Carrillo,
     Peggy Drouillet-Pinard, Sabrina Havard, Jean-Luc Volatier (2019). The
     Third French Individual and National Food Consumption (INCA3) Survey
-    2014-2015:method, design and participation rate in the framework of a
+    2014-2015: method, design and participation rate in the framework of a
     European harmonization process. Public Health Nutrition: 22(4),
     584–600. (doi:10.1017/S1368980018002896).
 }

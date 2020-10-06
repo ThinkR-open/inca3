@@ -4,7 +4,8 @@
 \name{conso_compo_alim_decode}
 \alias{conso_compo_alim_decode}
 \title{conso_compo_alim_decode}
-\format{A data frame with 256301 rows and 109 variables:
+\format{
+A data frame with 256301 rows and 109 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -115,7 +116,8 @@
   \item{ zinc }{  numeric }
   \item{ selenium }{  numeric }
   \item{ iode }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

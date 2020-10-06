@@ -4,13 +4,15 @@
 \name{liaison_format}
 \alias{liaison_format}
 \title{liaison_format}
-\format{A data frame with 1577 rows and 4 variables:
+\format{
+A data frame with 1577 rows and 4 variables:
 \describe{
   \item{ VARIABLE }{  character }
   \item{ TYPE }{  character }
   \item{ FORMAT }{  character }
   \item{ LIBELLE }{  character }
-}}
+}
+}
 \source{
 Inca3
 }
