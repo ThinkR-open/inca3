@@ -191,3 +191,28 @@ for ( k in c("actphys_sedent","apports_nut_alim", "conso_ca_indiv", "conso_ca_pr
 #        liaison_format = liaison_format)
 # actphys_sedent_decode <- decode(actphys_sedent,table_correspondance = table_correspondance,
 #        liaison_format = liaison_format)
+
+
+# Recoding apports_nut_alim_decode
+
+nms <- purrr::map(
+  77:81, ~ tabulizer::extract_tables(file = "data-raw/notice-utilisateurs-donnees-inca3-data.gouv.pdf",pages = .x,encoding = "UTF-8")
+)
+
+nms[[1]] <- nms[[1]][[2]]
+
+nms <- map_df(nms, ~ {
+  .x <- as.data.frame(.x)
+  .x <- .x[2:nrow(.x), ]
+  names(.x) <- c("N°","VARIABLE","TYPE","FORMAT", "LIBELLE")
+  tibble::as_tibble(.x)
+  })
+
+cnms <- nms$LIBELLE
+names(cnms) <- nms$VARIABLE
+names(apports_nut_alim_decode) <- cnms[names(apports_nut_alim_decode) ]
+usethis::use_data(apports_nut_alim_decode, overwrite =  TRUE)
+glue::glue(
+  "#'   \\item{% names(apports_nut_alim_decode) %}{  numeric }", .open = "%", .close = "%"
+) %>%
+  clipr::write_clip()

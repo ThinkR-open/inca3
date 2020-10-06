@@ -4,114 +4,114 @@
 #'
 #' @format A data frame with 4114 rows and 108 variables:
 #' \describe{
-#'   \item{ POPULATION }{  character }
-#'   \item{ NOIND }{  numeric }
-#'   \item{ nutriment1 }{  numeric }
-#'   \item{ nutriment2 }{  numeric }
-#'   \item{ nutriment3 }{  numeric }
-#'   \item{ nutriment4 }{  numeric }
-#'   \item{ nutriment5 }{  numeric }
-#'   \item{ nutriment6 }{  numeric }
-#'   \item{ nutriment7 }{  numeric }
-#'   \item{ nutriment8 }{  numeric }
-#'   \item{ nutriment9 }{  numeric }
-#'   \item{ nutriment10 }{  numeric }
-#'   \item{ nutriment11 }{  numeric }
-#'   \item{ nutriment12 }{  numeric }
-#'   \item{ nutriment13 }{  numeric }
-#'   \item{ nutriment14 }{  numeric }
-#'   \item{ nutriment15 }{  numeric }
-#'   \item{ nutriment16 }{  numeric }
-#'   \item{ nutriment17 }{  numeric }
-#'   \item{ nutriment18 }{  numeric }
-#'   \item{ nutriment19 }{  numeric }
-#'   \item{ nutriment20 }{  numeric }
-#'   \item{ nutriment21 }{  numeric }
-#'   \item{ nutriment22 }{  numeric }
-#'   \item{ nutriment23 }{  numeric }
-#'   \item{ nutriment24 }{  numeric }
-#'   \item{ nutriment25 }{  numeric }
-#'   \item{ nutriment26 }{  numeric }
-#'   \item{ nutriment27 }{  numeric }
-#'   \item{ nutriment28 }{  numeric }
-#'   \item{ nutriment29 }{  numeric }
-#'   \item{ nutriment30 }{  numeric }
-#'   \item{ nutriment31 }{  numeric }
-#'   \item{ nutriment32 }{  numeric }
-#'   \item{ nutriment33 }{  numeric }
-#'   \item{ nutriment34 }{  numeric }
-#'   \item{ nutriment35 }{  numeric }
-#'   \item{ nutriment36 }{  numeric }
-#'   \item{ nutriment37 }{  numeric }
-#'   \item{ nutriment38 }{  numeric }
-#'   \item{ nutriment39 }{  numeric }
-#'   \item{ nutriment40 }{  numeric }
-#'   \item{ nutriment41 }{  numeric }
-#'   \item{ nutriment42 }{  numeric }
-#'   \item{ nutriment43 }{  numeric }
-#'   \item{ nutriment44 }{  numeric }
-#'   \item{ nutriment45 }{  numeric }
-#'   \item{ nutriment46 }{  numeric }
-#'   \item{ nutriment47 }{  numeric }
-#'   \item{ nutriment48 }{  numeric }
-#'   \item{ nutriment49 }{  numeric }
-#'   \item{ nutriment50 }{  numeric }
-#'   \item{ nutriment51 }{  numeric }
-#'   \item{ nutriment52 }{  numeric }
-#'   \item{ nutriment53 }{  numeric }
-#'   \item{ nutriment54 }{  numeric }
-#'   \item{ contrib3 }{  numeric }
-#'   \item{ contrib4 }{  numeric }
-#'   \item{ contrib5 }{  numeric }
-#'   \item{ contrib6 }{  numeric }
-#'   \item{ contrib7 }{  numeric }
-#'   \item{ contrib8 }{  numeric }
-#'   \item{ contrib9 }{  numeric }
-#'   \item{ contrib10 }{  numeric }
-#'   \item{ contrib11 }{  numeric }
-#'   \item{ contrib12 }{  numeric }
-#'   \item{ contrib13 }{  numeric }
-#'   \item{ contrib14 }{  numeric }
-#'   \item{ contrib15 }{  numeric }
-#'   \item{ contrib16 }{  numeric }
-#'   \item{ contrib17 }{  numeric }
-#'   \item{ contrib18 }{  numeric }
-#'   \item{ contrib19 }{  numeric }
-#'   \item{ contrib20 }{  numeric }
-#'   \item{ contrib21 }{  numeric }
-#'   \item{ contrib22 }{  numeric }
-#'   \item{ contrib23 }{  numeric }
-#'   \item{ contrib24 }{  numeric }
-#'   \item{ contrib25 }{  numeric }
-#'   \item{ contrib26 }{  numeric }
-#'   \item{ contrib27 }{  numeric }
-#'   \item{ contrib28 }{  numeric }
-#'   \item{ contrib29 }{  numeric }
-#'   \item{ contrib30 }{  numeric }
-#'   \item{ contrib31 }{  numeric }
-#'   \item{ contrib32 }{  numeric }
-#'   \item{ contrib33 }{  numeric }
-#'   \item{ contrib34 }{  numeric }
-#'   \item{ contrib35 }{  numeric }
-#'   \item{ contrib36 }{  numeric }
-#'   \item{ contrib37 }{  numeric }
-#'   \item{ contrib38 }{  numeric }
-#'   \item{ contrib39 }{  numeric }
-#'   \item{ contrib40 }{  numeric }
-#'   \item{ contrib41 }{  numeric }
-#'   \item{ contrib42 }{  numeric }
-#'   \item{ contrib43 }{  numeric }
-#'   \item{ contrib44 }{  numeric }
-#'   \item{ contrib45 }{  numeric }
-#'   \item{ contrib46 }{  numeric }
-#'   \item{ contrib47 }{  numeric }
-#'   \item{ contrib48 }{  numeric }
-#'   \item{ contrib49 }{  numeric }
-#'   \item{ contrib50 }{  numeric }
-#'   \item{ contrib51 }{  numeric }
-#'   \item{ contrib52 }{  numeric }
-#'   \item{ contrib53 }{  numeric }
-#'   \item{ contrib54 }{  numeric }
+#'   \item{Population}{  character }
+#'   \item{Numéro d'individu}{  numeric }
+#'   \item{Energie-Apport énergétique total (AET) (kcal/j)}{  numeric }
+#'   \item{Energie-Apport énergétique sans alcool (AESA) (kcal/j)}{  numeric }
+#'   \item{Protéines (g/j)}{  numeric }
+#'   \item{Glucides (g/j)}{  numeric }
+#'   \item{Sucres (g/j)}{  numeric }
+#'   \item{Amidon (g/j)}{  numeric }
+#'   \item{Polyols (g/j)}{  numeric }
+#'   \item{Fibres (g/j)}{  numeric }
+#'   \item{Acides organiques (g/j)}{  numeric }
+#'   \item{Lipides (g/j)}{  numeric }
+#'   \item{Acides gras saturés (AGS) (g/j)}{  numeric }
+#'   \item{Acide palmitique (g/j)}{  numeric }
+#'   \item{Acide stéarique (g/j)}{  numeric }
+#'   \item{Acide myristique (g/j)}{  numeric }
+#'   \item{Acide laurique (g/j)}{  numeric }
+#'   \item{Acide caprique (g/j)}{  numeric }
+#'   \item{Acide butyrique (g/j)}{  numeric }
+#'   \item{Acide caproïque (g/j)}{  numeric }
+#'   \item{Acide caprylique (g/j)}{  numeric }
+#'   \item{Acides gras mono-insaturés (AGMI) (g/j)}{  numeric }
+#'   \item{Acide oléique (g/j)}{  numeric }
+#'   \item{Acides gras poly-insaturés (AGPI) (g/j)}{  numeric }
+#'   \item{Acide linoléique (g/j)}{  numeric }
+#'   \item{Acide alpha-linolénique (g/j)}{  numeric }
+#'   \item{Acide arachidonique (mg/j)}{  numeric }
+#'   \item{Acide EPA (mg/j)}{  numeric }
+#'   \item{Acide DHA (mg/j)}{  numeric }
+#'   \item{Alcool (g/j)}{  numeric }
+#'   \item{Eau (g/j)}{  numeric }
+#'   \item{Sodium (mg/j)}{  numeric }
+#'   \item{Sel (g/j)}{  numeric }
+#'   \item{Magnésium (mg/j)}{  numeric }
+#'   \item{Phosphore (mg/j)}{  numeric }
+#'   \item{Potassium (mg/j)}{  numeric }
+#'   \item{Calcium (mg/j)}{  numeric }
+#'   \item{Manganèse (mg/j)}{  numeric }
+#'   \item{Fer (mg/j)}{  numeric }
+#'   \item{Cuivre (mg/j)}{  numeric }
+#'   \item{Zinc (mg/j)}{  numeric }
+#'   \item{Sélénium (μg/j)}{  numeric }
+#'   \item{Iode (μg/j)}{  numeric }
+#'   \item{Rétinol (μg/j)}{  numeric }
+#'   \item{Bétacarotène (μg/j)}{  numeric }
+#'   \item{Vitamine B1-Thiamine (mg/j)}{  numeric }
+#'   \item{Vitamine B2-Riboflavine (mg/j)}{  numeric }
+#'   \item{Vitamine B3-Niacine (mg/j)}{  numeric }
+#'   \item{Vitamine B5-Acide pantothénique (mg/j)}{  numeric }
+#'   \item{Vitamine B6-Pyridoxine (mg/j)}{  numeric }
+#'   \item{Vitamine B9-Acide folique (μg/j)}{  numeric }
+#'   \item{Vitamine B12-Cobalamine (μg/j)}{  numeric }
+#'   \item{Vitamine C (mg/j)}{  numeric }
+#'   \item{Vitamine D (μg/j)}{  numeric }
+#'   \item{Vitamine E (mg/j)}{  numeric }
+#'   \item{Vitamine K2 (μg/j)}{  numeric }
+#'   \item{Contribution des Protéines à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Glucides à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Sucres à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Amidon à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Polyols à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Fibres à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Acides organiques à l'AESA (%)}{  numeric }
+#'   \item{Contribution des Lipides à l'AESA (%)}{  numeric }
+#'   \item{Contribution des AGS à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide palmitique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide stéarique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide myristique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide laurique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide caprique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide butyrique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide caproïque à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide caprylique à l'AESA (%)}{  numeric }
+#'   \item{Contribution des AGMI à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide oléique à l'AESA (%)}{  numeric }
+#'   \item{Contribution des AGPI à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide linoléique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide alpha-linolénique à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide arachidonique à AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide EPA à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Acide DHA à l'AESA (%)}{  numeric }
+#'   \item{Contribution de l'Alcool à l'AET (%)}{  numeric }
+#'   \item{Contribution de l'Eau à l'AESA (%)}{  numeric }
+#'   \item{Apports pour 100 kcal de Sodium}{  numeric }
+#'   \item{Apports pour 100 kcal de Sel}{  numeric }
+#'   \item{Apports pour 100 kcal de Magnésium}{  numeric }
+#'   \item{Apports pour 100 kcal de Phosphore}{  numeric }
+#'   \item{Apports pour 100 kcal de Potassium}{  numeric }
+#'   \item{Apports pour 100 kcal de Calcium}{  numeric }
+#'   \item{Apports pour 100 kcal de Manganèse}{  numeric }
+#'   \item{Apports pour 100 kcal de Fer}{  numeric }
+#'   \item{Apports pour 100 kcal de Cuivre}{  numeric }
+#'   \item{Apports pour 100 kcal de Zinc}{  numeric }
+#'   \item{Apports pour 100 kcal de Sélénium}{  numeric }
+#'   \item{Apports pour 100 kcal de Iode}{  numeric }
+#'   \item{Apports pour 100 kcal de Rétinol}{  numeric }
+#'   \item{Apports pour 100 kcal de Bétacarotène}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B1}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B2}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B3}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B5}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B6}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B9}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine B12}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine C}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine D}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine E}{  numeric }
+#'   \item{Apports pour 100 kcal de Vitamine K2}{  numeric }
 #' }
 #' @source Inca3
 "apports_nut_alim_decode"
