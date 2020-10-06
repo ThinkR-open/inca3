@@ -4,7 +4,8 @@
 \name{fpq_decode}
 \alias{fpq_decode}
 \title{fpq_decode}
-\format{A data frame with 4339 rows and 384 variables:
+\format{
+A data frame with 4339 rows and 384 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -390,7 +391,8 @@
   \item{ BNA_jus_raisin_bb_freq_M }{  numeric }
   \item{ BNA_jus_raisin_maison_ON }{  character }
   \item{ BNA_jus_raisin_maison_freq_M }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

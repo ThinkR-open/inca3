@@ -4,7 +4,8 @@
 \name{conso_ca_prod}
 \alias{conso_ca_prod}
 \title{conso_ca_prod}
-\format{A data frame with 2380 rows and 12 variables:
+\format{
+A data frame with 2380 rows and 12 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -18,7 +19,8 @@
   \item{ nb_unit_prod }{  numeric }
   \item{ mode_conso_prod }{  numeric }
   \item{ nb_jours_an }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

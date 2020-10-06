@@ -4,7 +4,8 @@
 \name{conso_gpe_inca3_decode}
 \alias{conso_gpe_inca3_decode}
 \title{conso_gpe_inca3_decode}
-\format{A data frame with 4114 rows and 46 variables:
+\format{
+A data frame with 4114 rows and 46 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -52,7 +53,8 @@
   \item{ conso_gpe42 }{  numeric }
   \item{ conso_gpe43 }{  numeric }
   \item{ conso_gpe44 }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

@@ -4,7 +4,8 @@
 \name{habitudes_men_decode}
 \alias{habitudes_men_decode}
 \title{habitudes_men_decode}
-\format{A data frame with 4372 rows and 167 variables:
+\format{
+A data frame with 4372 rows and 167 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOMEN }{  numeric }
@@ -173,7 +174,8 @@
   \item{ eau_boisson }{  character }
   \item{ bouilloire_elec }{  character }
   \item{ bouilloire_elec_type }{  character }
-}}
+}
+}
 \source{
 Inca3
 }

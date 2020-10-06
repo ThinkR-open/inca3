@@ -4,7 +4,8 @@
 \name{apports_nut_alim}
 \alias{apports_nut_alim}
 \title{apports_nut_alim}
-\format{A data frame with 4114 rows and 108 variables:
+\format{
+A data frame with 4114 rows and 108 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -114,7 +115,8 @@
   \item{ contrib52 }{  numeric }
   \item{ contrib53 }{  numeric }
   \item{ contrib54 }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

@@ -4,7 +4,8 @@
 \name{nomenclature_decode}
 \alias{nomenclature_decode}
 \title{nomenclature_decode}
-\format{A data frame with 36734 rows and 36 variables:
+\format{
+A data frame with 36734 rows and 36 variables:
 \describe{
   \item{ gpe_INCA3 }{  character }
   \item{ aliment_code_INCA3 }{  numeric }
@@ -42,7 +43,8 @@
   \item{ ssgpe_code_FX }{  character }
   \item{ ssgpe_libelle_FX }{  character }
   \item{ Freq }{  numeric }
-}}
+}
+}
 \source{
 Inca3
 }

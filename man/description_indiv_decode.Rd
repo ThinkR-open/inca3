@@ -4,7 +4,8 @@
 \name{description_indiv_decode}
 \alias{description_indiv_decode}
 \title{description_indiv_decode}
-\format{A data frame with 5855 rows and 185 variables:
+\format{
+A data frame with 5855 rows and 185 variables:
 \describe{
   \item{ NOMEN }{  numeric }
   \item{ NOIND }{  numeric }
@@ -191,7 +192,8 @@
   \item{ sousest3 }{  character }
   \item{ sousext }{  character }
   \item{ surext }{  character }
-}}
+}
+}
 \source{
 Inca3
 }

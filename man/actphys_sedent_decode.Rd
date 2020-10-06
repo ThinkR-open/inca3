@@ -4,7 +4,8 @@
 \name{actphys_sedent_decode}
 \alias{actphys_sedent_decode}
 \title{actphys_sedent_decode}
-\format{A data frame with 4725 rows and 93 variables:
+\format{
+A data frame with 4725 rows and 93 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -99,7 +100,8 @@
   \item{ profil_activite }{  character }
   \item{ sedentarite }{  character }
   \item{ sedentarite_duree }{  logical }
-}}
+}
+}
 \source{
 Inca3
 }

@@ -4,7 +4,8 @@
 \name{habitudes_indiv_decode}
 \alias{habitudes_indiv_decode}
 \title{habitudes_indiv_decode}
-\format{A data frame with 4372 rows and 389 variables:
+\format{
+A data frame with 4372 rows and 389 variables:
 \describe{
   \item{ POPULATION }{  character }
   \item{ NOIND }{  numeric }
@@ -395,7 +396,8 @@
   \item{ conso_barbecue_gaz }{  character }
   \item{ conso_barbecue_printps_ete_freq }{  character }
   \item{ conso_barbecue_automn_hiver_freq }{  character }
-}}
+}
+}
 \source{
 Inca3
 }
