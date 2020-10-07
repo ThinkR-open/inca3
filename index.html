@@ -49,7 +49,7 @@
 </script>
 -->
 </head>
-<body>
+<body data-spy="scroll" data-target="#toc">
     <div class="container template-home">
       <header><div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -68,12 +68,6 @@
 
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-<li>
-  <a href="index.html">
-    <span class="fas fa fas fa-home fa-lg"></span>
-     
-  </a>
-</li>
 <li>
   <a href="reference/index.html">Reference</a>
 </li>
@@ -172,15 +166,17 @@
 <a href="#installation-du-package" class="anchor"></a>Installation du package</h2>
 <!-- install: start -->
 <p>Pour installer le package :</p>
-<div class="sourceCode" id="cb1"><pre class="r"><span class="co"># install.packages("remotes")</span>
-<span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"thinkr-open/inca3"</span>, <span class="kw">build_vignettes</span> <span class="kw">=</span> <span class="fl">FALSE</span>)</pre></div>
+<div class="sourceCode" id="cb1"><pre class="downlit">
+<span class="co"># install.packages("remotes")</span>
+<span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"thinkr-open/inca3"</span>, build_vignettes <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></pre></div>
 <!-- install: end -->
 </div>
 <div id="utilisation" class="section level2">
 <h2 class="hasAnchor">
 <a href="#utilisation" class="anchor"></a>Utilisation</h2>
 <p>Description des individus suivis</p>
-<div class="sourceCode" id="cb2"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span>(<span class="no">description_indiv_decode</span>)
+<div class="sourceCode" id="cb2"><pre class="downlit">
+<span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span><span class="op">(</span><span class="va">description_indiv_decode</span><span class="op">)</span>
 <span class="co">#&gt; # A tibble: 6 x 185</span>
 <span class="co">#&gt;    NOMEN  NOIND ech   enf_allaite pop1  pop2  pop3  pond_indiv_adu_…</span>
 <span class="co">#&gt;    &lt;dbl&gt;  &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;            &lt;dbl&gt;</span>
@@ -224,7 +220,8 @@
 <span class="co">#&gt; #   allergie_moutarde &lt;chr&gt;, allergie_sulfite &lt;chr&gt;, allergie_celeri &lt;chr&gt;,</span>
 <span class="co">#&gt; #   allergie_autres_fruitleg &lt;chr&gt;, …</span></pre></div>
 <p>Composition des consommations alimentaires des individus</p>
-<div class="sourceCode" id="cb3"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span>(<span class="no">conso_compo_alim</span>)
+<div class="sourceCode" id="cb3"><pre class="downlit">
+<span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span><span class="op">(</span><span class="va">conso_compo_alim</span><span class="op">)</span>
 <span class="co">#&gt; # A tibble: 6 x 109</span>
 <span class="co">#&gt;   POPULATION  NOIND NUM_LIGNE R24_num R24_nombre R24_pond occ_hdeb occ_type</span>
 <span class="co">#&gt;   &lt;chr&gt;       &lt;dbl&gt;     &lt;dbl&gt;   &lt;dbl&gt;      &lt;dbl&gt;    &lt;dbl&gt; &lt;drtn&gt;      &lt;dbl&gt;</span>
