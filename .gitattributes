@@ -1,0 +1,14 @@
+# Expliciter le comportement par défaut, si l'utilisateur n'a pas activé l'option core.autocrlf
+* text=auto
+
+# Imposer aux étapes de confirmation d'enregistrement que les fichiers utilisent CRLF a chaque fin de ligne.
+*.Rd text eol=lf
+*.R text eol=lf
+*.Rmd text eol=lf
+*.md text eol=lf
+NAMESPACE text eol=lf
+DESCRIPTION text eol=lf
+
+# Dénoter et traiter différemment tous les fichiers dont la nature est réellement binaire et dont la structure ne doit pas être affectée.
+*.png binary
+*.jpg binary
