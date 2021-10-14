@@ -16,6 +16,11 @@ $(document).ready(function () {
 });
 </script>
 
+<style>
+.dataTables_wrapper {
+    overflow-x: scroll;
+}
+</style>
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
