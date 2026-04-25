@@ -1,34 +1,36 @@
 context("Test data length")
 
-path_to_data <- file.path(getwd(), "data")
-files <- list.files(path = path_to_data, full.names = TRUE)
-datasets <- map(files, ~ get(load(.x))) %>% set_names(gsub("\\.rda", "", basename(files)))
+ds_names <- utils::data(package = "inca3")$results[, "Item"]
+env <- new.env()
+for (n in ds_names) {
+  utils::data(list = n, package = "inca3", envir = env)
+}
+datasets <- mget(ds_names, envir = env)
 
 test_that("Check number of row", {
   rows <- read.csv("rows.csv")
-  
-  expect_true(
-    all(
-      map2(names(datasets),
-           rows,
-           ~ {
-             nrow(datasets[[.x]]) == rows[rows$colonne == .x,]$row
-           })
-      )
-    )
-})
+  expected <- setNames(rows$row, rows$colonne)
 
+  expect_setequal(names(datasets), names(expected))
+  for (n in names(datasets)) {
+    expect_equal(
+      nrow(datasets[[n]]),
+      unname(expected[[n]]),
+      info = paste("dataset:", n)
+    )
+  }
+})
 
 test_that("Check number of col", {
   cols <- read.csv("cols.csv")
-  
-  expect_true(
-    all(
-      map2(names(datasets),
-           cols,
-           ~ {
-             ncol(datasets[[.x]]) == cols[cols$colonne == .x,]$col
-           })
+  expected <- setNames(cols$col, cols$colonne)
+
+  expect_setequal(names(datasets), names(expected))
+  for (n in names(datasets)) {
+    expect_equal(
+      ncol(datasets[[n]]),
+      unname(expected[[n]]),
+      info = paste("dataset:", n)
     )
-  )
+  }
 })
